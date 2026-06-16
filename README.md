@@ -1,6 +1,6 @@
 # 🥗 Meal-Kit Subscription Analytics
 
-> A small, fully explainable analytics dashboard for a Nordic meal-kit subscription business. Overview, churn, A/B testing, and demand, each with a simple method.
+> A small analytics dashboard for a simplified Nordic meal-kit subscription business, covering overview metrics, churn risk, A/B testing, and demand forecasting.
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-app-FF4B4B?logo=streamlit&logoColor=white)
@@ -23,8 +23,8 @@ The dashboard is interactive, so the user can change the cutoff week, the predic
 
 | Tab | Business question | Method  | Skills shown |
 |---|---|---|---|
-| **Overview** | How big is the business, and where's the revenue? | SQL on DuckDB (`JOIN`, `GROUP BY`) | SQL, data warehouse |
-| **Churn** | Which customers are about to cancel, and why? | Logistic regression, leakage-safe framing | Churn prediction, predictive modeling |
+| **Overview** | How big is the business, and where's the revenue? | SQL on DuckDB (`JOIN`, `GROUP BY`) | SQL, local analytics database |
+| **Churn** | Which active customers may churn? And why? | Logistic regression, leakage-safe framing | Churn prediction, predictive modeling |
 | **A/B Test** | Did the discount make people reorder? | Two-proportion z-test | A/B testing, experimentation |
 | **Demand** | How many boxes next week? | 4-week moving average | Demand forecasting |
 
@@ -32,7 +32,7 @@ The dashboard is interactive, so the user can change the cutoff week, the predic
 
 - **Leakage-safe churn framing.** The model only uses customer behaviour up to a selected cutoff week, while the churn label is based on what happens after that point. This keeps the prediction setup realistic and avoids using future information by mistake.
 - **Simple, readable model.** I used logistic regression as the main model so the results are easier to interpret. The feature weights give a clear view of which factors increase churn risk, such as longer time since last order or recent late deliveries.
-- **Practical evaluation.** The A/B testing section reports the statistical result and translates it into a short recommendation. The demand section starts with a simple baseline forecast, then points to seasonal forecasting as a natural next step instead of overcomplicating the first version.
+- **Practical evaluation.** The A/B testing section reports the statistical result and translates it into a short recommendation. This is a simple first-pass experiment analysis, not a full causal analysis. The demand section starts with a simple baseline forecast, then points to seasonal forecasting as a natural next step instead of overcomplicating the first version.
 
 ## The data is synthetic (on purpose)
 
@@ -64,6 +64,6 @@ To explore the analyses one step at a time, open the numbered notebooks (`01`–
 
 ## Tech stack
 
-Python · Streamlit · DuckDB (SQL) · pandas . NumPy · scikit-learn · SciPy · Matplotlib
+Python · Streamlit · DuckDB (SQL) · pandas · NumPy · scikit-learn · SciPy · Matplotlib
 
 ---
