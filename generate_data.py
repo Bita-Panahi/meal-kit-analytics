@@ -7,8 +7,13 @@ import duckdb
 SEED = 42
 N_CUSTOMERS = 2000
 N_WEEKS = 52
-BRANDS = ["Adams Matkasse", "Godtlevert", "Linas Matkasse"]
-REGIONS = ["Oslo", "Bergen", "Trondheim", "Stavanger", "Tromso"]
+BRANDS = ["Linas Matkasse", "GodtLevert", "RetNemt"]
+BRAND_COUNTRY = {"Linas Matkasse": "Sweden", "GodtLevert": "Norway", "RetNemt": "Denmark"}
+CITIES = {
+    "Sweden":  ["Stockholm", "Gothenburg", "Malmo", "Uppsala"],
+    "Norway":  ["Oslo", "Bergen", "Trondheim", "Stavanger"],
+    "Denmark": ["Copenhagen", "Aarhus", "Odense", "Aalborg"],
+}
 
 rng = np.random.default_rng(SEED)
 
@@ -18,7 +23,8 @@ DATA_DIR.mkdir(exist_ok=True)
 def make_customers():
     customer_id = np.arange(1, N_CUSTOMERS + 1)
     brand = rng.choice(BRANDS, size=N_CUSTOMERS)
-    region = rng.choice(REGIONS, size=N_CUSTOMERS)
+    country = np.array([BRAND_COUNTRY[b] for b in brand])
+    region = np.array([rng.choice(CITIES[c]) for c in country])
     plan_meals = rng.choice([3, 4, 5], size=N_CUSTOMERS)
 
     # Most customers sign up at week 0, but some join later in the year.
@@ -27,8 +33,7 @@ def make_customers():
 
     loyalty = np.clip(rng.normal(0.88, 0.06, size=N_CUSTOMERS), 0.70, 0.985)
 
-    # A/B TEST SETUP: half the customers are flagged into an experiment.
-    # Of those, half get a discount (treatment) and half don't (control).
+    # A/B TEST SETUP
     in_experiment = rng.random(N_CUSTOMERS) < 0.5
     got_discount = in_experiment & (rng.random(N_CUSTOMERS) < 0.5)
 
@@ -48,8 +53,6 @@ def make_customers():
 def make_orders(customers):
     rows = []
 
-    # Track, per customer, whether they are still active and if their last box
-    # was late. We start everyone inactive until their signup week arrives.
     active = np.zeros(N_CUSTOMERS, dtype=bool)
     last_late = np.zeros(N_CUSTOMERS, dtype=bool)
 
@@ -60,28 +63,19 @@ def make_orders(customers):
     cust_ids = customers["customer_id"].to_numpy()
 
     for week in range(N_WEEKS):
-        # Customers whose signup week is this week become active.
         newly_joined = (signup == week)
         active = active | newly_joined
-
-        # For every currently active customer, compute reorder probability.
-        # Start from loyalty, subtract a penalty if last box was late, add a
-        # small bump for the discount group. np.clip keeps it a valid 0-1 prob.
         p_reorder = loyalty.copy()
         p_reorder = p_reorder - 0.18 * last_late
         p_reorder = p_reorder + 0.08 * discount
         p_reorder = np.clip(p_reorder, 0.0, 0.99)
 
-        # Roll the dice for each active customer.
         draw = rng.random(N_CUSTOMERS)
         orders_this_week = active & (draw < p_reorder)
 
-        # Customers who were active but did NOT reorder have churned == go inactive.
         active = active & orders_this_week
 
-        # Now record an order row for everyone who ordered this week.
         idx = np.where(orders_this_week)[0]
-        # Decide which of these boxes arrive late (about 12% of the time).
         late_flags = rng.random(len(idx)) < 0.12
         last_late[:] = False
         last_late[idx] = late_flags
@@ -103,17 +97,14 @@ def make_orders(customers):
     return orders
 
 def main():
-    # Build the two tables.
     customers = make_customers()
     orders = make_orders(customers)
 
     customers_to_save = customers.drop(columns=["loyalty"])
 
-    # Save as CSV
     customers_to_save.to_csv(DATA_DIR / "customers.csv", index=False)
     orders.to_csv(DATA_DIR / "orders.csv", index=False)
 
-    # Save into a DuckDB database file so queries.sql can run with real SQL.
     db_path = DATA_DIR / "data.duckdb"
     if db_path.exists():
         db_path.unlink()
@@ -122,7 +113,6 @@ def main():
     con.execute("CREATE TABLE orders AS SELECT * FROM orders")
     con.close()
 
-    # Print a short summary
     print("Data created in:", DATA_DIR)
     print(f"  customers.csv : {len(customers_to_save):>6} rows")
     print(f"  orders.csv    : {len(orders):>6} rows")

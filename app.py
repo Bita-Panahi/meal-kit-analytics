@@ -27,6 +27,9 @@ HORIZON = st.sidebar.slider(
 
 @st.cache_data
 def load_data():
+    import os, generate_data
+    if not os.path.exists("data/orders.csv"):
+        generate_data.main()
     orders = pd.read_csv("data/orders.csv")
     customers = pd.read_csv("data/customers.csv")
     return orders, customers
@@ -66,6 +69,11 @@ with tab1:
         FROM orders o JOIN customers c ON o.customer_id = c.customer_id
         GROUP BY c.brand ORDER BY revenue DESC
     """).df()
+    by_region = con.execute("""
+        SELECT region, COUNT(*) AS customers
+        FROM customers
+        GROUP BY region ORDER BY customers DESC
+    """).df()
     con.close()
 
     st.subheader("Revenue per brand")
@@ -80,6 +88,16 @@ with tab1:
     ax.margins(y=0.12)
     fig.tight_layout()
     st.pyplot(fig)
+
+    st.subheader("Customers by region")
+    by_region = by_region.sort_values("customers")
+    fig2, ax2 = plt.subplots(figsize=(8, 5))
+    ax2.barh(by_region["region"], by_region["customers"], color="#2a9d8f")
+    ax2.bar_label(ax2.containers[0], padding=3)
+    ax2.set_xlabel("Customers")
+    ax2.margins(x=0.10)
+    fig2.tight_layout()
+    st.pyplot(fig2)
     
     
 with tab2:

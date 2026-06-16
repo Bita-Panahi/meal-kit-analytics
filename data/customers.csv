@@ -1,2001 +1,2001 @@
 customer_id,brand,region,plan_meals,signup_week,in_experiment,got_discount
-1,Adams Matkasse,Tromso,3,27,False,False
-2,Linas Matkasse,Oslo,5,36,False,False
-3,Godtlevert,Bergen,3,28,True,False
-4,Godtlevert,Trondheim,4,26,True,False
-5,Godtlevert,Stavanger,5,20,True,False
-6,Linas Matkasse,Oslo,5,10,True,False
-7,Adams Matkasse,Trondheim,3,12,False,False
-8,Linas Matkasse,Oslo,4,32,False,False
-9,Adams Matkasse,Stavanger,3,3,False,False
-10,Adams Matkasse,Stavanger,3,3,False,False
-11,Godtlevert,Trondheim,4,17,True,True
-12,Linas Matkasse,Bergen,5,34,True,False
-13,Linas Matkasse,Oslo,5,28,True,False
-14,Linas Matkasse,Tromso,4,25,True,False
-15,Linas Matkasse,Stavanger,3,23,False,False
-16,Linas Matkasse,Bergen,3,4,True,True
-17,Godtlevert,Trondheim,3,14,True,True
-18,Adams Matkasse,Stavanger,3,3,True,True
-19,Linas Matkasse,Stavanger,3,33,True,False
-20,Godtlevert,Trondheim,5,33,False,False
-21,Godtlevert,Bergen,3,11,True,False
-22,Godtlevert,Stavanger,3,12,True,True
-23,Adams Matkasse,Stavanger,4,13,True,True
-24,Linas Matkasse,Trondheim,3,39,False,False
-25,Linas Matkasse,Oslo,4,21,False,False
-26,Godtlevert,Trondheim,3,33,False,False
-27,Godtlevert,Stavanger,3,19,True,True
-28,Linas Matkasse,Tromso,4,30,True,False
-29,Godtlevert,Trondheim,5,23,False,False
-30,Godtlevert,Bergen,4,12,True,True
-31,Godtlevert,Trondheim,4,38,True,False
-32,Adams Matkasse,Oslo,4,31,False,False
-33,Adams Matkasse,Oslo,3,33,True,False
-34,Godtlevert,Stavanger,3,41,True,True
-35,Linas Matkasse,Tromso,4,10,False,False
-36,Adams Matkasse,Tromso,3,4,True,False
-37,Linas Matkasse,Trondheim,5,25,True,True
-38,Linas Matkasse,Oslo,4,14,True,True
-39,Adams Matkasse,Tromso,3,19,False,False
-40,Godtlevert,Trondheim,4,10,True,True
-41,Adams Matkasse,Bergen,3,17,True,True
-42,Linas Matkasse,Tromso,4,17,False,False
-43,Linas Matkasse,Stavanger,5,15,False,False
-44,Godtlevert,Stavanger,3,32,False,False
-45,Adams Matkasse,Bergen,4,26,True,False
-46,Linas Matkasse,Tromso,3,20,True,True
-47,Godtlevert,Trondheim,4,4,False,False
-48,Linas Matkasse,Trondheim,3,25,False,False
-49,Linas Matkasse,Stavanger,4,7,True,False
-50,Linas Matkasse,Stavanger,4,13,False,False
-51,Linas Matkasse,Oslo,3,18,True,True
-52,Adams Matkasse,Bergen,4,6,False,False
-53,Godtlevert,Bergen,5,17,False,False
-54,Godtlevert,Tromso,5,11,True,False
-55,Godtlevert,Stavanger,3,37,False,False
-56,Adams Matkasse,Bergen,4,37,False,False
-57,Godtlevert,Stavanger,5,0,True,False
-58,Adams Matkasse,Stavanger,4,26,True,False
-59,Linas Matkasse,Bergen,3,28,False,False
-60,Linas Matkasse,Trondheim,4,16,True,True
-61,Linas Matkasse,Tromso,3,20,True,True
-62,Linas Matkasse,Trondheim,3,34,True,False
-63,Godtlevert,Oslo,4,16,False,False
-64,Linas Matkasse,Stavanger,4,2,True,True
-65,Godtlevert,Trondheim,5,16,False,False
-66,Adams Matkasse,Trondheim,4,11,True,False
-67,Linas Matkasse,Stavanger,5,16,True,True
-68,Godtlevert,Tromso,4,10,False,False
-69,Adams Matkasse,Bergen,5,6,True,False
-70,Godtlevert,Trondheim,3,43,True,True
-71,Linas Matkasse,Oslo,3,5,True,False
-72,Adams Matkasse,Stavanger,5,31,False,False
-73,Godtlevert,Trondheim,5,31,True,True
-74,Adams Matkasse,Bergen,5,27,True,False
-75,Linas Matkasse,Stavanger,3,40,True,True
-76,Godtlevert,Trondheim,3,0,True,True
-77,Adams Matkasse,Trondheim,5,13,True,False
-78,Adams Matkasse,Trondheim,4,8,False,False
-79,Godtlevert,Bergen,3,25,True,True
-80,Linas Matkasse,Oslo,5,27,True,False
-81,Linas Matkasse,Tromso,5,39,False,False
-82,Godtlevert,Oslo,3,16,False,False
-83,Adams Matkasse,Bergen,5,10,True,False
-84,Linas Matkasse,Stavanger,5,40,True,True
-85,Godtlevert,Oslo,4,29,True,True
-86,Linas Matkasse,Stavanger,4,33,False,False
-87,Adams Matkasse,Stavanger,3,19,True,True
-88,Adams Matkasse,Stavanger,5,19,True,False
-89,Linas Matkasse,Bergen,5,17,True,True
-90,Linas Matkasse,Oslo,5,32,True,True
-91,Godtlevert,Tromso,5,9,True,True
-92,Linas Matkasse,Bergen,3,42,True,True
-93,Linas Matkasse,Tromso,4,7,False,False
-94,Godtlevert,Oslo,4,20,False,False
-95,Linas Matkasse,Oslo,5,13,False,False
-96,Adams Matkasse,Stavanger,4,28,False,False
-97,Adams Matkasse,Tromso,4,29,True,True
-98,Linas Matkasse,Tromso,3,40,False,False
-99,Godtlevert,Stavanger,5,34,False,False
-100,Adams Matkasse,Bergen,4,10,False,False
-101,Linas Matkasse,Tromso,3,9,False,False
-102,Adams Matkasse,Stavanger,5,39,True,False
-103,Linas Matkasse,Oslo,3,21,True,False
-104,Adams Matkasse,Oslo,3,4,True,False
-105,Linas Matkasse,Tromso,3,36,True,False
-106,Linas Matkasse,Bergen,4,28,True,False
-107,Linas Matkasse,Stavanger,3,1,True,True
-108,Godtlevert,Oslo,5,34,True,True
-109,Godtlevert,Bergen,4,26,False,False
-110,Linas Matkasse,Bergen,3,27,False,False
-111,Adams Matkasse,Bergen,3,38,False,False
-112,Linas Matkasse,Stavanger,4,21,True,True
-113,Godtlevert,Tromso,3,20,False,False
-114,Godtlevert,Tromso,5,27,False,False
-115,Godtlevert,Stavanger,3,8,False,False
-116,Godtlevert,Bergen,4,6,False,False
-117,Adams Matkasse,Tromso,3,37,True,False
-118,Adams Matkasse,Trondheim,3,9,True,True
-119,Adams Matkasse,Trondheim,3,22,False,False
-120,Adams Matkasse,Stavanger,3,11,False,False
-121,Godtlevert,Stavanger,5,10,True,False
-122,Linas Matkasse,Tromso,5,26,True,False
-123,Godtlevert,Trondheim,5,35,True,False
-124,Godtlevert,Stavanger,3,19,True,True
-125,Linas Matkasse,Stavanger,5,6,False,False
-126,Godtlevert,Bergen,4,10,False,False
-127,Adams Matkasse,Bergen,3,7,True,False
-128,Linas Matkasse,Stavanger,3,38,True,False
-129,Godtlevert,Oslo,4,14,True,True
-130,Godtlevert,Bergen,4,16,True,True
-131,Godtlevert,Stavanger,3,3,False,False
-132,Godtlevert,Tromso,5,19,False,False
-133,Adams Matkasse,Trondheim,5,40,False,False
-134,Godtlevert,Bergen,4,18,True,True
-135,Linas Matkasse,Trondheim,5,28,False,False
-136,Adams Matkasse,Stavanger,5,8,False,False
-137,Godtlevert,Trondheim,5,6,True,True
-138,Adams Matkasse,Oslo,3,32,False,False
-139,Godtlevert,Trondheim,5,2,False,False
-140,Godtlevert,Trondheim,4,19,False,False
-141,Linas Matkasse,Stavanger,5,13,True,False
-142,Adams Matkasse,Tromso,5,0,True,True
-143,Adams Matkasse,Tromso,3,23,True,False
-144,Godtlevert,Stavanger,4,42,True,False
-145,Linas Matkasse,Bergen,3,3,True,False
-146,Linas Matkasse,Trondheim,3,35,False,False
-147,Adams Matkasse,Oslo,4,23,True,True
-148,Adams Matkasse,Tromso,5,31,True,True
-149,Linas Matkasse,Tromso,5,4,False,False
-150,Adams Matkasse,Tromso,4,38,False,False
-151,Linas Matkasse,Bergen,3,0,True,False
-152,Adams Matkasse,Bergen,4,39,False,False
-153,Linas Matkasse,Tromso,5,28,True,False
-154,Adams Matkasse,Trondheim,5,14,True,True
-155,Godtlevert,Stavanger,3,0,False,False
-156,Godtlevert,Trondheim,3,26,True,True
-157,Adams Matkasse,Trondheim,5,3,True,True
-158,Godtlevert,Stavanger,3,26,True,False
-159,Godtlevert,Tromso,3,34,False,False
-160,Linas Matkasse,Bergen,3,11,True,True
-161,Linas Matkasse,Tromso,4,10,False,False
-162,Godtlevert,Bergen,4,9,True,False
-163,Godtlevert,Trondheim,4,9,False,False
-164,Godtlevert,Tromso,3,5,True,True
-165,Godtlevert,Tromso,5,10,True,True
-166,Linas Matkasse,Tromso,5,29,False,False
-167,Adams Matkasse,Bergen,4,13,False,False
-168,Adams Matkasse,Tromso,3,34,True,True
-169,Godtlevert,Tromso,4,36,True,False
-170,Adams Matkasse,Tromso,5,33,True,True
-171,Adams Matkasse,Oslo,4,23,True,False
-172,Adams Matkasse,Stavanger,3,13,False,False
-173,Linas Matkasse,Tromso,4,40,True,False
-174,Linas Matkasse,Stavanger,4,9,False,False
-175,Linas Matkasse,Bergen,4,20,True,True
-176,Godtlevert,Stavanger,4,19,True,False
-177,Linas Matkasse,Oslo,3,32,True,True
-178,Adams Matkasse,Trondheim,5,24,True,False
-179,Linas Matkasse,Stavanger,4,35,True,False
-180,Godtlevert,Trondheim,4,40,False,False
-181,Linas Matkasse,Stavanger,4,17,True,True
-182,Adams Matkasse,Bergen,4,38,False,False
-183,Godtlevert,Stavanger,3,7,True,False
-184,Linas Matkasse,Stavanger,5,40,True,False
-185,Godtlevert,Stavanger,3,7,True,True
-186,Godtlevert,Bergen,4,37,True,False
-187,Adams Matkasse,Bergen,3,17,False,False
-188,Godtlevert,Bergen,3,42,False,False
-189,Adams Matkasse,Trondheim,3,5,False,False
-190,Adams Matkasse,Trondheim,5,20,False,False
-191,Linas Matkasse,Bergen,4,39,True,False
-192,Godtlevert,Trondheim,4,2,True,False
-193,Godtlevert,Bergen,5,11,False,False
-194,Godtlevert,Bergen,3,3,True,False
-195,Linas Matkasse,Stavanger,4,14,True,True
-196,Adams Matkasse,Tromso,4,17,False,False
-197,Godtlevert,Bergen,4,27,False,False
-198,Adams Matkasse,Tromso,3,11,False,False
-199,Godtlevert,Trondheim,5,6,True,True
-200,Linas Matkasse,Oslo,3,7,False,False
-201,Godtlevert,Bergen,5,41,True,True
-202,Linas Matkasse,Oslo,5,41,True,False
-203,Godtlevert,Oslo,4,9,True,False
-204,Linas Matkasse,Bergen,3,8,False,False
-205,Godtlevert,Trondheim,3,2,False,False
-206,Adams Matkasse,Stavanger,5,42,False,False
-207,Linas Matkasse,Oslo,5,31,True,True
-208,Linas Matkasse,Tromso,5,33,True,False
-209,Adams Matkasse,Bergen,3,12,True,False
-210,Linas Matkasse,Oslo,4,28,False,False
-211,Adams Matkasse,Stavanger,3,2,True,True
-212,Linas Matkasse,Stavanger,5,29,True,False
-213,Linas Matkasse,Stavanger,4,25,False,False
-214,Godtlevert,Oslo,5,14,True,False
-215,Linas Matkasse,Oslo,5,31,False,False
-216,Adams Matkasse,Bergen,5,28,True,False
-217,Adams Matkasse,Trondheim,4,19,False,False
-218,Adams Matkasse,Tromso,4,8,True,False
-219,Godtlevert,Bergen,4,1,True,True
-220,Linas Matkasse,Oslo,3,41,True,True
-221,Adams Matkasse,Tromso,3,12,True,True
-222,Godtlevert,Oslo,4,13,False,False
-223,Linas Matkasse,Oslo,5,29,True,False
-224,Adams Matkasse,Trondheim,4,11,True,True
-225,Linas Matkasse,Trondheim,5,16,False,False
-226,Adams Matkasse,Stavanger,3,31,True,True
-227,Linas Matkasse,Tromso,4,26,False,False
-228,Godtlevert,Tromso,4,28,False,False
-229,Godtlevert,Bergen,4,0,True,True
-230,Adams Matkasse,Tromso,3,19,False,False
-231,Godtlevert,Stavanger,3,20,True,False
-232,Linas Matkasse,Oslo,5,27,True,True
-233,Adams Matkasse,Tromso,4,6,True,False
-234,Linas Matkasse,Oslo,3,7,False,False
-235,Godtlevert,Trondheim,3,33,False,False
-236,Linas Matkasse,Stavanger,3,29,False,False
-237,Godtlevert,Bergen,5,35,False,False
-238,Godtlevert,Bergen,3,11,True,True
-239,Adams Matkasse,Trondheim,5,43,False,False
-240,Godtlevert,Tromso,3,12,False,False
-241,Adams Matkasse,Bergen,4,28,False,False
-242,Godtlevert,Stavanger,3,7,False,False
-243,Adams Matkasse,Trondheim,5,40,False,False
-244,Godtlevert,Oslo,3,14,True,False
-245,Godtlevert,Stavanger,4,35,False,False
-246,Adams Matkasse,Tromso,3,14,False,False
-247,Linas Matkasse,Trondheim,3,34,False,False
-248,Godtlevert,Oslo,3,19,True,True
-249,Linas Matkasse,Oslo,5,2,False,False
-250,Adams Matkasse,Trondheim,4,8,True,False
-251,Adams Matkasse,Trondheim,4,30,True,True
-252,Godtlevert,Trondheim,4,8,False,False
-253,Adams Matkasse,Bergen,5,12,True,True
-254,Adams Matkasse,Trondheim,4,23,False,False
-255,Godtlevert,Bergen,4,11,True,True
-256,Adams Matkasse,Stavanger,3,5,False,False
-257,Linas Matkasse,Stavanger,3,27,False,False
-258,Adams Matkasse,Stavanger,3,30,True,True
-259,Adams Matkasse,Oslo,4,32,False,False
-260,Godtlevert,Tromso,3,41,True,False
-261,Linas Matkasse,Oslo,3,5,False,False
-262,Adams Matkasse,Tromso,3,18,False,False
-263,Adams Matkasse,Oslo,3,10,True,True
-264,Linas Matkasse,Trondheim,5,39,False,False
-265,Linas Matkasse,Oslo,4,23,False,False
-266,Godtlevert,Oslo,5,4,False,False
-267,Godtlevert,Stavanger,4,30,False,False
-268,Godtlevert,Stavanger,5,1,True,True
-269,Godtlevert,Oslo,3,12,False,False
-270,Godtlevert,Tromso,4,31,True,True
-271,Adams Matkasse,Bergen,5,22,True,False
-272,Adams Matkasse,Bergen,4,33,False,False
-273,Adams Matkasse,Bergen,5,25,True,False
-274,Linas Matkasse,Trondheim,3,37,False,False
-275,Godtlevert,Oslo,3,24,True,True
-276,Godtlevert,Trondheim,5,2,False,False
-277,Godtlevert,Bergen,3,3,False,False
-278,Linas Matkasse,Oslo,5,34,True,False
-279,Adams Matkasse,Bergen,5,1,True,True
-280,Adams Matkasse,Stavanger,5,16,True,True
-281,Adams Matkasse,Stavanger,4,0,False,False
-282,Godtlevert,Bergen,5,13,False,False
-283,Linas Matkasse,Bergen,3,26,True,False
-284,Godtlevert,Stavanger,4,7,False,False
-285,Godtlevert,Stavanger,3,20,True,False
-286,Linas Matkasse,Tromso,5,43,True,False
-287,Adams Matkasse,Tromso,5,3,True,True
-288,Godtlevert,Tromso,5,2,True,True
-289,Godtlevert,Tromso,5,11,False,False
-290,Godtlevert,Trondheim,3,36,False,False
-291,Linas Matkasse,Bergen,3,17,False,False
-292,Adams Matkasse,Bergen,5,28,False,False
-293,Linas Matkasse,Bergen,4,1,True,True
-294,Adams Matkasse,Stavanger,3,32,True,False
-295,Godtlevert,Stavanger,5,2,False,False
-296,Godtlevert,Tromso,5,31,False,False
-297,Linas Matkasse,Oslo,4,6,False,False
-298,Godtlevert,Trondheim,5,37,True,True
-299,Adams Matkasse,Bergen,3,13,False,False
-300,Adams Matkasse,Tromso,3,8,False,False
-301,Godtlevert,Bergen,3,14,False,False
-302,Linas Matkasse,Oslo,4,0,False,False
-303,Adams Matkasse,Trondheim,3,7,True,True
-304,Linas Matkasse,Tromso,3,26,True,False
-305,Godtlevert,Tromso,5,13,True,False
-306,Adams Matkasse,Oslo,5,15,True,False
-307,Adams Matkasse,Bergen,5,35,False,False
-308,Godtlevert,Oslo,5,5,False,False
-309,Adams Matkasse,Bergen,5,17,True,True
-310,Adams Matkasse,Trondheim,4,8,True,True
-311,Godtlevert,Bergen,4,21,False,False
-312,Linas Matkasse,Oslo,5,14,False,False
-313,Adams Matkasse,Trondheim,4,2,True,True
-314,Adams Matkasse,Oslo,3,3,False,False
-315,Adams Matkasse,Bergen,5,37,True,False
-316,Godtlevert,Oslo,3,2,True,True
-317,Linas Matkasse,Oslo,5,34,True,False
-318,Linas Matkasse,Trondheim,4,40,False,False
-319,Linas Matkasse,Tromso,5,20,False,False
-320,Linas Matkasse,Stavanger,3,13,False,False
-321,Adams Matkasse,Oslo,4,34,True,False
-322,Adams Matkasse,Oslo,4,43,False,False
-323,Godtlevert,Bergen,4,5,False,False
-324,Linas Matkasse,Stavanger,3,42,True,False
-325,Linas Matkasse,Stavanger,5,41,True,False
-326,Adams Matkasse,Tromso,4,6,True,False
-327,Adams Matkasse,Bergen,5,2,False,False
-328,Adams Matkasse,Oslo,4,31,True,True
-329,Adams Matkasse,Oslo,3,3,True,True
-330,Godtlevert,Oslo,5,26,False,False
-331,Godtlevert,Oslo,3,2,False,False
-332,Godtlevert,Tromso,3,30,False,False
-333,Adams Matkasse,Bergen,5,10,False,False
-334,Linas Matkasse,Tromso,5,4,True,True
-335,Godtlevert,Trondheim,5,2,False,False
-336,Linas Matkasse,Trondheim,4,8,True,False
-337,Linas Matkasse,Trondheim,5,23,True,False
-338,Adams Matkasse,Tromso,3,3,False,False
-339,Adams Matkasse,Oslo,5,35,True,False
-340,Linas Matkasse,Oslo,4,26,True,False
-341,Godtlevert,Trondheim,3,13,False,False
-342,Adams Matkasse,Bergen,4,43,True,True
-343,Godtlevert,Trondheim,4,28,True,False
-344,Godtlevert,Stavanger,3,29,False,False
-345,Linas Matkasse,Trondheim,4,7,False,False
-346,Adams Matkasse,Bergen,4,31,False,False
-347,Linas Matkasse,Bergen,3,24,True,False
-348,Linas Matkasse,Stavanger,3,43,False,False
-349,Adams Matkasse,Bergen,5,21,False,False
-350,Adams Matkasse,Trondheim,4,29,True,False
-351,Godtlevert,Trondheim,4,15,True,True
-352,Adams Matkasse,Stavanger,4,1,True,False
-353,Adams Matkasse,Stavanger,4,5,False,False
-354,Godtlevert,Trondheim,4,38,True,False
-355,Linas Matkasse,Bergen,4,32,False,False
-356,Linas Matkasse,Bergen,5,16,False,False
-357,Adams Matkasse,Trondheim,5,30,True,False
-358,Linas Matkasse,Bergen,3,0,False,False
-359,Adams Matkasse,Stavanger,5,1,True,False
-360,Linas Matkasse,Bergen,5,22,True,False
-361,Linas Matkasse,Stavanger,3,27,False,False
-362,Linas Matkasse,Stavanger,5,41,True,False
-363,Adams Matkasse,Tromso,4,33,False,False
-364,Linas Matkasse,Oslo,5,11,False,False
-365,Adams Matkasse,Stavanger,4,35,True,False
-366,Godtlevert,Oslo,5,21,True,False
-367,Godtlevert,Bergen,3,36,True,False
-368,Adams Matkasse,Oslo,3,7,False,False
-369,Adams Matkasse,Oslo,5,1,False,False
-370,Linas Matkasse,Oslo,4,2,True,True
-371,Godtlevert,Oslo,4,43,False,False
-372,Godtlevert,Tromso,3,3,False,False
-373,Godtlevert,Oslo,3,41,False,False
-374,Godtlevert,Bergen,5,31,True,True
-375,Linas Matkasse,Stavanger,3,6,True,False
-376,Adams Matkasse,Tromso,4,38,True,False
-377,Linas Matkasse,Tromso,3,6,True,True
-378,Linas Matkasse,Oslo,3,6,True,False
-379,Godtlevert,Tromso,3,25,True,False
-380,Adams Matkasse,Stavanger,5,12,True,True
-381,Adams Matkasse,Oslo,5,12,True,True
-382,Linas Matkasse,Trondheim,3,8,True,False
-383,Linas Matkasse,Tromso,4,26,False,False
-384,Adams Matkasse,Bergen,4,1,False,False
-385,Adams Matkasse,Oslo,4,10,True,False
-386,Adams Matkasse,Tromso,5,24,False,False
-387,Adams Matkasse,Tromso,3,21,True,False
-388,Linas Matkasse,Tromso,3,30,False,False
-389,Linas Matkasse,Tromso,4,9,False,False
-390,Adams Matkasse,Tromso,4,28,True,False
-391,Linas Matkasse,Trondheim,3,33,False,False
-392,Adams Matkasse,Oslo,5,17,False,False
-393,Godtlevert,Stavanger,3,11,False,False
-394,Godtlevert,Bergen,3,24,True,False
-395,Linas Matkasse,Trondheim,4,25,True,True
-396,Linas Matkasse,Stavanger,4,4,False,False
-397,Adams Matkasse,Tromso,3,24,True,False
-398,Adams Matkasse,Bergen,3,6,False,False
-399,Adams Matkasse,Bergen,3,25,False,False
-400,Adams Matkasse,Stavanger,4,40,True,False
-401,Linas Matkasse,Oslo,4,23,True,True
-402,Linas Matkasse,Trondheim,3,33,True,True
-403,Adams Matkasse,Stavanger,4,13,True,False
-404,Linas Matkasse,Trondheim,5,40,False,False
-405,Godtlevert,Bergen,3,35,False,False
-406,Godtlevert,Tromso,5,40,True,False
-407,Godtlevert,Bergen,3,32,False,False
-408,Adams Matkasse,Stavanger,3,28,False,False
-409,Linas Matkasse,Trondheim,3,23,False,False
-410,Adams Matkasse,Oslo,3,40,True,False
-411,Adams Matkasse,Trondheim,3,37,False,False
-412,Adams Matkasse,Oslo,4,18,False,False
-413,Adams Matkasse,Tromso,4,3,True,False
-414,Adams Matkasse,Stavanger,5,0,False,False
-415,Adams Matkasse,Bergen,4,10,False,False
-416,Linas Matkasse,Trondheim,4,2,True,True
-417,Linas Matkasse,Stavanger,4,9,False,False
-418,Adams Matkasse,Bergen,3,4,False,False
-419,Adams Matkasse,Bergen,5,43,False,False
-420,Godtlevert,Trondheim,3,4,True,True
-421,Linas Matkasse,Bergen,5,27,False,False
-422,Linas Matkasse,Stavanger,5,15,False,False
-423,Linas Matkasse,Oslo,5,7,False,False
-424,Godtlevert,Tromso,4,30,True,True
-425,Godtlevert,Bergen,3,42,True,True
-426,Adams Matkasse,Trondheim,5,34,False,False
-427,Linas Matkasse,Oslo,3,42,True,True
-428,Linas Matkasse,Bergen,4,25,True,True
-429,Adams Matkasse,Stavanger,5,29,True,False
-430,Linas Matkasse,Bergen,5,6,False,False
-431,Adams Matkasse,Oslo,5,37,True,True
-432,Linas Matkasse,Trondheim,3,32,False,False
-433,Linas Matkasse,Oslo,5,11,False,False
-434,Adams Matkasse,Bergen,3,15,False,False
-435,Godtlevert,Trondheim,4,26,False,False
-436,Adams Matkasse,Trondheim,5,0,True,False
-437,Godtlevert,Stavanger,4,35,False,False
-438,Linas Matkasse,Stavanger,5,12,True,False
-439,Adams Matkasse,Tromso,4,3,False,False
-440,Godtlevert,Oslo,3,14,True,True
-441,Linas Matkasse,Bergen,3,36,False,False
-442,Adams Matkasse,Oslo,4,12,False,False
-443,Adams Matkasse,Oslo,5,23,True,False
-444,Godtlevert,Bergen,4,35,False,False
-445,Godtlevert,Trondheim,5,1,True,False
-446,Godtlevert,Tromso,4,33,True,True
-447,Adams Matkasse,Stavanger,3,12,True,False
-448,Linas Matkasse,Stavanger,3,30,True,False
-449,Godtlevert,Stavanger,4,8,False,False
-450,Adams Matkasse,Oslo,5,6,False,False
-451,Linas Matkasse,Tromso,5,34,True,False
-452,Linas Matkasse,Tromso,3,35,False,False
-453,Godtlevert,Oslo,4,43,False,False
-454,Adams Matkasse,Trondheim,5,29,False,False
-455,Godtlevert,Tromso,4,20,True,True
-456,Godtlevert,Trondheim,3,8,False,False
-457,Adams Matkasse,Tromso,4,12,True,True
-458,Godtlevert,Tromso,3,28,False,False
-459,Linas Matkasse,Trondheim,3,15,False,False
-460,Adams Matkasse,Oslo,4,21,False,False
-461,Linas Matkasse,Bergen,3,7,True,False
-462,Adams Matkasse,Bergen,4,19,True,False
-463,Linas Matkasse,Trondheim,4,10,False,False
-464,Godtlevert,Trondheim,4,4,True,True
-465,Adams Matkasse,Trondheim,4,5,True,False
-466,Linas Matkasse,Oslo,3,22,False,False
-467,Adams Matkasse,Bergen,5,16,False,False
-468,Godtlevert,Stavanger,5,4,True,False
-469,Adams Matkasse,Oslo,5,22,True,True
-470,Linas Matkasse,Bergen,5,7,False,False
-471,Linas Matkasse,Tromso,4,0,True,True
-472,Linas Matkasse,Oslo,5,5,True,False
-473,Godtlevert,Trondheim,4,19,True,True
-474,Godtlevert,Bergen,3,41,True,True
-475,Godtlevert,Oslo,5,10,False,False
-476,Linas Matkasse,Trondheim,3,12,True,False
-477,Linas Matkasse,Trondheim,5,10,True,False
-478,Adams Matkasse,Oslo,4,15,False,False
-479,Godtlevert,Oslo,5,31,True,True
-480,Adams Matkasse,Oslo,4,14,True,False
-481,Adams Matkasse,Stavanger,4,28,False,False
-482,Linas Matkasse,Tromso,3,39,False,False
-483,Adams Matkasse,Oslo,5,41,True,False
-484,Linas Matkasse,Bergen,3,24,True,False
-485,Godtlevert,Bergen,4,31,True,True
-486,Adams Matkasse,Bergen,4,40,True,True
-487,Godtlevert,Bergen,4,34,False,False
-488,Godtlevert,Oslo,3,13,False,False
-489,Linas Matkasse,Trondheim,4,5,False,False
-490,Godtlevert,Bergen,4,5,False,False
-491,Linas Matkasse,Bergen,3,38,True,True
-492,Linas Matkasse,Bergen,3,24,False,False
-493,Linas Matkasse,Tromso,5,13,False,False
-494,Godtlevert,Stavanger,3,15,True,True
-495,Adams Matkasse,Trondheim,3,12,False,False
-496,Godtlevert,Bergen,4,35,True,False
-497,Adams Matkasse,Tromso,3,26,False,False
-498,Godtlevert,Tromso,4,38,False,False
-499,Linas Matkasse,Oslo,3,13,True,False
-500,Godtlevert,Tromso,4,20,False,False
-501,Adams Matkasse,Stavanger,5,5,True,False
-502,Godtlevert,Oslo,4,42,False,False
-503,Linas Matkasse,Stavanger,5,22,True,False
-504,Linas Matkasse,Oslo,5,24,True,False
-505,Adams Matkasse,Oslo,3,18,True,True
-506,Godtlevert,Oslo,4,11,False,False
-507,Godtlevert,Trondheim,3,41,True,False
-508,Adams Matkasse,Stavanger,4,21,False,False
-509,Adams Matkasse,Trondheim,3,29,True,False
-510,Adams Matkasse,Oslo,5,1,True,True
-511,Linas Matkasse,Oslo,3,12,True,True
-512,Linas Matkasse,Tromso,4,35,True,False
-513,Linas Matkasse,Tromso,3,3,False,False
-514,Linas Matkasse,Stavanger,5,4,True,True
-515,Linas Matkasse,Oslo,5,35,False,False
-516,Adams Matkasse,Tromso,5,13,False,False
-517,Linas Matkasse,Stavanger,4,12,False,False
-518,Adams Matkasse,Trondheim,3,24,False,False
-519,Godtlevert,Oslo,5,8,False,False
-520,Godtlevert,Tromso,4,1,False,False
-521,Godtlevert,Trondheim,5,0,False,False
-522,Adams Matkasse,Oslo,5,3,False,False
-523,Adams Matkasse,Bergen,4,6,False,False
-524,Linas Matkasse,Trondheim,5,30,True,False
-525,Adams Matkasse,Oslo,5,13,False,False
-526,Adams Matkasse,Bergen,4,3,True,True
-527,Linas Matkasse,Trondheim,3,0,False,False
-528,Adams Matkasse,Tromso,3,20,False,False
-529,Linas Matkasse,Oslo,4,36,False,False
-530,Linas Matkasse,Trondheim,4,14,False,False
-531,Godtlevert,Tromso,3,2,False,False
-532,Adams Matkasse,Tromso,3,10,False,False
-533,Adams Matkasse,Tromso,5,21,True,True
-534,Adams Matkasse,Oslo,5,8,True,False
-535,Godtlevert,Tromso,3,43,True,True
-536,Adams Matkasse,Tromso,4,33,True,True
-537,Godtlevert,Bergen,3,15,False,False
-538,Adams Matkasse,Trondheim,5,41,False,False
-539,Godtlevert,Trondheim,5,14,False,False
-540,Adams Matkasse,Trondheim,5,6,True,False
-541,Linas Matkasse,Bergen,4,41,False,False
-542,Adams Matkasse,Tromso,4,42,True,False
-543,Adams Matkasse,Tromso,5,13,False,False
-544,Adams Matkasse,Bergen,4,26,False,False
-545,Linas Matkasse,Tromso,4,7,True,False
-546,Adams Matkasse,Bergen,5,28,True,False
-547,Godtlevert,Stavanger,4,30,True,False
-548,Godtlevert,Trondheim,5,31,True,True
-549,Godtlevert,Trondheim,4,25,True,True
-550,Linas Matkasse,Oslo,5,30,True,False
-551,Linas Matkasse,Stavanger,3,24,True,True
-552,Godtlevert,Bergen,3,36,True,True
-553,Linas Matkasse,Bergen,3,7,True,False
-554,Adams Matkasse,Oslo,4,21,False,False
-555,Linas Matkasse,Tromso,5,18,True,True
-556,Godtlevert,Oslo,3,23,False,False
-557,Linas Matkasse,Stavanger,3,6,True,False
-558,Linas Matkasse,Tromso,5,14,True,True
-559,Linas Matkasse,Oslo,5,41,True,True
-560,Linas Matkasse,Trondheim,4,4,False,False
-561,Godtlevert,Trondheim,4,27,True,False
-562,Adams Matkasse,Bergen,4,29,False,False
-563,Godtlevert,Stavanger,3,20,True,True
-564,Adams Matkasse,Trondheim,3,1,False,False
-565,Linas Matkasse,Trondheim,5,1,True,False
-566,Adams Matkasse,Trondheim,4,12,True,False
-567,Adams Matkasse,Tromso,5,4,False,False
-568,Adams Matkasse,Stavanger,5,4,True,True
-569,Godtlevert,Bergen,3,7,True,False
-570,Godtlevert,Tromso,3,8,False,False
-571,Linas Matkasse,Tromso,5,36,True,False
-572,Godtlevert,Tromso,3,28,True,True
-573,Adams Matkasse,Stavanger,4,1,True,False
-574,Adams Matkasse,Bergen,5,27,True,True
-575,Adams Matkasse,Stavanger,5,6,False,False
-576,Godtlevert,Bergen,5,18,False,False
-577,Linas Matkasse,Bergen,3,1,False,False
-578,Godtlevert,Trondheim,3,3,True,True
-579,Linas Matkasse,Tromso,3,5,False,False
-580,Adams Matkasse,Trondheim,3,19,False,False
-581,Adams Matkasse,Bergen,3,20,True,False
-582,Linas Matkasse,Trondheim,5,15,False,False
-583,Adams Matkasse,Bergen,3,27,False,False
-584,Adams Matkasse,Stavanger,5,31,False,False
-585,Godtlevert,Bergen,4,32,True,True
-586,Linas Matkasse,Trondheim,4,25,True,True
-587,Linas Matkasse,Bergen,3,24,False,False
-588,Adams Matkasse,Bergen,3,21,False,False
-589,Linas Matkasse,Tromso,4,10,True,True
-590,Linas Matkasse,Bergen,3,21,True,True
-591,Linas Matkasse,Oslo,5,0,False,False
-592,Linas Matkasse,Bergen,3,42,True,True
-593,Adams Matkasse,Trondheim,3,16,True,True
-594,Linas Matkasse,Oslo,5,33,False,False
-595,Adams Matkasse,Bergen,4,42,True,True
-596,Linas Matkasse,Oslo,3,21,True,False
-597,Godtlevert,Trondheim,5,37,True,True
-598,Linas Matkasse,Stavanger,3,21,False,False
-599,Godtlevert,Tromso,5,5,True,False
-600,Godtlevert,Bergen,5,1,False,False
-601,Godtlevert,Tromso,5,5,False,False
-602,Linas Matkasse,Bergen,5,41,False,False
-603,Linas Matkasse,Stavanger,3,20,False,False
-604,Adams Matkasse,Trondheim,5,14,False,False
-605,Linas Matkasse,Stavanger,3,19,True,True
-606,Godtlevert,Stavanger,4,11,False,False
-607,Adams Matkasse,Trondheim,3,38,False,False
-608,Godtlevert,Bergen,4,43,False,False
-609,Linas Matkasse,Trondheim,5,3,True,True
-610,Linas Matkasse,Tromso,4,31,True,True
-611,Linas Matkasse,Tromso,3,14,False,False
-612,Godtlevert,Tromso,3,2,True,False
-613,Linas Matkasse,Oslo,5,40,False,False
-614,Godtlevert,Trondheim,4,2,True,True
-615,Linas Matkasse,Oslo,4,9,False,False
-616,Godtlevert,Stavanger,4,1,False,False
-617,Adams Matkasse,Tromso,3,20,True,False
-618,Adams Matkasse,Oslo,4,26,True,False
-619,Adams Matkasse,Stavanger,4,14,False,False
-620,Adams Matkasse,Tromso,5,3,True,True
-621,Godtlevert,Tromso,4,5,True,True
-622,Godtlevert,Bergen,5,41,False,False
-623,Adams Matkasse,Oslo,5,35,True,True
-624,Godtlevert,Tromso,3,41,False,False
-625,Godtlevert,Tromso,4,23,True,False
-626,Adams Matkasse,Trondheim,4,24,True,False
-627,Godtlevert,Tromso,3,34,False,False
-628,Godtlevert,Oslo,3,27,True,False
-629,Godtlevert,Stavanger,5,19,True,False
-630,Godtlevert,Oslo,4,12,False,False
-631,Linas Matkasse,Tromso,3,21,False,False
-632,Adams Matkasse,Stavanger,3,2,False,False
-633,Godtlevert,Tromso,3,8,False,False
-634,Godtlevert,Trondheim,3,32,True,True
-635,Adams Matkasse,Oslo,3,38,True,True
-636,Linas Matkasse,Oslo,5,4,False,False
-637,Adams Matkasse,Bergen,5,4,False,False
-638,Adams Matkasse,Stavanger,4,3,False,False
-639,Linas Matkasse,Oslo,4,34,True,False
-640,Linas Matkasse,Tromso,5,13,True,False
-641,Linas Matkasse,Bergen,5,14,True,True
-642,Linas Matkasse,Trondheim,3,0,False,False
-643,Linas Matkasse,Bergen,5,42,False,False
-644,Godtlevert,Trondheim,3,19,True,False
-645,Linas Matkasse,Trondheim,3,35,True,True
-646,Adams Matkasse,Oslo,4,31,True,True
-647,Godtlevert,Trondheim,5,6,True,True
-648,Godtlevert,Stavanger,3,35,False,False
-649,Linas Matkasse,Tromso,3,24,False,False
-650,Linas Matkasse,Bergen,3,26,True,True
-651,Godtlevert,Tromso,4,8,False,False
-652,Godtlevert,Tromso,5,37,False,False
-653,Adams Matkasse,Tromso,3,40,True,True
-654,Linas Matkasse,Bergen,3,17,True,True
-655,Godtlevert,Tromso,3,4,True,True
-656,Godtlevert,Trondheim,3,37,True,True
-657,Linas Matkasse,Oslo,3,39,False,False
-658,Godtlevert,Bergen,4,22,False,False
-659,Adams Matkasse,Stavanger,4,25,True,True
-660,Adams Matkasse,Oslo,4,9,True,False
-661,Adams Matkasse,Trondheim,5,2,False,False
-662,Linas Matkasse,Stavanger,4,41,True,False
-663,Adams Matkasse,Oslo,3,21,False,False
-664,Adams Matkasse,Trondheim,4,12,False,False
-665,Godtlevert,Bergen,3,30,False,False
-666,Linas Matkasse,Trondheim,5,1,False,False
-667,Godtlevert,Bergen,3,3,False,False
-668,Linas Matkasse,Tromso,3,10,False,False
-669,Linas Matkasse,Oslo,5,19,True,True
-670,Adams Matkasse,Tromso,4,16,True,False
-671,Linas Matkasse,Stavanger,3,8,True,True
-672,Godtlevert,Tromso,5,15,True,False
-673,Godtlevert,Tromso,3,14,True,False
-674,Adams Matkasse,Oslo,5,23,True,False
-675,Godtlevert,Tromso,5,24,True,False
-676,Linas Matkasse,Trondheim,4,38,True,False
-677,Godtlevert,Tromso,4,35,True,True
-678,Adams Matkasse,Tromso,4,12,False,False
-679,Godtlevert,Trondheim,4,39,False,False
-680,Linas Matkasse,Bergen,3,22,False,False
-681,Linas Matkasse,Oslo,3,8,False,False
-682,Adams Matkasse,Oslo,3,14,False,False
-683,Linas Matkasse,Bergen,5,32,False,False
-684,Linas Matkasse,Tromso,3,36,True,False
-685,Adams Matkasse,Trondheim,4,16,False,False
-686,Linas Matkasse,Trondheim,5,6,True,False
-687,Godtlevert,Bergen,5,8,False,False
-688,Godtlevert,Trondheim,3,4,False,False
-689,Godtlevert,Stavanger,3,30,True,False
-690,Linas Matkasse,Tromso,5,22,False,False
-691,Linas Matkasse,Stavanger,3,19,True,False
-692,Linas Matkasse,Stavanger,3,29,True,True
-693,Linas Matkasse,Tromso,5,36,True,False
-694,Linas Matkasse,Trondheim,5,35,True,False
-695,Adams Matkasse,Tromso,5,6,True,True
-696,Adams Matkasse,Bergen,5,25,False,False
-697,Linas Matkasse,Oslo,3,38,False,False
-698,Godtlevert,Trondheim,3,34,True,False
-699,Adams Matkasse,Oslo,3,14,False,False
-700,Adams Matkasse,Oslo,3,17,True,False
-701,Godtlevert,Tromso,5,39,True,True
-702,Godtlevert,Stavanger,3,1,False,False
-703,Adams Matkasse,Bergen,4,23,False,False
-704,Adams Matkasse,Tromso,5,5,True,True
-705,Adams Matkasse,Oslo,5,39,True,True
-706,Godtlevert,Bergen,3,1,False,False
-707,Adams Matkasse,Stavanger,4,1,False,False
-708,Godtlevert,Bergen,4,14,True,True
-709,Godtlevert,Stavanger,5,8,True,True
-710,Godtlevert,Tromso,4,21,True,False
-711,Linas Matkasse,Oslo,3,13,False,False
-712,Godtlevert,Oslo,5,15,False,False
-713,Linas Matkasse,Tromso,5,24,False,False
-714,Linas Matkasse,Trondheim,4,24,True,True
-715,Linas Matkasse,Trondheim,3,41,False,False
-716,Linas Matkasse,Trondheim,4,21,False,False
-717,Godtlevert,Trondheim,5,24,True,False
-718,Godtlevert,Stavanger,5,29,False,False
-719,Adams Matkasse,Trondheim,4,7,True,True
-720,Godtlevert,Oslo,3,29,True,True
-721,Adams Matkasse,Stavanger,4,37,False,False
-722,Linas Matkasse,Stavanger,5,13,True,False
-723,Linas Matkasse,Oslo,5,7,False,False
-724,Adams Matkasse,Bergen,3,15,False,False
-725,Linas Matkasse,Stavanger,3,12,True,True
-726,Adams Matkasse,Stavanger,4,25,True,True
-727,Linas Matkasse,Oslo,3,38,False,False
-728,Adams Matkasse,Oslo,5,26,True,False
-729,Godtlevert,Trondheim,3,5,False,False
-730,Godtlevert,Trondheim,4,13,True,False
-731,Linas Matkasse,Tromso,5,30,True,True
-732,Godtlevert,Trondheim,5,14,False,False
-733,Linas Matkasse,Tromso,5,25,True,True
-734,Linas Matkasse,Bergen,3,30,False,False
-735,Adams Matkasse,Trondheim,5,14,False,False
-736,Linas Matkasse,Oslo,4,28,True,False
-737,Linas Matkasse,Trondheim,3,17,False,False
-738,Godtlevert,Oslo,4,5,False,False
-739,Linas Matkasse,Trondheim,4,16,False,False
-740,Linas Matkasse,Bergen,4,19,True,False
-741,Linas Matkasse,Oslo,3,0,True,False
-742,Linas Matkasse,Oslo,4,39,False,False
-743,Godtlevert,Trondheim,4,23,False,False
-744,Adams Matkasse,Tromso,3,1,False,False
-745,Linas Matkasse,Oslo,5,38,False,False
-746,Godtlevert,Trondheim,3,37,False,False
-747,Godtlevert,Bergen,5,0,True,False
-748,Adams Matkasse,Tromso,3,7,False,False
-749,Adams Matkasse,Trondheim,5,16,True,True
-750,Adams Matkasse,Tromso,4,22,True,True
-751,Linas Matkasse,Bergen,3,31,False,False
-752,Adams Matkasse,Oslo,3,18,True,True
-753,Adams Matkasse,Trondheim,5,26,True,True
-754,Linas Matkasse,Stavanger,5,0,False,False
-755,Godtlevert,Tromso,3,28,False,False
-756,Godtlevert,Tromso,4,40,False,False
-757,Linas Matkasse,Tromso,4,23,False,False
-758,Godtlevert,Stavanger,3,20,True,False
-759,Adams Matkasse,Bergen,4,13,False,False
-760,Linas Matkasse,Trondheim,5,41,True,False
-761,Adams Matkasse,Oslo,5,1,True,False
-762,Godtlevert,Trondheim,5,12,True,False
-763,Linas Matkasse,Bergen,3,6,True,False
-764,Linas Matkasse,Oslo,3,38,False,False
-765,Godtlevert,Bergen,4,21,True,True
-766,Linas Matkasse,Trondheim,3,40,False,False
-767,Godtlevert,Bergen,4,29,True,False
-768,Godtlevert,Tromso,3,24,True,False
-769,Adams Matkasse,Trondheim,3,22,False,False
-770,Godtlevert,Tromso,3,8,False,False
-771,Godtlevert,Stavanger,3,24,False,False
-772,Linas Matkasse,Oslo,5,30,True,False
-773,Adams Matkasse,Bergen,3,42,True,False
-774,Linas Matkasse,Stavanger,5,24,False,False
-775,Linas Matkasse,Trondheim,3,41,False,False
-776,Linas Matkasse,Bergen,3,41,True,False
-777,Godtlevert,Trondheim,4,22,False,False
-778,Adams Matkasse,Tromso,5,19,False,False
-779,Adams Matkasse,Bergen,3,6,False,False
-780,Linas Matkasse,Oslo,3,11,True,True
-781,Linas Matkasse,Bergen,5,38,False,False
-782,Godtlevert,Tromso,4,6,True,True
-783,Adams Matkasse,Stavanger,4,17,False,False
-784,Adams Matkasse,Tromso,5,30,True,True
-785,Godtlevert,Tromso,5,10,True,True
-786,Godtlevert,Oslo,4,42,True,False
-787,Adams Matkasse,Bergen,4,28,False,False
-788,Linas Matkasse,Oslo,3,1,False,False
-789,Godtlevert,Oslo,3,10,False,False
-790,Adams Matkasse,Tromso,4,32,False,False
-791,Adams Matkasse,Tromso,3,37,False,False
-792,Godtlevert,Oslo,5,40,False,False
-793,Linas Matkasse,Stavanger,5,37,True,False
-794,Linas Matkasse,Trondheim,3,3,False,False
-795,Godtlevert,Oslo,4,32,True,False
-796,Adams Matkasse,Tromso,3,4,True,False
-797,Linas Matkasse,Tromso,4,3,True,False
-798,Godtlevert,Trondheim,3,30,True,False
-799,Adams Matkasse,Stavanger,4,21,False,False
-800,Godtlevert,Bergen,4,28,False,False
-801,Adams Matkasse,Stavanger,4,37,True,True
-802,Adams Matkasse,Trondheim,4,3,False,False
-803,Godtlevert,Tromso,3,23,True,False
-804,Linas Matkasse,Oslo,5,36,True,False
-805,Linas Matkasse,Oslo,5,19,True,True
-806,Linas Matkasse,Tromso,5,23,True,False
-807,Godtlevert,Bergen,4,21,True,False
-808,Adams Matkasse,Bergen,5,39,True,True
-809,Godtlevert,Stavanger,4,2,True,True
-810,Linas Matkasse,Oslo,5,38,True,True
-811,Adams Matkasse,Trondheim,3,35,False,False
-812,Linas Matkasse,Bergen,3,35,True,False
-813,Linas Matkasse,Oslo,4,18,True,False
-814,Adams Matkasse,Tromso,4,22,False,False
-815,Linas Matkasse,Oslo,5,16,True,True
-816,Linas Matkasse,Oslo,3,11,False,False
-817,Adams Matkasse,Stavanger,5,38,True,True
-818,Adams Matkasse,Tromso,3,22,False,False
-819,Godtlevert,Oslo,4,31,False,False
-820,Linas Matkasse,Stavanger,5,4,False,False
-821,Adams Matkasse,Trondheim,4,34,False,False
-822,Godtlevert,Tromso,5,28,True,True
-823,Adams Matkasse,Oslo,5,43,True,False
-824,Godtlevert,Tromso,5,5,True,True
-825,Godtlevert,Stavanger,4,23,False,False
-826,Adams Matkasse,Tromso,4,22,True,False
-827,Linas Matkasse,Bergen,3,23,True,False
-828,Linas Matkasse,Tromso,4,2,False,False
-829,Linas Matkasse,Stavanger,5,20,True,True
-830,Adams Matkasse,Oslo,4,13,True,False
-831,Adams Matkasse,Tromso,4,27,False,False
-832,Adams Matkasse,Stavanger,3,10,True,False
-833,Godtlevert,Bergen,4,19,False,False
-834,Adams Matkasse,Trondheim,3,27,False,False
-835,Linas Matkasse,Bergen,5,2,False,False
-836,Linas Matkasse,Trondheim,4,34,True,True
-837,Linas Matkasse,Tromso,3,31,True,False
-838,Adams Matkasse,Tromso,3,2,False,False
-839,Adams Matkasse,Bergen,5,2,False,False
-840,Linas Matkasse,Tromso,5,37,False,False
-841,Adams Matkasse,Trondheim,5,12,True,False
-842,Godtlevert,Stavanger,3,37,True,False
-843,Linas Matkasse,Stavanger,3,21,True,True
-844,Adams Matkasse,Trondheim,3,15,True,True
-845,Adams Matkasse,Trondheim,5,12,True,True
-846,Adams Matkasse,Trondheim,5,28,False,False
-847,Adams Matkasse,Tromso,5,4,True,True
-848,Adams Matkasse,Bergen,3,17,False,False
-849,Linas Matkasse,Bergen,3,15,False,False
-850,Godtlevert,Bergen,5,6,True,True
-851,Linas Matkasse,Oslo,5,15,False,False
-852,Linas Matkasse,Bergen,5,23,False,False
-853,Linas Matkasse,Oslo,3,29,True,True
-854,Adams Matkasse,Oslo,3,3,True,False
-855,Adams Matkasse,Stavanger,3,38,False,False
-856,Linas Matkasse,Oslo,5,38,False,False
-857,Adams Matkasse,Trondheim,5,30,False,False
-858,Adams Matkasse,Stavanger,4,40,False,False
-859,Linas Matkasse,Stavanger,3,18,True,True
-860,Linas Matkasse,Trondheim,5,36,False,False
-861,Linas Matkasse,Oslo,3,31,False,False
-862,Linas Matkasse,Tromso,5,24,False,False
-863,Adams Matkasse,Tromso,5,7,False,False
-864,Linas Matkasse,Stavanger,5,24,False,False
-865,Linas Matkasse,Oslo,5,39,False,False
-866,Linas Matkasse,Oslo,4,43,True,False
-867,Linas Matkasse,Bergen,4,19,False,False
-868,Linas Matkasse,Oslo,3,10,True,False
-869,Godtlevert,Tromso,5,32,False,False
-870,Adams Matkasse,Bergen,5,3,False,False
-871,Godtlevert,Bergen,3,6,False,False
-872,Adams Matkasse,Tromso,5,24,True,True
-873,Adams Matkasse,Tromso,3,43,False,False
-874,Adams Matkasse,Bergen,4,14,True,True
-875,Linas Matkasse,Bergen,3,19,True,True
-876,Godtlevert,Trondheim,4,14,True,False
-877,Godtlevert,Stavanger,4,19,False,False
-878,Linas Matkasse,Tromso,4,0,True,True
-879,Godtlevert,Tromso,5,26,False,False
-880,Godtlevert,Tromso,5,26,True,False
-881,Adams Matkasse,Oslo,4,13,False,False
-882,Linas Matkasse,Bergen,5,11,False,False
-883,Godtlevert,Trondheim,4,33,False,False
-884,Adams Matkasse,Oslo,3,8,False,False
-885,Linas Matkasse,Bergen,3,2,False,False
-886,Linas Matkasse,Oslo,3,1,False,False
-887,Adams Matkasse,Tromso,5,38,False,False
-888,Adams Matkasse,Oslo,4,16,True,True
-889,Adams Matkasse,Oslo,4,4,True,False
-890,Adams Matkasse,Oslo,4,38,False,False
-891,Adams Matkasse,Oslo,5,6,True,True
-892,Linas Matkasse,Trondheim,4,14,False,False
-893,Godtlevert,Bergen,3,0,False,False
-894,Linas Matkasse,Tromso,3,29,True,False
-895,Linas Matkasse,Bergen,4,30,False,False
-896,Godtlevert,Trondheim,4,33,False,False
-897,Godtlevert,Stavanger,5,11,False,False
-898,Adams Matkasse,Stavanger,4,14,False,False
-899,Adams Matkasse,Stavanger,5,41,False,False
-900,Godtlevert,Bergen,4,36,False,False
-901,Adams Matkasse,Trondheim,4,1,False,False
-902,Adams Matkasse,Tromso,4,30,True,True
-903,Adams Matkasse,Tromso,4,35,False,False
-904,Linas Matkasse,Stavanger,5,24,False,False
-905,Godtlevert,Stavanger,3,28,True,True
-906,Linas Matkasse,Tromso,4,0,True,False
-907,Godtlevert,Stavanger,3,1,False,False
-908,Adams Matkasse,Tromso,5,1,True,True
-909,Godtlevert,Oslo,5,6,False,False
-910,Adams Matkasse,Bergen,4,43,True,True
-911,Linas Matkasse,Oslo,5,27,True,True
-912,Adams Matkasse,Oslo,4,34,False,False
-913,Godtlevert,Trondheim,3,13,True,False
-914,Linas Matkasse,Bergen,4,41,True,True
-915,Godtlevert,Trondheim,5,8,False,False
-916,Godtlevert,Trondheim,3,39,False,False
-917,Godtlevert,Stavanger,3,1,True,True
-918,Linas Matkasse,Tromso,3,0,False,False
-919,Adams Matkasse,Tromso,5,3,False,False
-920,Godtlevert,Bergen,4,34,False,False
-921,Linas Matkasse,Bergen,5,11,True,True
-922,Godtlevert,Stavanger,5,19,True,False
-923,Godtlevert,Oslo,4,20,False,False
-924,Adams Matkasse,Trondheim,5,34,False,False
-925,Adams Matkasse,Trondheim,3,15,True,True
-926,Linas Matkasse,Oslo,3,0,False,False
-927,Godtlevert,Stavanger,4,17,True,False
-928,Adams Matkasse,Bergen,4,12,False,False
-929,Godtlevert,Oslo,3,32,False,False
-930,Godtlevert,Stavanger,3,33,False,False
-931,Godtlevert,Oslo,3,4,False,False
-932,Linas Matkasse,Stavanger,5,34,True,False
-933,Adams Matkasse,Oslo,5,3,False,False
-934,Godtlevert,Trondheim,5,27,True,False
-935,Godtlevert,Tromso,4,17,False,False
-936,Linas Matkasse,Bergen,4,13,False,False
-937,Adams Matkasse,Stavanger,5,21,True,False
-938,Adams Matkasse,Stavanger,4,13,True,True
-939,Godtlevert,Tromso,3,34,True,True
-940,Godtlevert,Oslo,4,42,True,False
-941,Linas Matkasse,Stavanger,5,35,True,True
-942,Godtlevert,Tromso,4,19,False,False
-943,Linas Matkasse,Stavanger,5,22,False,False
-944,Godtlevert,Oslo,5,19,False,False
-945,Adams Matkasse,Tromso,3,34,False,False
-946,Adams Matkasse,Oslo,5,24,False,False
-947,Linas Matkasse,Trondheim,4,20,True,True
-948,Adams Matkasse,Trondheim,4,18,False,False
-949,Linas Matkasse,Trondheim,3,16,False,False
-950,Adams Matkasse,Trondheim,4,24,False,False
-951,Adams Matkasse,Oslo,3,30,False,False
-952,Adams Matkasse,Trondheim,3,19,False,False
-953,Godtlevert,Tromso,5,35,False,False
-954,Godtlevert,Trondheim,3,36,False,False
-955,Linas Matkasse,Bergen,4,18,True,False
-956,Godtlevert,Tromso,3,39,False,False
-957,Godtlevert,Oslo,3,7,True,False
-958,Godtlevert,Trondheim,4,41,True,False
-959,Linas Matkasse,Trondheim,5,12,False,False
-960,Godtlevert,Trondheim,5,24,True,True
-961,Adams Matkasse,Tromso,4,12,False,False
-962,Godtlevert,Trondheim,4,19,True,False
-963,Linas Matkasse,Tromso,5,14,False,False
-964,Adams Matkasse,Oslo,3,31,True,False
-965,Linas Matkasse,Stavanger,5,3,False,False
-966,Godtlevert,Trondheim,3,36,True,False
-967,Godtlevert,Bergen,3,39,True,True
-968,Adams Matkasse,Bergen,4,24,True,False
-969,Linas Matkasse,Stavanger,3,24,False,False
-970,Adams Matkasse,Stavanger,5,30,False,False
-971,Adams Matkasse,Stavanger,5,8,False,False
-972,Godtlevert,Oslo,4,32,True,False
-973,Godtlevert,Trondheim,5,9,True,True
-974,Godtlevert,Tromso,5,29,True,False
-975,Adams Matkasse,Oslo,5,13,False,False
-976,Adams Matkasse,Trondheim,5,32,False,False
-977,Adams Matkasse,Trondheim,4,34,True,False
-978,Godtlevert,Tromso,3,9,False,False
-979,Godtlevert,Bergen,5,27,False,False
-980,Godtlevert,Trondheim,4,21,True,True
-981,Godtlevert,Stavanger,5,12,True,False
-982,Linas Matkasse,Oslo,5,25,True,True
-983,Godtlevert,Tromso,3,43,True,False
-984,Godtlevert,Tromso,4,0,True,True
-985,Godtlevert,Stavanger,3,42,False,False
-986,Godtlevert,Stavanger,3,37,True,False
-987,Godtlevert,Stavanger,5,23,False,False
-988,Adams Matkasse,Stavanger,5,26,False,False
-989,Adams Matkasse,Tromso,5,16,False,False
-990,Linas Matkasse,Trondheim,5,5,False,False
-991,Godtlevert,Trondheim,4,25,True,True
-992,Godtlevert,Stavanger,4,35,True,True
-993,Adams Matkasse,Oslo,5,10,True,False
-994,Godtlevert,Tromso,4,31,False,False
-995,Godtlevert,Stavanger,4,32,False,False
-996,Godtlevert,Stavanger,3,33,True,True
-997,Godtlevert,Bergen,5,14,True,True
-998,Godtlevert,Bergen,5,17,False,False
-999,Linas Matkasse,Trondheim,5,18,True,True
-1000,Godtlevert,Stavanger,4,37,False,False
-1001,Linas Matkasse,Stavanger,3,39,True,False
-1002,Linas Matkasse,Stavanger,3,18,True,False
-1003,Godtlevert,Tromso,4,42,True,False
-1004,Linas Matkasse,Tromso,5,25,True,False
-1005,Adams Matkasse,Stavanger,5,16,True,False
-1006,Linas Matkasse,Bergen,5,0,False,False
-1007,Linas Matkasse,Trondheim,4,26,True,False
-1008,Godtlevert,Trondheim,5,28,False,False
-1009,Linas Matkasse,Stavanger,5,42,True,False
-1010,Godtlevert,Tromso,3,31,True,False
-1011,Adams Matkasse,Bergen,5,1,True,False
-1012,Linas Matkasse,Trondheim,3,24,True,True
-1013,Adams Matkasse,Oslo,4,32,True,False
-1014,Adams Matkasse,Stavanger,5,21,True,True
-1015,Godtlevert,Trondheim,4,18,False,False
-1016,Linas Matkasse,Trondheim,5,35,False,False
-1017,Godtlevert,Trondheim,3,26,False,False
-1018,Godtlevert,Bergen,4,29,True,False
-1019,Adams Matkasse,Trondheim,5,20,False,False
-1020,Adams Matkasse,Stavanger,4,12,False,False
-1021,Adams Matkasse,Bergen,5,22,True,True
-1022,Adams Matkasse,Oslo,4,42,True,False
-1023,Linas Matkasse,Bergen,5,26,False,False
-1024,Linas Matkasse,Oslo,4,31,False,False
-1025,Linas Matkasse,Bergen,5,5,True,True
-1026,Adams Matkasse,Stavanger,3,43,True,False
-1027,Adams Matkasse,Oslo,3,10,False,False
-1028,Adams Matkasse,Stavanger,3,42,True,True
-1029,Godtlevert,Bergen,5,19,False,False
-1030,Godtlevert,Tromso,3,40,False,False
-1031,Godtlevert,Stavanger,3,39,False,False
-1032,Adams Matkasse,Bergen,5,33,False,False
-1033,Linas Matkasse,Trondheim,4,40,True,True
-1034,Adams Matkasse,Oslo,3,26,False,False
-1035,Adams Matkasse,Oslo,3,37,False,False
-1036,Linas Matkasse,Tromso,3,7,False,False
-1037,Linas Matkasse,Tromso,5,3,True,False
-1038,Adams Matkasse,Oslo,4,23,True,False
-1039,Godtlevert,Bergen,5,35,True,True
-1040,Linas Matkasse,Oslo,3,33,True,False
-1041,Linas Matkasse,Bergen,4,23,False,False
-1042,Linas Matkasse,Bergen,3,22,False,False
-1043,Godtlevert,Bergen,4,26,False,False
-1044,Godtlevert,Trondheim,4,38,False,False
-1045,Linas Matkasse,Oslo,5,37,True,False
-1046,Adams Matkasse,Tromso,4,4,True,True
-1047,Adams Matkasse,Stavanger,5,26,True,True
-1048,Godtlevert,Stavanger,4,16,True,False
-1049,Linas Matkasse,Oslo,3,35,True,False
-1050,Adams Matkasse,Stavanger,5,22,True,True
-1051,Godtlevert,Tromso,4,43,True,False
-1052,Godtlevert,Oslo,3,19,False,False
-1053,Godtlevert,Stavanger,5,29,True,False
-1054,Linas Matkasse,Bergen,5,4,True,False
-1055,Adams Matkasse,Stavanger,3,41,True,False
-1056,Linas Matkasse,Trondheim,5,6,False,False
-1057,Godtlevert,Tromso,5,16,False,False
-1058,Linas Matkasse,Oslo,5,36,True,False
-1059,Godtlevert,Bergen,3,42,True,True
-1060,Adams Matkasse,Bergen,4,21,False,False
-1061,Linas Matkasse,Bergen,4,21,False,False
-1062,Linas Matkasse,Bergen,4,2,False,False
-1063,Adams Matkasse,Bergen,4,43,False,False
-1064,Linas Matkasse,Oslo,4,0,False,False
-1065,Linas Matkasse,Stavanger,4,1,False,False
-1066,Godtlevert,Trondheim,5,20,True,True
-1067,Linas Matkasse,Tromso,4,0,False,False
-1068,Godtlevert,Stavanger,3,7,True,False
-1069,Godtlevert,Oslo,3,27,False,False
-1070,Adams Matkasse,Oslo,5,31,True,False
-1071,Linas Matkasse,Trondheim,5,13,True,False
-1072,Adams Matkasse,Trondheim,4,34,False,False
-1073,Linas Matkasse,Bergen,3,26,False,False
-1074,Godtlevert,Stavanger,5,10,True,False
-1075,Godtlevert,Trondheim,3,31,False,False
-1076,Adams Matkasse,Stavanger,4,26,True,True
-1077,Linas Matkasse,Oslo,3,35,True,False
-1078,Adams Matkasse,Tromso,3,6,False,False
-1079,Godtlevert,Bergen,5,10,True,False
-1080,Linas Matkasse,Trondheim,4,13,True,True
-1081,Linas Matkasse,Trondheim,3,15,False,False
-1082,Linas Matkasse,Tromso,4,39,True,True
-1083,Linas Matkasse,Bergen,3,32,True,False
-1084,Godtlevert,Bergen,4,23,True,True
-1085,Adams Matkasse,Bergen,4,23,False,False
-1086,Linas Matkasse,Bergen,4,38,True,True
-1087,Linas Matkasse,Oslo,5,19,True,False
-1088,Linas Matkasse,Oslo,3,9,False,False
-1089,Godtlevert,Bergen,3,6,True,True
-1090,Adams Matkasse,Trondheim,4,14,True,True
-1091,Godtlevert,Bergen,5,28,False,False
-1092,Godtlevert,Bergen,4,20,False,False
-1093,Linas Matkasse,Stavanger,3,18,True,False
-1094,Godtlevert,Bergen,5,21,False,False
-1095,Adams Matkasse,Tromso,4,42,False,False
-1096,Adams Matkasse,Stavanger,3,43,True,True
-1097,Linas Matkasse,Oslo,4,7,False,False
-1098,Linas Matkasse,Bergen,3,5,False,False
-1099,Adams Matkasse,Oslo,5,10,False,False
-1100,Godtlevert,Bergen,3,37,False,False
-1101,Godtlevert,Bergen,4,20,False,False
-1102,Godtlevert,Oslo,4,38,False,False
-1103,Linas Matkasse,Oslo,3,28,False,False
-1104,Adams Matkasse,Trondheim,4,24,False,False
-1105,Adams Matkasse,Stavanger,3,12,False,False
-1106,Adams Matkasse,Bergen,4,15,False,False
-1107,Adams Matkasse,Tromso,5,6,False,False
-1108,Linas Matkasse,Bergen,5,22,True,True
-1109,Linas Matkasse,Tromso,3,12,True,True
-1110,Adams Matkasse,Bergen,3,12,False,False
-1111,Godtlevert,Trondheim,4,1,True,False
-1112,Adams Matkasse,Stavanger,5,35,False,False
-1113,Adams Matkasse,Oslo,5,41,False,False
-1114,Adams Matkasse,Tromso,3,21,False,False
-1115,Adams Matkasse,Bergen,3,23,True,True
-1116,Godtlevert,Trondheim,3,40,False,False
-1117,Linas Matkasse,Stavanger,3,22,True,True
-1118,Godtlevert,Stavanger,4,27,False,False
-1119,Linas Matkasse,Oslo,5,18,True,True
-1120,Godtlevert,Tromso,3,22,False,False
-1121,Adams Matkasse,Stavanger,5,22,False,False
-1122,Adams Matkasse,Tromso,4,31,False,False
-1123,Adams Matkasse,Trondheim,4,26,False,False
-1124,Adams Matkasse,Stavanger,5,22,True,False
-1125,Linas Matkasse,Trondheim,3,3,True,False
-1126,Linas Matkasse,Tromso,5,39,True,True
-1127,Linas Matkasse,Tromso,3,39,False,False
-1128,Godtlevert,Tromso,4,8,False,False
-1129,Godtlevert,Trondheim,5,12,True,True
-1130,Godtlevert,Stavanger,4,42,True,True
-1131,Godtlevert,Bergen,3,14,True,True
-1132,Linas Matkasse,Trondheim,4,35,False,False
-1133,Linas Matkasse,Stavanger,4,34,True,False
-1134,Linas Matkasse,Oslo,3,37,True,False
-1135,Godtlevert,Stavanger,5,0,True,False
-1136,Adams Matkasse,Oslo,3,21,True,False
-1137,Linas Matkasse,Trondheim,4,24,True,False
-1138,Godtlevert,Trondheim,4,36,True,False
-1139,Linas Matkasse,Trondheim,3,9,False,False
-1140,Godtlevert,Trondheim,5,13,False,False
-1141,Linas Matkasse,Trondheim,4,7,True,True
-1142,Godtlevert,Trondheim,3,33,False,False
-1143,Linas Matkasse,Trondheim,4,43,True,True
-1144,Linas Matkasse,Trondheim,4,6,False,False
-1145,Adams Matkasse,Stavanger,4,10,False,False
-1146,Godtlevert,Trondheim,5,13,True,False
-1147,Godtlevert,Stavanger,4,39,False,False
-1148,Linas Matkasse,Tromso,5,19,False,False
-1149,Linas Matkasse,Tromso,4,12,False,False
-1150,Linas Matkasse,Oslo,4,14,True,True
-1151,Godtlevert,Stavanger,3,26,True,False
-1152,Godtlevert,Bergen,4,17,True,True
-1153,Godtlevert,Oslo,3,6,False,False
-1154,Linas Matkasse,Stavanger,5,36,False,False
-1155,Adams Matkasse,Oslo,5,18,True,False
-1156,Godtlevert,Tromso,5,11,False,False
-1157,Adams Matkasse,Stavanger,5,32,True,True
-1158,Linas Matkasse,Tromso,3,32,True,True
-1159,Godtlevert,Stavanger,3,6,False,False
-1160,Godtlevert,Tromso,5,3,False,False
-1161,Godtlevert,Oslo,4,1,False,False
-1162,Godtlevert,Tromso,3,33,False,False
-1163,Linas Matkasse,Oslo,3,27,False,False
-1164,Godtlevert,Bergen,5,34,False,False
-1165,Godtlevert,Oslo,4,27,True,False
-1166,Adams Matkasse,Trondheim,3,17,False,False
-1167,Adams Matkasse,Stavanger,5,25,False,False
-1168,Godtlevert,Bergen,3,31,True,False
-1169,Linas Matkasse,Tromso,4,17,True,True
-1170,Linas Matkasse,Stavanger,3,40,True,False
-1171,Godtlevert,Stavanger,4,39,True,True
-1172,Godtlevert,Tromso,4,35,False,False
-1173,Godtlevert,Trondheim,5,43,True,False
-1174,Adams Matkasse,Bergen,4,17,False,False
-1175,Adams Matkasse,Tromso,3,5,True,False
-1176,Godtlevert,Trondheim,3,21,True,False
-1177,Adams Matkasse,Stavanger,3,32,True,False
-1178,Adams Matkasse,Bergen,4,34,True,False
-1179,Adams Matkasse,Bergen,3,17,False,False
-1180,Adams Matkasse,Oslo,4,12,True,True
-1181,Godtlevert,Bergen,5,19,True,False
-1182,Linas Matkasse,Oslo,5,35,True,False
-1183,Linas Matkasse,Stavanger,4,2,True,False
-1184,Godtlevert,Oslo,5,14,False,False
-1185,Godtlevert,Stavanger,5,10,False,False
-1186,Adams Matkasse,Tromso,4,35,True,True
-1187,Adams Matkasse,Stavanger,5,20,False,False
-1188,Godtlevert,Trondheim,3,3,True,False
-1189,Godtlevert,Oslo,5,11,False,False
-1190,Adams Matkasse,Tromso,3,1,False,False
-1191,Godtlevert,Oslo,5,20,True,True
-1192,Adams Matkasse,Stavanger,5,43,False,False
-1193,Adams Matkasse,Stavanger,4,24,False,False
-1194,Linas Matkasse,Oslo,3,38,True,True
-1195,Godtlevert,Stavanger,4,32,False,False
-1196,Godtlevert,Oslo,4,38,False,False
-1197,Linas Matkasse,Bergen,5,13,True,True
-1198,Linas Matkasse,Tromso,5,41,False,False
-1199,Linas Matkasse,Tromso,4,10,False,False
-1200,Godtlevert,Bergen,5,19,False,False
-1201,Linas Matkasse,Tromso,4,29,False,False
-1202,Godtlevert,Tromso,4,12,False,False
-1203,Linas Matkasse,Stavanger,5,11,False,False
-1204,Linas Matkasse,Oslo,5,5,False,False
-1205,Godtlevert,Bergen,4,0,True,True
-1206,Linas Matkasse,Stavanger,4,22,True,False
-1207,Godtlevert,Tromso,5,43,False,False
-1208,Linas Matkasse,Tromso,5,9,False,False
-1209,Adams Matkasse,Trondheim,4,19,True,True
-1210,Linas Matkasse,Bergen,3,41,False,False
-1211,Godtlevert,Tromso,3,33,False,False
-1212,Linas Matkasse,Bergen,3,0,False,False
-1213,Godtlevert,Bergen,4,22,True,False
-1214,Linas Matkasse,Tromso,4,6,False,False
-1215,Adams Matkasse,Trondheim,5,10,True,False
-1216,Adams Matkasse,Bergen,3,10,True,True
-1217,Godtlevert,Oslo,5,26,False,False
-1218,Linas Matkasse,Trondheim,4,8,False,False
-1219,Linas Matkasse,Tromso,3,11,True,False
-1220,Godtlevert,Trondheim,4,9,False,False
-1221,Godtlevert,Stavanger,3,15,False,False
-1222,Godtlevert,Bergen,5,28,True,False
-1223,Linas Matkasse,Stavanger,5,17,True,False
-1224,Godtlevert,Stavanger,5,14,False,False
-1225,Godtlevert,Stavanger,4,22,False,False
-1226,Linas Matkasse,Stavanger,4,27,True,False
-1227,Adams Matkasse,Trondheim,3,0,False,False
-1228,Linas Matkasse,Bergen,5,39,False,False
-1229,Adams Matkasse,Stavanger,3,40,False,False
-1230,Adams Matkasse,Tromso,3,26,False,False
-1231,Linas Matkasse,Tromso,3,25,True,False
-1232,Linas Matkasse,Bergen,4,30,True,True
-1233,Linas Matkasse,Stavanger,3,19,True,True
-1234,Linas Matkasse,Oslo,3,16,False,False
-1235,Godtlevert,Trondheim,4,15,False,False
-1236,Godtlevert,Trondheim,5,7,False,False
-1237,Adams Matkasse,Bergen,4,37,True,False
-1238,Adams Matkasse,Tromso,5,14,False,False
-1239,Adams Matkasse,Tromso,5,12,True,True
-1240,Adams Matkasse,Oslo,5,42,True,True
-1241,Godtlevert,Bergen,4,22,True,False
-1242,Linas Matkasse,Bergen,5,27,False,False
-1243,Linas Matkasse,Tromso,5,10,True,True
-1244,Godtlevert,Trondheim,5,12,False,False
-1245,Linas Matkasse,Stavanger,4,32,False,False
-1246,Linas Matkasse,Tromso,3,19,False,False
-1247,Linas Matkasse,Stavanger,4,6,True,False
-1248,Godtlevert,Oslo,5,36,False,False
-1249,Adams Matkasse,Oslo,5,17,False,False
-1250,Linas Matkasse,Bergen,4,29,True,False
-1251,Adams Matkasse,Bergen,3,15,False,False
-1252,Godtlevert,Stavanger,4,24,False,False
-1253,Adams Matkasse,Oslo,5,34,True,False
-1254,Linas Matkasse,Bergen,4,38,False,False
-1255,Godtlevert,Bergen,4,9,True,True
-1256,Adams Matkasse,Oslo,4,29,True,False
-1257,Adams Matkasse,Oslo,3,40,False,False
-1258,Godtlevert,Oslo,3,28,True,True
-1259,Godtlevert,Trondheim,5,6,True,False
-1260,Linas Matkasse,Trondheim,3,8,True,True
-1261,Adams Matkasse,Trondheim,5,8,True,False
-1262,Linas Matkasse,Trondheim,3,4,True,True
-1263,Godtlevert,Stavanger,4,33,False,False
-1264,Linas Matkasse,Tromso,4,42,True,True
-1265,Adams Matkasse,Trondheim,5,22,True,False
-1266,Adams Matkasse,Stavanger,5,26,False,False
-1267,Adams Matkasse,Stavanger,4,34,False,False
-1268,Godtlevert,Stavanger,4,18,True,False
-1269,Linas Matkasse,Oslo,5,20,True,True
-1270,Adams Matkasse,Tromso,4,25,True,False
-1271,Godtlevert,Oslo,3,13,True,True
-1272,Adams Matkasse,Trondheim,4,2,True,True
-1273,Linas Matkasse,Stavanger,3,24,False,False
-1274,Linas Matkasse,Trondheim,4,36,False,False
-1275,Linas Matkasse,Bergen,4,3,True,False
-1276,Linas Matkasse,Tromso,3,9,False,False
-1277,Godtlevert,Oslo,3,11,True,True
-1278,Linas Matkasse,Bergen,5,35,True,True
-1279,Adams Matkasse,Tromso,4,22,True,False
-1280,Linas Matkasse,Stavanger,3,23,True,False
-1281,Linas Matkasse,Oslo,5,28,False,False
-1282,Linas Matkasse,Stavanger,5,12,True,True
-1283,Godtlevert,Tromso,5,31,False,False
-1284,Linas Matkasse,Oslo,5,1,True,False
-1285,Godtlevert,Trondheim,5,5,False,False
-1286,Adams Matkasse,Trondheim,4,35,False,False
-1287,Linas Matkasse,Oslo,3,28,True,False
-1288,Adams Matkasse,Bergen,5,7,True,False
-1289,Adams Matkasse,Oslo,3,19,False,False
-1290,Godtlevert,Oslo,3,2,False,False
-1291,Adams Matkasse,Trondheim,5,29,True,True
-1292,Linas Matkasse,Trondheim,5,33,False,False
-1293,Godtlevert,Bergen,4,12,True,True
-1294,Adams Matkasse,Bergen,5,15,True,False
-1295,Linas Matkasse,Oslo,5,10,False,False
-1296,Godtlevert,Stavanger,5,17,True,True
-1297,Adams Matkasse,Bergen,3,11,True,False
-1298,Linas Matkasse,Tromso,4,10,True,False
-1299,Godtlevert,Trondheim,3,18,True,True
-1300,Adams Matkasse,Tromso,5,37,True,False
-1301,Linas Matkasse,Stavanger,3,33,True,False
-1302,Godtlevert,Bergen,5,13,False,False
-1303,Linas Matkasse,Stavanger,3,41,False,False
-1304,Linas Matkasse,Bergen,4,9,True,False
-1305,Godtlevert,Oslo,3,40,True,True
-1306,Linas Matkasse,Bergen,5,13,False,False
-1307,Adams Matkasse,Bergen,4,23,True,False
-1308,Adams Matkasse,Oslo,5,8,True,False
-1309,Godtlevert,Oslo,3,33,False,False
-1310,Linas Matkasse,Tromso,4,13,True,True
-1311,Godtlevert,Trondheim,5,38,False,False
-1312,Godtlevert,Trondheim,5,3,False,False
-1313,Linas Matkasse,Tromso,3,22,False,False
-1314,Linas Matkasse,Bergen,4,6,True,False
-1315,Linas Matkasse,Trondheim,4,39,True,True
-1316,Adams Matkasse,Tromso,4,18,True,False
-1317,Linas Matkasse,Stavanger,4,29,False,False
-1318,Godtlevert,Bergen,3,38,False,False
-1319,Godtlevert,Bergen,5,23,False,False
-1320,Godtlevert,Oslo,3,2,True,False
-1321,Adams Matkasse,Oslo,3,9,False,False
-1322,Adams Matkasse,Oslo,5,9,False,False
-1323,Godtlevert,Stavanger,5,40,False,False
-1324,Linas Matkasse,Stavanger,4,39,False,False
-1325,Linas Matkasse,Trondheim,5,20,True,True
-1326,Adams Matkasse,Stavanger,4,39,True,False
-1327,Linas Matkasse,Oslo,4,10,False,False
-1328,Adams Matkasse,Bergen,3,29,True,True
-1329,Linas Matkasse,Bergen,3,17,True,True
-1330,Godtlevert,Tromso,4,10,True,True
-1331,Godtlevert,Stavanger,4,11,True,True
-1332,Linas Matkasse,Tromso,5,18,False,False
-1333,Godtlevert,Bergen,4,14,True,False
-1334,Linas Matkasse,Tromso,5,9,True,True
-1335,Godtlevert,Oslo,4,14,False,False
-1336,Linas Matkasse,Bergen,3,5,False,False
-1337,Godtlevert,Trondheim,5,42,True,False
-1338,Adams Matkasse,Oslo,4,16,True,True
-1339,Linas Matkasse,Tromso,4,4,True,True
-1340,Godtlevert,Tromso,4,25,True,False
-1341,Godtlevert,Trondheim,3,38,True,False
-1342,Adams Matkasse,Bergen,4,15,True,False
-1343,Adams Matkasse,Oslo,4,37,False,False
-1344,Godtlevert,Stavanger,4,26,False,False
-1345,Adams Matkasse,Trondheim,3,32,False,False
-1346,Linas Matkasse,Stavanger,4,13,True,False
-1347,Linas Matkasse,Stavanger,4,1,True,False
-1348,Linas Matkasse,Oslo,4,15,False,False
-1349,Linas Matkasse,Oslo,3,40,False,False
-1350,Godtlevert,Stavanger,4,34,False,False
-1351,Adams Matkasse,Oslo,3,34,True,False
-1352,Godtlevert,Tromso,4,38,True,False
-1353,Godtlevert,Oslo,3,16,False,False
-1354,Linas Matkasse,Stavanger,4,14,False,False
-1355,Adams Matkasse,Tromso,5,40,True,False
-1356,Godtlevert,Trondheim,5,25,False,False
-1357,Godtlevert,Oslo,5,13,False,False
-1358,Adams Matkasse,Tromso,5,12,False,False
-1359,Adams Matkasse,Oslo,3,38,True,False
-1360,Godtlevert,Trondheim,4,2,False,False
-1361,Adams Matkasse,Tromso,4,2,False,False
-1362,Adams Matkasse,Stavanger,5,32,True,True
-1363,Godtlevert,Oslo,4,0,False,False
-1364,Adams Matkasse,Tromso,5,7,False,False
-1365,Godtlevert,Oslo,3,43,False,False
-1366,Adams Matkasse,Stavanger,3,18,True,True
-1367,Adams Matkasse,Stavanger,3,32,False,False
-1368,Godtlevert,Bergen,4,21,True,False
-1369,Linas Matkasse,Trondheim,4,3,True,False
-1370,Godtlevert,Oslo,3,8,True,True
-1371,Linas Matkasse,Tromso,5,33,True,True
-1372,Godtlevert,Bergen,5,4,True,False
-1373,Godtlevert,Bergen,4,26,True,True
-1374,Godtlevert,Trondheim,3,15,False,False
-1375,Linas Matkasse,Stavanger,5,16,True,False
-1376,Linas Matkasse,Trondheim,5,41,False,False
-1377,Linas Matkasse,Trondheim,3,26,True,True
-1378,Linas Matkasse,Trondheim,3,27,False,False
-1379,Godtlevert,Tromso,4,15,False,False
-1380,Godtlevert,Bergen,4,16,False,False
-1381,Linas Matkasse,Tromso,3,30,False,False
-1382,Adams Matkasse,Stavanger,5,1,False,False
-1383,Godtlevert,Tromso,4,10,True,True
-1384,Linas Matkasse,Tromso,4,26,True,False
-1385,Godtlevert,Stavanger,3,27,True,False
-1386,Adams Matkasse,Bergen,5,4,True,True
-1387,Godtlevert,Stavanger,3,34,True,False
-1388,Adams Matkasse,Stavanger,5,23,True,False
-1389,Linas Matkasse,Bergen,4,10,False,False
-1390,Linas Matkasse,Stavanger,5,33,False,False
-1391,Adams Matkasse,Bergen,3,43,False,False
-1392,Godtlevert,Trondheim,3,18,False,False
-1393,Linas Matkasse,Stavanger,5,12,True,True
-1394,Linas Matkasse,Oslo,5,13,True,False
-1395,Adams Matkasse,Bergen,4,26,False,False
-1396,Godtlevert,Stavanger,3,2,False,False
-1397,Godtlevert,Trondheim,5,21,True,False
-1398,Godtlevert,Tromso,4,1,True,True
-1399,Adams Matkasse,Oslo,5,1,True,True
-1400,Adams Matkasse,Stavanger,5,18,True,False
-1401,Linas Matkasse,Tromso,5,32,True,True
-1402,Adams Matkasse,Tromso,5,38,True,False
-1403,Adams Matkasse,Oslo,5,3,False,False
-1404,Adams Matkasse,Tromso,4,10,False,False
-1405,Adams Matkasse,Bergen,3,18,False,False
-1406,Adams Matkasse,Bergen,4,25,False,False
-1407,Godtlevert,Bergen,5,43,False,False
-1408,Linas Matkasse,Stavanger,5,30,True,False
-1409,Adams Matkasse,Stavanger,4,23,False,False
-1410,Adams Matkasse,Trondheim,5,2,True,False
-1411,Adams Matkasse,Oslo,3,3,False,False
-1412,Godtlevert,Tromso,4,6,True,True
-1413,Adams Matkasse,Bergen,4,29,False,False
-1414,Linas Matkasse,Oslo,5,14,False,False
-1415,Godtlevert,Trondheim,3,10,True,True
-1416,Linas Matkasse,Trondheim,3,29,True,True
-1417,Godtlevert,Stavanger,4,35,True,False
-1418,Godtlevert,Tromso,3,19,False,False
-1419,Linas Matkasse,Oslo,4,38,False,False
-1420,Godtlevert,Bergen,4,32,True,False
-1421,Linas Matkasse,Trondheim,5,31,False,False
-1422,Linas Matkasse,Stavanger,5,38,True,True
-1423,Godtlevert,Stavanger,3,8,True,True
-1424,Linas Matkasse,Bergen,3,33,True,True
-1425,Adams Matkasse,Stavanger,3,42,False,False
-1426,Linas Matkasse,Tromso,3,43,True,False
-1427,Linas Matkasse,Trondheim,5,25,True,False
-1428,Linas Matkasse,Tromso,3,33,True,True
-1429,Adams Matkasse,Stavanger,3,39,False,False
-1430,Linas Matkasse,Bergen,5,37,False,False
-1431,Godtlevert,Bergen,5,39,False,False
-1432,Adams Matkasse,Stavanger,3,36,False,False
-1433,Adams Matkasse,Bergen,3,16,False,False
-1434,Godtlevert,Bergen,4,32,True,False
-1435,Adams Matkasse,Bergen,4,18,False,False
-1436,Adams Matkasse,Stavanger,5,35,True,False
-1437,Godtlevert,Bergen,4,35,True,False
-1438,Godtlevert,Stavanger,3,41,True,False
-1439,Adams Matkasse,Tromso,4,25,True,False
-1440,Linas Matkasse,Tromso,4,20,False,False
-1441,Linas Matkasse,Tromso,4,7,False,False
-1442,Godtlevert,Oslo,4,28,False,False
-1443,Linas Matkasse,Trondheim,5,24,True,False
-1444,Godtlevert,Bergen,5,22,False,False
-1445,Adams Matkasse,Tromso,3,29,False,False
-1446,Adams Matkasse,Stavanger,4,37,True,True
-1447,Linas Matkasse,Bergen,5,6,False,False
-1448,Linas Matkasse,Trondheim,4,18,False,False
-1449,Linas Matkasse,Stavanger,4,31,True,True
-1450,Adams Matkasse,Trondheim,3,36,False,False
-1451,Adams Matkasse,Trondheim,3,34,False,False
-1452,Adams Matkasse,Oslo,5,35,True,False
-1453,Adams Matkasse,Trondheim,5,37,True,True
-1454,Adams Matkasse,Bergen,5,42,False,False
-1455,Godtlevert,Tromso,3,26,False,False
-1456,Adams Matkasse,Tromso,3,10,False,False
-1457,Linas Matkasse,Stavanger,3,24,False,False
-1458,Godtlevert,Oslo,4,31,False,False
-1459,Adams Matkasse,Tromso,4,4,False,False
-1460,Godtlevert,Bergen,5,33,False,False
-1461,Linas Matkasse,Trondheim,5,23,False,False
-1462,Adams Matkasse,Tromso,3,41,True,True
-1463,Adams Matkasse,Tromso,5,9,False,False
-1464,Adams Matkasse,Oslo,3,39,False,False
-1465,Linas Matkasse,Bergen,3,19,False,False
-1466,Adams Matkasse,Stavanger,4,25,False,False
-1467,Godtlevert,Trondheim,3,29,False,False
-1468,Godtlevert,Bergen,4,25,True,True
-1469,Linas Matkasse,Trondheim,4,39,True,True
-1470,Adams Matkasse,Tromso,3,7,True,False
-1471,Linas Matkasse,Bergen,4,32,True,False
-1472,Linas Matkasse,Stavanger,4,42,True,True
-1473,Godtlevert,Stavanger,5,9,True,False
-1474,Adams Matkasse,Tromso,3,11,True,True
-1475,Linas Matkasse,Bergen,3,20,True,False
-1476,Adams Matkasse,Bergen,4,31,False,False
-1477,Godtlevert,Trondheim,3,42,False,False
-1478,Godtlevert,Trondheim,5,35,True,False
-1479,Adams Matkasse,Trondheim,3,34,True,True
-1480,Godtlevert,Stavanger,4,19,True,False
-1481,Adams Matkasse,Stavanger,5,28,True,False
-1482,Adams Matkasse,Bergen,3,9,True,False
-1483,Adams Matkasse,Stavanger,3,20,True,True
-1484,Adams Matkasse,Bergen,5,8,True,False
-1485,Godtlevert,Trondheim,4,1,False,False
-1486,Linas Matkasse,Oslo,3,37,False,False
-1487,Adams Matkasse,Bergen,3,35,False,False
-1488,Adams Matkasse,Tromso,5,22,True,False
-1489,Adams Matkasse,Trondheim,5,0,True,True
-1490,Godtlevert,Stavanger,4,3,False,False
-1491,Adams Matkasse,Oslo,4,4,True,False
-1492,Godtlevert,Stavanger,5,31,False,False
-1493,Adams Matkasse,Bergen,3,8,False,False
-1494,Adams Matkasse,Stavanger,3,11,False,False
-1495,Godtlevert,Tromso,5,37,True,True
-1496,Godtlevert,Trondheim,3,38,False,False
-1497,Godtlevert,Oslo,5,33,True,False
-1498,Linas Matkasse,Trondheim,4,13,True,False
-1499,Godtlevert,Oslo,5,25,True,True
-1500,Linas Matkasse,Trondheim,3,8,False,False
-1501,Godtlevert,Oslo,5,37,False,False
-1502,Adams Matkasse,Stavanger,3,3,True,False
-1503,Adams Matkasse,Bergen,3,32,True,True
-1504,Adams Matkasse,Bergen,5,22,False,False
-1505,Godtlevert,Oslo,4,33,False,False
-1506,Adams Matkasse,Tromso,5,19,True,True
-1507,Linas Matkasse,Tromso,3,6,True,False
-1508,Godtlevert,Tromso,3,33,False,False
-1509,Linas Matkasse,Oslo,4,27,False,False
-1510,Linas Matkasse,Bergen,5,20,False,False
-1511,Godtlevert,Tromso,4,16,True,True
-1512,Adams Matkasse,Trondheim,5,15,True,True
-1513,Linas Matkasse,Oslo,5,21,True,False
-1514,Adams Matkasse,Oslo,5,11,True,False
-1515,Adams Matkasse,Bergen,4,12,False,False
-1516,Linas Matkasse,Tromso,5,12,True,True
-1517,Godtlevert,Oslo,4,0,False,False
-1518,Adams Matkasse,Tromso,5,40,False,False
-1519,Godtlevert,Stavanger,4,10,False,False
-1520,Godtlevert,Tromso,4,7,False,False
-1521,Linas Matkasse,Tromso,4,6,False,False
-1522,Linas Matkasse,Bergen,4,43,True,True
-1523,Adams Matkasse,Tromso,5,20,True,False
-1524,Adams Matkasse,Oslo,5,14,True,True
-1525,Godtlevert,Bergen,4,17,False,False
-1526,Adams Matkasse,Bergen,3,3,False,False
-1527,Adams Matkasse,Oslo,4,13,True,False
-1528,Adams Matkasse,Oslo,3,10,True,True
-1529,Adams Matkasse,Oslo,3,35,True,True
-1530,Linas Matkasse,Oslo,3,2,True,False
-1531,Adams Matkasse,Bergen,4,18,False,False
-1532,Adams Matkasse,Oslo,5,34,True,True
-1533,Linas Matkasse,Oslo,4,36,False,False
-1534,Adams Matkasse,Tromso,4,22,False,False
-1535,Linas Matkasse,Oslo,3,9,True,False
-1536,Adams Matkasse,Oslo,5,14,True,True
-1537,Adams Matkasse,Oslo,3,9,False,False
-1538,Adams Matkasse,Oslo,5,29,False,False
-1539,Linas Matkasse,Trondheim,5,12,True,True
-1540,Godtlevert,Tromso,5,27,True,False
-1541,Godtlevert,Stavanger,3,28,False,False
-1542,Adams Matkasse,Trondheim,3,41,False,False
-1543,Adams Matkasse,Oslo,3,16,False,False
-1544,Godtlevert,Stavanger,5,42,False,False
-1545,Adams Matkasse,Oslo,3,17,False,False
-1546,Godtlevert,Stavanger,5,29,True,True
-1547,Linas Matkasse,Trondheim,3,29,False,False
-1548,Linas Matkasse,Tromso,3,35,True,False
-1549,Godtlevert,Bergen,3,20,False,False
-1550,Adams Matkasse,Stavanger,5,34,False,False
-1551,Adams Matkasse,Trondheim,4,15,False,False
-1552,Linas Matkasse,Trondheim,4,21,False,False
-1553,Godtlevert,Tromso,4,21,False,False
-1554,Godtlevert,Stavanger,4,30,False,False
-1555,Godtlevert,Trondheim,4,27,False,False
-1556,Adams Matkasse,Trondheim,4,3,False,False
-1557,Linas Matkasse,Stavanger,3,35,True,False
-1558,Linas Matkasse,Bergen,3,33,True,False
-1559,Linas Matkasse,Oslo,4,4,False,False
-1560,Linas Matkasse,Trondheim,3,42,False,False
-1561,Adams Matkasse,Oslo,4,29,False,False
-1562,Adams Matkasse,Oslo,3,3,False,False
-1563,Adams Matkasse,Trondheim,5,21,True,True
-1564,Linas Matkasse,Stavanger,3,36,True,True
-1565,Godtlevert,Stavanger,3,12,False,False
-1566,Godtlevert,Bergen,4,41,True,True
-1567,Linas Matkasse,Trondheim,3,18,False,False
-1568,Godtlevert,Oslo,4,9,False,False
-1569,Linas Matkasse,Stavanger,3,15,False,False
-1570,Linas Matkasse,Bergen,3,23,True,True
-1571,Adams Matkasse,Stavanger,5,30,False,False
-1572,Godtlevert,Tromso,5,40,True,False
-1573,Linas Matkasse,Stavanger,3,8,True,False
-1574,Linas Matkasse,Bergen,5,42,True,False
-1575,Adams Matkasse,Tromso,5,23,True,False
-1576,Adams Matkasse,Stavanger,4,5,False,False
-1577,Godtlevert,Stavanger,4,40,False,False
-1578,Linas Matkasse,Tromso,5,15,True,False
-1579,Adams Matkasse,Tromso,4,27,False,False
-1580,Godtlevert,Oslo,4,30,False,False
-1581,Adams Matkasse,Tromso,4,0,False,False
-1582,Adams Matkasse,Stavanger,5,9,False,False
-1583,Godtlevert,Bergen,5,30,False,False
-1584,Godtlevert,Bergen,3,14,True,False
-1585,Godtlevert,Stavanger,4,0,True,True
-1586,Adams Matkasse,Bergen,5,1,True,False
-1587,Linas Matkasse,Trondheim,3,36,False,False
-1588,Adams Matkasse,Stavanger,5,6,False,False
-1589,Linas Matkasse,Stavanger,5,4,True,True
-1590,Adams Matkasse,Tromso,5,24,True,False
-1591,Linas Matkasse,Oslo,3,5,False,False
-1592,Godtlevert,Bergen,4,28,True,False
-1593,Godtlevert,Tromso,4,23,False,False
-1594,Adams Matkasse,Trondheim,4,28,False,False
-1595,Linas Matkasse,Bergen,5,21,True,True
-1596,Adams Matkasse,Bergen,4,34,True,True
-1597,Godtlevert,Bergen,4,28,True,False
-1598,Linas Matkasse,Trondheim,5,18,True,True
-1599,Linas Matkasse,Bergen,5,0,False,False
-1600,Linas Matkasse,Stavanger,5,12,False,False
-1601,Adams Matkasse,Trondheim,4,5,True,False
-1602,Linas Matkasse,Stavanger,5,0,False,False
-1603,Linas Matkasse,Oslo,3,12,True,False
-1604,Adams Matkasse,Stavanger,4,9,True,False
-1605,Adams Matkasse,Tromso,4,3,False,False
-1606,Linas Matkasse,Oslo,3,13,False,False
-1607,Adams Matkasse,Bergen,4,22,False,False
-1608,Godtlevert,Stavanger,4,7,True,False
-1609,Adams Matkasse,Stavanger,4,12,False,False
-1610,Adams Matkasse,Stavanger,3,0,True,True
-1611,Linas Matkasse,Trondheim,3,2,False,False
-1612,Adams Matkasse,Stavanger,3,6,False,False
-1613,Linas Matkasse,Stavanger,4,19,False,False
-1614,Linas Matkasse,Oslo,3,29,True,True
-1615,Adams Matkasse,Stavanger,4,34,True,False
-1616,Adams Matkasse,Trondheim,5,27,False,False
-1617,Linas Matkasse,Oslo,5,27,True,False
-1618,Godtlevert,Trondheim,3,41,False,False
-1619,Adams Matkasse,Trondheim,5,11,False,False
-1620,Linas Matkasse,Oslo,3,35,False,False
-1621,Adams Matkasse,Tromso,3,41,True,False
-1622,Adams Matkasse,Bergen,3,24,False,False
-1623,Linas Matkasse,Bergen,3,36,True,False
-1624,Adams Matkasse,Trondheim,5,6,True,True
-1625,Godtlevert,Tromso,3,38,False,False
-1626,Linas Matkasse,Stavanger,5,24,True,False
-1627,Godtlevert,Stavanger,4,9,False,False
-1628,Godtlevert,Bergen,3,2,False,False
-1629,Godtlevert,Tromso,4,31,False,False
-1630,Adams Matkasse,Tromso,3,18,False,False
-1631,Godtlevert,Trondheim,4,13,False,False
-1632,Linas Matkasse,Trondheim,4,17,True,False
-1633,Adams Matkasse,Oslo,4,43,False,False
-1634,Linas Matkasse,Stavanger,3,18,True,True
-1635,Godtlevert,Tromso,5,3,False,False
-1636,Godtlevert,Trondheim,4,12,True,False
-1637,Adams Matkasse,Trondheim,3,6,False,False
-1638,Godtlevert,Trondheim,4,30,True,True
-1639,Adams Matkasse,Oslo,3,35,True,True
-1640,Adams Matkasse,Stavanger,5,37,True,True
-1641,Linas Matkasse,Stavanger,5,27,True,True
-1642,Adams Matkasse,Tromso,3,33,True,False
-1643,Godtlevert,Tromso,5,18,True,True
-1644,Godtlevert,Trondheim,5,27,True,False
-1645,Adams Matkasse,Tromso,4,4,False,False
-1646,Adams Matkasse,Trondheim,3,23,True,True
-1647,Godtlevert,Stavanger,5,24,False,False
-1648,Godtlevert,Stavanger,5,1,True,True
-1649,Linas Matkasse,Tromso,5,24,False,False
-1650,Linas Matkasse,Stavanger,5,31,True,True
-1651,Adams Matkasse,Oslo,5,16,False,False
-1652,Adams Matkasse,Oslo,5,23,False,False
-1653,Adams Matkasse,Trondheim,3,12,False,False
-1654,Godtlevert,Trondheim,4,11,True,True
-1655,Adams Matkasse,Stavanger,3,5,False,False
-1656,Adams Matkasse,Trondheim,3,14,True,False
-1657,Linas Matkasse,Trondheim,5,35,True,False
-1658,Linas Matkasse,Tromso,5,41,True,False
-1659,Linas Matkasse,Bergen,4,27,False,False
-1660,Adams Matkasse,Trondheim,5,27,True,False
-1661,Godtlevert,Trondheim,3,27,False,False
-1662,Godtlevert,Trondheim,3,20,True,False
-1663,Adams Matkasse,Tromso,5,18,True,False
-1664,Godtlevert,Tromso,4,27,True,True
-1665,Godtlevert,Trondheim,4,34,True,True
-1666,Godtlevert,Trondheim,4,18,False,False
-1667,Linas Matkasse,Trondheim,3,24,False,False
-1668,Linas Matkasse,Oslo,5,20,False,False
-1669,Godtlevert,Trondheim,5,12,True,True
-1670,Linas Matkasse,Bergen,5,12,True,False
-1671,Linas Matkasse,Oslo,4,3,False,False
-1672,Godtlevert,Oslo,4,19,True,True
-1673,Adams Matkasse,Trondheim,5,31,True,True
-1674,Linas Matkasse,Oslo,4,30,False,False
-1675,Linas Matkasse,Stavanger,4,43,True,False
-1676,Linas Matkasse,Trondheim,3,1,True,True
-1677,Adams Matkasse,Bergen,4,33,True,True
-1678,Godtlevert,Stavanger,4,34,False,False
-1679,Linas Matkasse,Trondheim,4,19,True,False
-1680,Godtlevert,Stavanger,3,12,False,False
-1681,Linas Matkasse,Stavanger,3,15,True,True
-1682,Adams Matkasse,Oslo,5,30,True,False
-1683,Adams Matkasse,Bergen,4,37,True,True
-1684,Linas Matkasse,Trondheim,4,28,False,False
-1685,Godtlevert,Tromso,4,22,True,False
-1686,Godtlevert,Oslo,4,28,False,False
-1687,Godtlevert,Oslo,5,3,True,True
-1688,Godtlevert,Tromso,3,26,True,False
-1689,Linas Matkasse,Tromso,5,1,True,False
-1690,Adams Matkasse,Oslo,3,42,False,False
-1691,Linas Matkasse,Trondheim,4,39,True,True
-1692,Linas Matkasse,Stavanger,4,22,False,False
-1693,Godtlevert,Oslo,5,16,False,False
-1694,Godtlevert,Bergen,3,32,False,False
-1695,Adams Matkasse,Bergen,4,28,False,False
-1696,Linas Matkasse,Stavanger,3,31,False,False
-1697,Godtlevert,Bergen,3,22,False,False
-1698,Adams Matkasse,Trondheim,5,10,True,False
-1699,Godtlevert,Bergen,5,3,False,False
-1700,Linas Matkasse,Stavanger,4,12,False,False
-1701,Adams Matkasse,Oslo,4,23,True,False
-1702,Adams Matkasse,Bergen,4,18,False,False
-1703,Linas Matkasse,Bergen,3,22,False,False
-1704,Adams Matkasse,Tromso,4,12,True,False
-1705,Linas Matkasse,Tromso,3,41,False,False
-1706,Linas Matkasse,Trondheim,5,16,True,False
-1707,Linas Matkasse,Oslo,4,37,True,False
-1708,Linas Matkasse,Stavanger,3,17,True,True
-1709,Adams Matkasse,Trondheim,4,19,False,False
-1710,Adams Matkasse,Tromso,5,26,True,False
-1711,Godtlevert,Bergen,3,11,False,False
-1712,Godtlevert,Tromso,5,9,True,False
-1713,Linas Matkasse,Tromso,4,16,True,True
-1714,Linas Matkasse,Bergen,4,35,False,False
-1715,Godtlevert,Stavanger,5,6,True,False
-1716,Linas Matkasse,Bergen,4,19,False,False
-1717,Godtlevert,Bergen,3,29,True,False
-1718,Godtlevert,Bergen,5,31,False,False
-1719,Godtlevert,Stavanger,3,19,False,False
-1720,Godtlevert,Bergen,4,3,True,True
-1721,Adams Matkasse,Stavanger,5,0,True,False
-1722,Linas Matkasse,Trondheim,4,20,True,False
-1723,Godtlevert,Stavanger,5,35,False,False
-1724,Linas Matkasse,Tromso,4,1,False,False
-1725,Godtlevert,Oslo,3,39,True,True
-1726,Linas Matkasse,Tromso,3,29,True,True
-1727,Linas Matkasse,Oslo,4,0,False,False
-1728,Godtlevert,Trondheim,3,15,True,False
-1729,Godtlevert,Bergen,4,9,False,False
-1730,Adams Matkasse,Stavanger,4,41,False,False
-1731,Linas Matkasse,Stavanger,5,24,True,False
-1732,Linas Matkasse,Tromso,3,14,False,False
-1733,Linas Matkasse,Trondheim,5,12,True,True
-1734,Linas Matkasse,Tromso,4,24,True,False
-1735,Linas Matkasse,Bergen,4,0,False,False
-1736,Linas Matkasse,Bergen,4,11,False,False
-1737,Godtlevert,Bergen,3,7,False,False
-1738,Adams Matkasse,Trondheim,5,27,False,False
-1739,Adams Matkasse,Stavanger,3,29,True,False
-1740,Adams Matkasse,Tromso,3,20,False,False
-1741,Godtlevert,Bergen,5,6,False,False
-1742,Linas Matkasse,Bergen,4,16,True,True
-1743,Godtlevert,Tromso,5,37,True,True
-1744,Adams Matkasse,Trondheim,4,8,False,False
-1745,Adams Matkasse,Bergen,3,7,False,False
-1746,Linas Matkasse,Tromso,3,4,True,True
-1747,Linas Matkasse,Trondheim,4,35,False,False
-1748,Godtlevert,Tromso,3,5,True,True
-1749,Linas Matkasse,Tromso,5,25,True,True
-1750,Linas Matkasse,Tromso,3,43,True,True
-1751,Linas Matkasse,Trondheim,5,28,False,False
-1752,Linas Matkasse,Stavanger,3,18,True,False
-1753,Godtlevert,Tromso,3,9,True,False
-1754,Godtlevert,Bergen,3,0,True,True
-1755,Godtlevert,Oslo,3,6,False,False
-1756,Adams Matkasse,Bergen,4,41,False,False
-1757,Godtlevert,Stavanger,3,6,True,True
-1758,Godtlevert,Trondheim,4,0,False,False
-1759,Godtlevert,Oslo,4,35,True,False
-1760,Godtlevert,Trondheim,3,18,True,True
-1761,Godtlevert,Oslo,3,15,False,False
-1762,Godtlevert,Trondheim,3,31,False,False
-1763,Adams Matkasse,Trondheim,3,23,True,True
-1764,Godtlevert,Stavanger,3,40,False,False
-1765,Godtlevert,Trondheim,3,20,True,True
-1766,Linas Matkasse,Trondheim,4,31,False,False
-1767,Godtlevert,Stavanger,3,38,False,False
-1768,Godtlevert,Stavanger,3,20,False,False
-1769,Adams Matkasse,Tromso,4,12,True,False
-1770,Adams Matkasse,Bergen,4,42,False,False
-1771,Godtlevert,Trondheim,3,9,False,False
-1772,Godtlevert,Bergen,3,1,True,False
-1773,Godtlevert,Trondheim,4,25,True,True
-1774,Godtlevert,Oslo,3,43,False,False
-1775,Linas Matkasse,Trondheim,4,3,True,True
-1776,Adams Matkasse,Oslo,5,37,False,False
-1777,Adams Matkasse,Trondheim,4,36,True,True
-1778,Adams Matkasse,Tromso,3,40,False,False
-1779,Adams Matkasse,Tromso,5,18,True,False
-1780,Linas Matkasse,Trondheim,3,11,False,False
-1781,Adams Matkasse,Oslo,3,22,False,False
-1782,Godtlevert,Bergen,3,6,True,False
-1783,Adams Matkasse,Oslo,5,37,False,False
-1784,Linas Matkasse,Stavanger,5,29,False,False
-1785,Linas Matkasse,Tromso,4,21,True,True
-1786,Adams Matkasse,Trondheim,4,22,True,True
-1787,Adams Matkasse,Oslo,4,31,False,False
-1788,Adams Matkasse,Oslo,4,23,False,False
-1789,Godtlevert,Tromso,4,36,True,False
-1790,Linas Matkasse,Bergen,5,40,False,False
-1791,Godtlevert,Oslo,5,41,True,True
-1792,Linas Matkasse,Oslo,3,27,True,True
-1793,Godtlevert,Bergen,4,32,False,False
-1794,Adams Matkasse,Stavanger,5,13,True,True
-1795,Godtlevert,Tromso,4,1,True,False
-1796,Adams Matkasse,Bergen,3,17,False,False
-1797,Linas Matkasse,Stavanger,5,38,True,True
-1798,Adams Matkasse,Oslo,4,5,True,True
-1799,Godtlevert,Oslo,4,24,False,False
-1800,Godtlevert,Oslo,4,8,False,False
-1801,Adams Matkasse,Tromso,3,18,False,False
-1802,Godtlevert,Trondheim,4,6,False,False
-1803,Godtlevert,Tromso,4,32,True,True
-1804,Adams Matkasse,Oslo,5,35,True,True
-1805,Adams Matkasse,Oslo,3,33,False,False
-1806,Adams Matkasse,Tromso,3,31,True,False
-1807,Adams Matkasse,Oslo,4,10,True,False
-1808,Godtlevert,Oslo,5,23,False,False
-1809,Adams Matkasse,Trondheim,4,4,False,False
-1810,Linas Matkasse,Stavanger,4,16,False,False
-1811,Adams Matkasse,Bergen,5,22,True,False
-1812,Godtlevert,Trondheim,4,29,True,True
-1813,Linas Matkasse,Stavanger,3,4,True,False
-1814,Godtlevert,Trondheim,5,35,False,False
-1815,Linas Matkasse,Bergen,4,20,True,True
-1816,Adams Matkasse,Oslo,3,38,True,True
-1817,Adams Matkasse,Trondheim,4,23,True,False
-1818,Adams Matkasse,Tromso,5,24,False,False
-1819,Adams Matkasse,Stavanger,4,30,False,False
-1820,Adams Matkasse,Tromso,4,36,True,True
-1821,Adams Matkasse,Oslo,4,6,True,False
-1822,Linas Matkasse,Oslo,5,22,True,False
-1823,Adams Matkasse,Trondheim,5,1,True,True
-1824,Linas Matkasse,Oslo,3,20,False,False
-1825,Linas Matkasse,Trondheim,4,35,True,True
-1826,Linas Matkasse,Tromso,4,38,False,False
-1827,Adams Matkasse,Bergen,3,12,False,False
-1828,Linas Matkasse,Trondheim,5,17,False,False
-1829,Godtlevert,Stavanger,3,24,False,False
-1830,Linas Matkasse,Oslo,4,17,True,True
-1831,Godtlevert,Tromso,3,7,True,True
-1832,Linas Matkasse,Bergen,3,13,True,False
-1833,Godtlevert,Tromso,5,17,False,False
-1834,Adams Matkasse,Stavanger,3,22,True,True
-1835,Godtlevert,Oslo,3,40,True,False
-1836,Adams Matkasse,Stavanger,5,23,True,False
-1837,Linas Matkasse,Oslo,5,17,True,False
-1838,Adams Matkasse,Trondheim,3,29,False,False
-1839,Adams Matkasse,Tromso,3,34,False,False
-1840,Godtlevert,Tromso,5,18,False,False
-1841,Godtlevert,Tromso,5,21,False,False
-1842,Adams Matkasse,Trondheim,5,9,True,True
-1843,Linas Matkasse,Trondheim,4,38,True,False
-1844,Linas Matkasse,Bergen,3,38,True,False
-1845,Linas Matkasse,Tromso,5,7,False,False
-1846,Godtlevert,Trondheim,3,15,False,False
-1847,Godtlevert,Stavanger,3,11,True,False
-1848,Godtlevert,Bergen,5,40,False,False
-1849,Godtlevert,Stavanger,4,2,True,False
-1850,Adams Matkasse,Bergen,3,9,True,True
-1851,Adams Matkasse,Stavanger,3,13,False,False
-1852,Adams Matkasse,Oslo,4,24,False,False
-1853,Godtlevert,Oslo,3,10,False,False
-1854,Adams Matkasse,Bergen,5,23,False,False
-1855,Adams Matkasse,Trondheim,4,32,True,False
-1856,Linas Matkasse,Stavanger,4,36,False,False
-1857,Godtlevert,Bergen,4,4,False,False
-1858,Godtlevert,Oslo,4,6,False,False
-1859,Godtlevert,Bergen,4,4,True,False
-1860,Linas Matkasse,Trondheim,5,40,False,False
-1861,Linas Matkasse,Trondheim,4,28,True,False
-1862,Adams Matkasse,Stavanger,4,23,True,False
-1863,Linas Matkasse,Bergen,4,34,False,False
-1864,Godtlevert,Stavanger,3,25,False,False
-1865,Linas Matkasse,Stavanger,5,10,False,False
-1866,Godtlevert,Stavanger,4,22,False,False
-1867,Adams Matkasse,Trondheim,5,30,True,True
-1868,Linas Matkasse,Tromso,5,1,False,False
-1869,Adams Matkasse,Bergen,5,26,True,False
-1870,Linas Matkasse,Stavanger,5,21,False,False
-1871,Adams Matkasse,Oslo,5,3,True,False
-1872,Adams Matkasse,Oslo,4,11,False,False
-1873,Godtlevert,Tromso,5,19,False,False
-1874,Linas Matkasse,Trondheim,3,15,False,False
-1875,Godtlevert,Stavanger,5,12,True,False
-1876,Adams Matkasse,Stavanger,3,28,True,False
-1877,Adams Matkasse,Stavanger,5,17,True,True
-1878,Linas Matkasse,Bergen,3,21,True,False
-1879,Linas Matkasse,Oslo,4,35,False,False
-1880,Adams Matkasse,Oslo,3,4,True,True
-1881,Godtlevert,Tromso,3,15,False,False
-1882,Adams Matkasse,Bergen,5,3,True,True
-1883,Adams Matkasse,Trondheim,5,40,True,True
-1884,Linas Matkasse,Trondheim,3,8,False,False
-1885,Godtlevert,Oslo,3,36,True,True
-1886,Adams Matkasse,Trondheim,5,8,True,True
-1887,Godtlevert,Oslo,5,14,True,True
-1888,Godtlevert,Oslo,3,26,True,False
-1889,Adams Matkasse,Oslo,4,36,False,False
-1890,Godtlevert,Tromso,3,7,True,False
-1891,Adams Matkasse,Trondheim,5,9,True,True
-1892,Adams Matkasse,Tromso,4,38,False,False
-1893,Linas Matkasse,Trondheim,3,14,False,False
-1894,Linas Matkasse,Bergen,3,9,False,False
-1895,Adams Matkasse,Stavanger,4,32,True,True
-1896,Linas Matkasse,Tromso,5,4,False,False
-1897,Godtlevert,Trondheim,3,38,True,True
-1898,Linas Matkasse,Oslo,5,38,True,False
-1899,Linas Matkasse,Bergen,4,37,False,False
-1900,Godtlevert,Tromso,5,12,False,False
-1901,Godtlevert,Trondheim,5,5,False,False
-1902,Godtlevert,Tromso,3,18,False,False
-1903,Linas Matkasse,Trondheim,3,14,True,True
-1904,Adams Matkasse,Oslo,5,42,False,False
-1905,Adams Matkasse,Tromso,3,27,False,False
-1906,Adams Matkasse,Stavanger,3,41,True,False
-1907,Adams Matkasse,Stavanger,4,33,True,True
-1908,Adams Matkasse,Tromso,5,31,True,True
-1909,Adams Matkasse,Oslo,5,4,False,False
-1910,Linas Matkasse,Tromso,4,3,True,True
-1911,Adams Matkasse,Bergen,3,2,True,True
-1912,Linas Matkasse,Tromso,4,26,False,False
-1913,Adams Matkasse,Oslo,5,8,False,False
-1914,Linas Matkasse,Trondheim,3,43,True,True
-1915,Adams Matkasse,Stavanger,4,5,False,False
-1916,Godtlevert,Oslo,3,41,False,False
-1917,Adams Matkasse,Oslo,3,29,False,False
-1918,Godtlevert,Tromso,3,4,True,True
-1919,Godtlevert,Oslo,5,2,True,False
-1920,Godtlevert,Stavanger,5,17,False,False
-1921,Godtlevert,Tromso,3,14,True,True
-1922,Godtlevert,Stavanger,5,13,False,False
-1923,Linas Matkasse,Trondheim,4,23,True,True
-1924,Godtlevert,Trondheim,5,5,False,False
-1925,Godtlevert,Stavanger,5,5,False,False
-1926,Adams Matkasse,Trondheim,3,30,False,False
-1927,Godtlevert,Trondheim,5,43,False,False
-1928,Adams Matkasse,Oslo,4,12,False,False
-1929,Adams Matkasse,Stavanger,3,41,True,True
-1930,Linas Matkasse,Stavanger,3,15,True,True
-1931,Adams Matkasse,Stavanger,5,14,False,False
-1932,Godtlevert,Oslo,4,3,False,False
-1933,Linas Matkasse,Stavanger,4,18,False,False
-1934,Linas Matkasse,Stavanger,3,21,False,False
-1935,Adams Matkasse,Oslo,5,29,True,False
-1936,Adams Matkasse,Tromso,3,6,False,False
-1937,Godtlevert,Trondheim,3,8,False,False
-1938,Godtlevert,Trondheim,4,19,False,False
-1939,Linas Matkasse,Stavanger,5,3,False,False
-1940,Adams Matkasse,Trondheim,3,6,False,False
-1941,Adams Matkasse,Trondheim,3,27,False,False
-1942,Adams Matkasse,Bergen,4,41,True,True
-1943,Linas Matkasse,Tromso,3,25,False,False
-1944,Adams Matkasse,Tromso,4,6,True,True
-1945,Godtlevert,Oslo,3,43,True,True
-1946,Adams Matkasse,Stavanger,3,22,True,True
-1947,Adams Matkasse,Oslo,3,31,True,True
-1948,Linas Matkasse,Bergen,5,8,True,True
-1949,Adams Matkasse,Tromso,5,25,False,False
-1950,Adams Matkasse,Oslo,4,3,False,False
-1951,Linas Matkasse,Bergen,4,27,False,False
-1952,Godtlevert,Bergen,5,8,True,True
-1953,Adams Matkasse,Stavanger,3,40,True,True
-1954,Godtlevert,Trondheim,4,2,False,False
-1955,Linas Matkasse,Trondheim,5,28,False,False
-1956,Godtlevert,Tromso,5,6,False,False
-1957,Godtlevert,Trondheim,3,30,False,False
-1958,Godtlevert,Stavanger,5,21,False,False
-1959,Godtlevert,Oslo,4,42,False,False
-1960,Adams Matkasse,Bergen,5,28,False,False
-1961,Linas Matkasse,Tromso,3,16,False,False
-1962,Linas Matkasse,Tromso,4,3,False,False
-1963,Adams Matkasse,Stavanger,5,26,True,True
-1964,Linas Matkasse,Bergen,3,19,True,False
-1965,Linas Matkasse,Oslo,5,2,True,True
-1966,Linas Matkasse,Tromso,3,25,False,False
-1967,Godtlevert,Stavanger,5,9,False,False
-1968,Godtlevert,Bergen,4,10,True,True
-1969,Linas Matkasse,Trondheim,3,0,False,False
-1970,Adams Matkasse,Stavanger,3,16,True,True
-1971,Linas Matkasse,Trondheim,5,9,True,True
-1972,Linas Matkasse,Tromso,3,3,False,False
-1973,Linas Matkasse,Oslo,4,19,True,False
-1974,Godtlevert,Bergen,3,9,True,True
-1975,Godtlevert,Oslo,5,5,True,True
-1976,Adams Matkasse,Stavanger,4,20,True,False
-1977,Linas Matkasse,Stavanger,5,2,False,False
-1978,Godtlevert,Tromso,3,43,False,False
-1979,Adams Matkasse,Trondheim,3,20,False,False
-1980,Linas Matkasse,Oslo,4,43,False,False
-1981,Godtlevert,Trondheim,4,38,True,False
-1982,Godtlevert,Oslo,5,43,False,False
-1983,Adams Matkasse,Stavanger,5,23,True,True
-1984,Linas Matkasse,Stavanger,5,18,True,False
-1985,Godtlevert,Tromso,3,31,False,False
-1986,Linas Matkasse,Bergen,3,3,True,False
-1987,Linas Matkasse,Bergen,5,36,True,False
-1988,Adams Matkasse,Oslo,4,14,True,False
-1989,Adams Matkasse,Trondheim,5,0,False,False
-1990,Linas Matkasse,Trondheim,4,10,True,True
-1991,Godtlevert,Stavanger,3,10,True,True
-1992,Godtlevert,Stavanger,4,0,False,False
-1993,Adams Matkasse,Oslo,5,29,True,False
-1994,Godtlevert,Bergen,4,4,False,False
-1995,Linas Matkasse,Trondheim,3,37,True,True
-1996,Adams Matkasse,Bergen,3,19,False,False
-1997,Godtlevert,Oslo,5,31,False,False
-1998,Linas Matkasse,Tromso,5,14,False,False
-1999,Adams Matkasse,Stavanger,5,5,False,False
-2000,Adams Matkasse,Trondheim,3,7,True,True
+1,Linas Matkasse,Uppsala,3,27,False,False
+2,RetNemt,Copenhagen,5,36,False,False
+3,GodtLevert,Bergen,3,28,True,False
+4,GodtLevert,Bergen,4,26,True,False
+5,GodtLevert,Stavanger,5,20,True,False
+6,RetNemt,Copenhagen,5,10,True,False
+7,Linas Matkasse,Gothenburg,3,12,False,False
+8,RetNemt,Copenhagen,4,32,False,False
+9,Linas Matkasse,Uppsala,3,3,False,False
+10,Linas Matkasse,Malmo,3,3,False,False
+11,GodtLevert,Bergen,4,17,True,True
+12,RetNemt,Aarhus,5,34,True,False
+13,RetNemt,Copenhagen,5,28,True,False
+14,RetNemt,Aalborg,4,25,True,False
+15,RetNemt,Odense,3,23,False,False
+16,RetNemt,Aarhus,3,4,True,True
+17,GodtLevert,Bergen,3,14,True,True
+18,Linas Matkasse,Malmo,3,3,True,True
+19,RetNemt,Odense,3,33,True,False
+20,GodtLevert,Bergen,5,33,False,False
+21,GodtLevert,Bergen,3,11,True,False
+22,GodtLevert,Trondheim,3,12,True,True
+23,Linas Matkasse,Malmo,4,13,True,True
+24,RetNemt,Odense,3,39,False,False
+25,RetNemt,Copenhagen,4,21,False,False
+26,GodtLevert,Bergen,3,33,False,False
+27,GodtLevert,Trondheim,3,19,True,True
+28,RetNemt,Aalborg,4,30,True,False
+29,GodtLevert,Trondheim,5,23,False,False
+30,GodtLevert,Bergen,4,12,True,True
+31,GodtLevert,Trondheim,4,38,True,False
+32,Linas Matkasse,Stockholm,4,31,False,False
+33,Linas Matkasse,Stockholm,3,33,True,False
+34,GodtLevert,Trondheim,3,41,True,True
+35,RetNemt,Aalborg,4,10,False,False
+36,Linas Matkasse,Uppsala,3,4,True,False
+37,RetNemt,Odense,5,25,True,True
+38,RetNemt,Copenhagen,4,14,True,True
+39,Linas Matkasse,Uppsala,3,19,False,False
+40,GodtLevert,Bergen,4,10,True,True
+41,Linas Matkasse,Gothenburg,3,17,True,True
+42,RetNemt,Aalborg,4,17,False,False
+43,RetNemt,Odense,5,15,False,False
+44,GodtLevert,Trondheim,3,32,False,False
+45,Linas Matkasse,Gothenburg,4,26,True,False
+46,RetNemt,Aalborg,3,20,True,True
+47,GodtLevert,Bergen,4,4,False,False
+48,RetNemt,Odense,3,25,False,False
+49,RetNemt,Aalborg,4,7,True,False
+50,RetNemt,Odense,4,13,False,False
+51,RetNemt,Copenhagen,3,18,True,True
+52,Linas Matkasse,Gothenburg,4,6,False,False
+53,GodtLevert,Bergen,5,17,False,False
+54,GodtLevert,Stavanger,5,11,True,False
+55,GodtLevert,Trondheim,3,37,False,False
+56,Linas Matkasse,Gothenburg,4,37,False,False
+57,GodtLevert,Trondheim,5,0,True,False
+58,Linas Matkasse,Malmo,4,26,True,False
+59,RetNemt,Aarhus,3,28,False,False
+60,RetNemt,Aarhus,4,16,True,True
+61,RetNemt,Aalborg,3,20,True,True
+62,RetNemt,Odense,3,34,True,False
+63,GodtLevert,Oslo,4,16,False,False
+64,RetNemt,Odense,4,2,True,True
+65,GodtLevert,Trondheim,5,16,False,False
+66,Linas Matkasse,Malmo,4,11,True,False
+67,RetNemt,Odense,5,16,True,True
+68,GodtLevert,Stavanger,4,10,False,False
+69,Linas Matkasse,Gothenburg,5,6,True,False
+70,GodtLevert,Bergen,3,43,True,True
+71,RetNemt,Copenhagen,3,5,True,False
+72,Linas Matkasse,Malmo,5,31,False,False
+73,GodtLevert,Bergen,5,31,True,True
+74,Linas Matkasse,Gothenburg,5,27,True,False
+75,RetNemt,Odense,3,40,True,True
+76,GodtLevert,Bergen,3,0,True,True
+77,Linas Matkasse,Gothenburg,5,13,True,False
+78,Linas Matkasse,Gothenburg,4,8,False,False
+79,GodtLevert,Bergen,3,25,True,True
+80,RetNemt,Copenhagen,5,27,True,False
+81,RetNemt,Aalborg,5,39,False,False
+82,GodtLevert,Oslo,3,16,False,False
+83,Linas Matkasse,Gothenburg,5,10,True,False
+84,RetNemt,Odense,5,40,True,True
+85,GodtLevert,Oslo,4,29,True,True
+86,RetNemt,Odense,4,33,False,False
+87,Linas Matkasse,Malmo,3,19,True,True
+88,Linas Matkasse,Malmo,5,19,True,False
+89,RetNemt,Aarhus,5,17,True,True
+90,RetNemt,Copenhagen,5,32,True,True
+91,GodtLevert,Stavanger,5,9,True,True
+92,RetNemt,Aarhus,3,42,True,True
+93,RetNemt,Aalborg,4,7,False,False
+94,GodtLevert,Oslo,4,20,False,False
+95,RetNemt,Copenhagen,5,13,False,False
+96,Linas Matkasse,Uppsala,4,28,False,False
+97,Linas Matkasse,Uppsala,4,29,True,True
+98,RetNemt,Aalborg,3,40,False,False
+99,GodtLevert,Stavanger,5,34,False,False
+100,Linas Matkasse,Stockholm,4,10,False,False
+101,RetNemt,Aalborg,3,9,False,False
+102,Linas Matkasse,Malmo,5,39,True,False
+103,RetNemt,Copenhagen,3,21,True,False
+104,Linas Matkasse,Stockholm,3,4,True,False
+105,RetNemt,Aalborg,3,36,True,False
+106,RetNemt,Aarhus,4,28,True,False
+107,RetNemt,Aalborg,3,1,True,True
+108,GodtLevert,Oslo,5,34,True,True
+109,GodtLevert,Bergen,4,26,False,False
+110,RetNemt,Aarhus,3,27,False,False
+111,Linas Matkasse,Gothenburg,3,38,False,False
+112,RetNemt,Odense,4,21,True,True
+113,GodtLevert,Stavanger,3,20,False,False
+114,GodtLevert,Stavanger,5,27,False,False
+115,GodtLevert,Trondheim,3,8,False,False
+116,GodtLevert,Oslo,4,6,False,False
+117,Linas Matkasse,Uppsala,3,37,True,False
+118,Linas Matkasse,Malmo,3,9,True,True
+119,Linas Matkasse,Malmo,3,22,False,False
+120,Linas Matkasse,Malmo,3,11,False,False
+121,GodtLevert,Stavanger,5,10,True,False
+122,RetNemt,Aalborg,5,26,True,False
+123,GodtLevert,Trondheim,5,35,True,False
+124,GodtLevert,Trondheim,3,19,True,True
+125,RetNemt,Odense,5,6,False,False
+126,GodtLevert,Bergen,4,10,False,False
+127,Linas Matkasse,Gothenburg,3,7,True,False
+128,RetNemt,Odense,3,38,True,False
+129,GodtLevert,Oslo,4,14,True,True
+130,GodtLevert,Bergen,4,16,True,True
+131,GodtLevert,Trondheim,3,3,False,False
+132,GodtLevert,Stavanger,5,19,False,False
+133,Linas Matkasse,Malmo,5,40,False,False
+134,GodtLevert,Bergen,4,18,True,True
+135,RetNemt,Aarhus,5,28,False,False
+136,Linas Matkasse,Malmo,5,8,False,False
+137,GodtLevert,Trondheim,5,6,True,True
+138,Linas Matkasse,Stockholm,3,32,False,False
+139,GodtLevert,Trondheim,5,2,False,False
+140,GodtLevert,Bergen,4,19,False,False
+141,RetNemt,Odense,5,13,True,False
+142,Linas Matkasse,Uppsala,5,0,True,True
+143,Linas Matkasse,Uppsala,3,23,True,False
+144,GodtLevert,Trondheim,4,42,True,False
+145,RetNemt,Aarhus,3,3,True,False
+146,RetNemt,Aarhus,3,35,False,False
+147,Linas Matkasse,Stockholm,4,23,True,True
+148,Linas Matkasse,Uppsala,5,31,True,True
+149,RetNemt,Aalborg,5,4,False,False
+150,Linas Matkasse,Uppsala,4,38,False,False
+151,RetNemt,Aarhus,3,0,True,False
+152,Linas Matkasse,Gothenburg,4,39,False,False
+153,RetNemt,Aalborg,5,28,True,False
+154,Linas Matkasse,Malmo,5,14,True,True
+155,GodtLevert,Trondheim,3,0,False,False
+156,GodtLevert,Bergen,3,26,True,True
+157,Linas Matkasse,Gothenburg,5,3,True,True
+158,GodtLevert,Trondheim,3,26,True,False
+159,GodtLevert,Stavanger,3,34,False,False
+160,RetNemt,Aarhus,3,11,True,True
+161,RetNemt,Aalborg,4,10,False,False
+162,GodtLevert,Oslo,4,9,True,False
+163,GodtLevert,Bergen,4,9,False,False
+164,GodtLevert,Stavanger,3,5,True,True
+165,GodtLevert,Stavanger,5,10,True,True
+166,RetNemt,Aalborg,5,29,False,False
+167,Linas Matkasse,Gothenburg,4,13,False,False
+168,Linas Matkasse,Uppsala,3,34,True,True
+169,GodtLevert,Stavanger,4,36,True,False
+170,Linas Matkasse,Uppsala,5,33,True,True
+171,Linas Matkasse,Stockholm,4,23,True,False
+172,Linas Matkasse,Malmo,3,13,False,False
+173,RetNemt,Aalborg,4,40,True,False
+174,RetNemt,Aalborg,4,9,False,False
+175,RetNemt,Copenhagen,4,20,True,True
+176,GodtLevert,Stavanger,4,19,True,False
+177,RetNemt,Copenhagen,3,32,True,True
+178,Linas Matkasse,Gothenburg,5,24,True,False
+179,RetNemt,Odense,4,35,True,False
+180,GodtLevert,Bergen,4,40,False,False
+181,RetNemt,Odense,4,17,True,True
+182,Linas Matkasse,Stockholm,4,38,False,False
+183,GodtLevert,Trondheim,3,7,True,False
+184,RetNemt,Odense,5,40,True,False
+185,GodtLevert,Trondheim,3,7,True,True
+186,GodtLevert,Bergen,4,37,True,False
+187,Linas Matkasse,Gothenburg,3,17,False,False
+188,GodtLevert,Bergen,3,42,False,False
+189,Linas Matkasse,Gothenburg,3,5,False,False
+190,Linas Matkasse,Malmo,5,20,False,False
+191,RetNemt,Aarhus,4,39,True,False
+192,GodtLevert,Bergen,4,2,True,False
+193,GodtLevert,Bergen,5,11,False,False
+194,GodtLevert,Oslo,3,3,True,False
+195,RetNemt,Odense,4,14,True,True
+196,Linas Matkasse,Uppsala,4,17,False,False
+197,GodtLevert,Bergen,4,27,False,False
+198,Linas Matkasse,Uppsala,3,11,False,False
+199,GodtLevert,Trondheim,5,6,True,True
+200,RetNemt,Copenhagen,3,7,False,False
+201,GodtLevert,Bergen,5,41,True,True
+202,RetNemt,Copenhagen,5,41,True,False
+203,GodtLevert,Oslo,4,9,True,False
+204,RetNemt,Aarhus,3,8,False,False
+205,GodtLevert,Bergen,3,2,False,False
+206,Linas Matkasse,Uppsala,5,42,False,False
+207,RetNemt,Copenhagen,5,31,True,True
+208,RetNemt,Aalborg,5,33,True,False
+209,Linas Matkasse,Stockholm,3,12,True,False
+210,RetNemt,Copenhagen,4,28,False,False
+211,Linas Matkasse,Malmo,3,2,True,True
+212,RetNemt,Aalborg,5,29,True,False
+213,RetNemt,Odense,4,25,False,False
+214,GodtLevert,Oslo,5,14,True,False
+215,RetNemt,Copenhagen,5,31,False,False
+216,Linas Matkasse,Gothenburg,5,28,True,False
+217,Linas Matkasse,Gothenburg,4,19,False,False
+218,Linas Matkasse,Uppsala,4,8,True,False
+219,GodtLevert,Bergen,4,1,True,True
+220,RetNemt,Copenhagen,3,41,True,True
+221,Linas Matkasse,Uppsala,3,12,True,True
+222,GodtLevert,Oslo,4,13,False,False
+223,RetNemt,Copenhagen,5,29,True,False
+224,Linas Matkasse,Gothenburg,4,11,True,True
+225,RetNemt,Aarhus,5,16,False,False
+226,Linas Matkasse,Malmo,3,31,True,True
+227,RetNemt,Aalborg,4,26,False,False
+228,GodtLevert,Stavanger,4,28,False,False
+229,GodtLevert,Bergen,4,0,True,True
+230,Linas Matkasse,Uppsala,3,19,False,False
+231,GodtLevert,Trondheim,3,20,True,False
+232,RetNemt,Copenhagen,5,27,True,True
+233,Linas Matkasse,Uppsala,4,6,True,False
+234,RetNemt,Copenhagen,3,7,False,False
+235,GodtLevert,Trondheim,3,33,False,False
+236,RetNemt,Aalborg,3,29,False,False
+237,GodtLevert,Oslo,5,35,False,False
+238,GodtLevert,Bergen,3,11,True,True
+239,Linas Matkasse,Gothenburg,5,43,False,False
+240,GodtLevert,Stavanger,3,12,False,False
+241,Linas Matkasse,Stockholm,4,28,False,False
+242,GodtLevert,Trondheim,3,7,False,False
+243,Linas Matkasse,Gothenburg,5,40,False,False
+244,GodtLevert,Oslo,3,14,True,False
+245,GodtLevert,Trondheim,4,35,False,False
+246,Linas Matkasse,Uppsala,3,14,False,False
+247,RetNemt,Odense,3,34,False,False
+248,GodtLevert,Oslo,3,19,True,True
+249,RetNemt,Copenhagen,5,2,False,False
+250,Linas Matkasse,Gothenburg,4,8,True,False
+251,Linas Matkasse,Malmo,4,30,True,True
+252,GodtLevert,Trondheim,4,8,False,False
+253,Linas Matkasse,Stockholm,5,12,True,True
+254,Linas Matkasse,Malmo,4,23,False,False
+255,GodtLevert,Bergen,4,11,True,True
+256,Linas Matkasse,Malmo,3,5,False,False
+257,RetNemt,Aalborg,3,27,False,False
+258,Linas Matkasse,Malmo,3,30,True,True
+259,Linas Matkasse,Stockholm,4,32,False,False
+260,GodtLevert,Stavanger,3,41,True,False
+261,RetNemt,Copenhagen,3,5,False,False
+262,Linas Matkasse,Uppsala,3,18,False,False
+263,Linas Matkasse,Stockholm,3,10,True,True
+264,RetNemt,Odense,5,39,False,False
+265,RetNemt,Copenhagen,4,23,False,False
+266,GodtLevert,Oslo,5,4,False,False
+267,GodtLevert,Trondheim,4,30,False,False
+268,GodtLevert,Trondheim,5,1,True,True
+269,GodtLevert,Oslo,3,12,False,False
+270,GodtLevert,Stavanger,4,31,True,True
+271,Linas Matkasse,Gothenburg,5,22,True,False
+272,Linas Matkasse,Gothenburg,4,33,False,False
+273,Linas Matkasse,Gothenburg,5,25,True,False
+274,RetNemt,Aarhus,3,37,False,False
+275,GodtLevert,Oslo,3,24,True,True
+276,GodtLevert,Bergen,5,2,False,False
+277,GodtLevert,Oslo,3,3,False,False
+278,RetNemt,Copenhagen,5,34,True,False
+279,Linas Matkasse,Gothenburg,5,1,True,True
+280,Linas Matkasse,Malmo,5,16,True,True
+281,Linas Matkasse,Uppsala,4,0,False,False
+282,GodtLevert,Bergen,5,13,False,False
+283,RetNemt,Aarhus,3,26,True,False
+284,GodtLevert,Stavanger,4,7,False,False
+285,GodtLevert,Trondheim,3,20,True,False
+286,RetNemt,Aalborg,5,43,True,False
+287,Linas Matkasse,Uppsala,5,3,True,True
+288,GodtLevert,Stavanger,5,2,True,True
+289,GodtLevert,Stavanger,5,11,False,False
+290,GodtLevert,Bergen,3,36,False,False
+291,RetNemt,Aarhus,3,17,False,False
+292,Linas Matkasse,Gothenburg,5,28,False,False
+293,RetNemt,Copenhagen,4,1,True,True
+294,Linas Matkasse,Malmo,3,32,True,False
+295,GodtLevert,Trondheim,5,2,False,False
+296,GodtLevert,Stavanger,5,31,False,False
+297,RetNemt,Copenhagen,4,6,False,False
+298,GodtLevert,Bergen,5,37,True,True
+299,Linas Matkasse,Stockholm,3,13,False,False
+300,Linas Matkasse,Uppsala,3,8,False,False
+301,GodtLevert,Bergen,3,14,False,False
+302,RetNemt,Copenhagen,4,0,False,False
+303,Linas Matkasse,Malmo,3,7,True,True
+304,RetNemt,Aalborg,3,26,True,False
+305,GodtLevert,Stavanger,5,13,True,False
+306,Linas Matkasse,Stockholm,5,15,True,False
+307,Linas Matkasse,Gothenburg,5,35,False,False
+308,GodtLevert,Oslo,5,5,False,False
+309,Linas Matkasse,Gothenburg,5,17,True,True
+310,Linas Matkasse,Malmo,4,8,True,True
+311,GodtLevert,Bergen,4,21,False,False
+312,RetNemt,Copenhagen,5,14,False,False
+313,Linas Matkasse,Malmo,4,2,True,True
+314,Linas Matkasse,Stockholm,3,3,False,False
+315,Linas Matkasse,Stockholm,5,37,True,False
+316,GodtLevert,Oslo,3,2,True,True
+317,RetNemt,Copenhagen,5,34,True,False
+318,RetNemt,Aarhus,4,40,False,False
+319,RetNemt,Aalborg,5,20,False,False
+320,RetNemt,Aalborg,3,13,False,False
+321,Linas Matkasse,Stockholm,4,34,True,False
+322,Linas Matkasse,Stockholm,4,43,False,False
+323,GodtLevert,Bergen,4,5,False,False
+324,RetNemt,Odense,3,42,True,False
+325,RetNemt,Odense,5,41,True,False
+326,Linas Matkasse,Uppsala,4,6,True,False
+327,Linas Matkasse,Gothenburg,5,2,False,False
+328,Linas Matkasse,Stockholm,4,31,True,True
+329,Linas Matkasse,Stockholm,3,3,True,True
+330,GodtLevert,Oslo,5,26,False,False
+331,GodtLevert,Oslo,3,2,False,False
+332,GodtLevert,Stavanger,3,30,False,False
+333,Linas Matkasse,Gothenburg,5,10,False,False
+334,RetNemt,Aalborg,5,4,True,True
+335,GodtLevert,Trondheim,5,2,False,False
+336,RetNemt,Odense,4,8,True,False
+337,RetNemt,Aarhus,5,23,True,False
+338,Linas Matkasse,Uppsala,3,3,False,False
+339,Linas Matkasse,Stockholm,5,35,True,False
+340,RetNemt,Copenhagen,4,26,True,False
+341,GodtLevert,Bergen,3,13,False,False
+342,Linas Matkasse,Gothenburg,4,43,True,True
+343,GodtLevert,Trondheim,4,28,True,False
+344,GodtLevert,Trondheim,3,29,False,False
+345,RetNemt,Odense,4,7,False,False
+346,Linas Matkasse,Gothenburg,4,31,False,False
+347,RetNemt,Aarhus,3,24,True,False
+348,RetNemt,Aalborg,3,43,False,False
+349,Linas Matkasse,Stockholm,5,21,False,False
+350,Linas Matkasse,Malmo,4,29,True,False
+351,GodtLevert,Trondheim,4,15,True,True
+352,Linas Matkasse,Uppsala,4,1,True,False
+353,Linas Matkasse,Malmo,4,5,False,False
+354,GodtLevert,Bergen,4,38,True,False
+355,RetNemt,Aarhus,4,32,False,False
+356,RetNemt,Aarhus,5,16,False,False
+357,Linas Matkasse,Gothenburg,5,30,True,False
+358,RetNemt,Copenhagen,3,0,False,False
+359,Linas Matkasse,Malmo,5,1,True,False
+360,RetNemt,Copenhagen,5,22,True,False
+361,RetNemt,Odense,3,27,False,False
+362,RetNemt,Aalborg,5,41,True,False
+363,Linas Matkasse,Uppsala,4,33,False,False
+364,RetNemt,Copenhagen,5,11,False,False
+365,Linas Matkasse,Uppsala,4,35,True,False
+366,GodtLevert,Oslo,5,21,True,False
+367,GodtLevert,Bergen,3,36,True,False
+368,Linas Matkasse,Stockholm,3,7,False,False
+369,Linas Matkasse,Stockholm,5,1,False,False
+370,RetNemt,Copenhagen,4,2,True,True
+371,GodtLevert,Oslo,4,43,False,False
+372,GodtLevert,Stavanger,3,3,False,False
+373,GodtLevert,Oslo,3,41,False,False
+374,GodtLevert,Bergen,5,31,True,True
+375,RetNemt,Odense,3,6,True,False
+376,Linas Matkasse,Uppsala,4,38,True,False
+377,RetNemt,Aalborg,3,6,True,True
+378,RetNemt,Copenhagen,3,6,True,False
+379,GodtLevert,Stavanger,3,25,True,False
+380,Linas Matkasse,Malmo,5,12,True,True
+381,Linas Matkasse,Stockholm,5,12,True,True
+382,RetNemt,Aarhus,3,8,True,False
+383,RetNemt,Aalborg,4,26,False,False
+384,Linas Matkasse,Gothenburg,4,1,False,False
+385,Linas Matkasse,Stockholm,4,10,True,False
+386,Linas Matkasse,Uppsala,5,24,False,False
+387,Linas Matkasse,Uppsala,3,21,True,False
+388,RetNemt,Aalborg,3,30,False,False
+389,RetNemt,Aalborg,4,9,False,False
+390,Linas Matkasse,Uppsala,4,28,True,False
+391,RetNemt,Aarhus,3,33,False,False
+392,Linas Matkasse,Stockholm,5,17,False,False
+393,GodtLevert,Trondheim,3,11,False,False
+394,GodtLevert,Oslo,3,24,True,False
+395,RetNemt,Aarhus,4,25,True,True
+396,RetNemt,Odense,4,4,False,False
+397,Linas Matkasse,Uppsala,3,24,True,False
+398,Linas Matkasse,Gothenburg,3,6,False,False
+399,Linas Matkasse,Gothenburg,3,25,False,False
+400,Linas Matkasse,Malmo,4,40,True,False
+401,RetNemt,Copenhagen,4,23,True,True
+402,RetNemt,Odense,3,33,True,True
+403,Linas Matkasse,Malmo,4,13,True,False
+404,RetNemt,Odense,5,40,False,False
+405,GodtLevert,Bergen,3,35,False,False
+406,GodtLevert,Stavanger,5,40,True,False
+407,GodtLevert,Bergen,3,32,False,False
+408,Linas Matkasse,Malmo,3,28,False,False
+409,RetNemt,Aarhus,3,23,False,False
+410,Linas Matkasse,Stockholm,3,40,True,False
+411,Linas Matkasse,Malmo,3,37,False,False
+412,Linas Matkasse,Stockholm,4,18,False,False
+413,Linas Matkasse,Uppsala,4,3,True,False
+414,Linas Matkasse,Malmo,5,0,False,False
+415,Linas Matkasse,Gothenburg,4,10,False,False
+416,RetNemt,Aarhus,4,2,True,True
+417,RetNemt,Odense,4,9,False,False
+418,Linas Matkasse,Gothenburg,3,4,False,False
+419,Linas Matkasse,Gothenburg,5,43,False,False
+420,GodtLevert,Bergen,3,4,True,True
+421,RetNemt,Aarhus,5,27,False,False
+422,RetNemt,Aalborg,5,15,False,False
+423,RetNemt,Copenhagen,5,7,False,False
+424,GodtLevert,Stavanger,4,30,True,True
+425,GodtLevert,Bergen,3,42,True,True
+426,Linas Matkasse,Malmo,5,34,False,False
+427,RetNemt,Copenhagen,3,42,True,True
+428,RetNemt,Aarhus,4,25,True,True
+429,Linas Matkasse,Uppsala,5,29,True,False
+430,RetNemt,Aarhus,5,6,False,False
+431,Linas Matkasse,Stockholm,5,37,True,True
+432,RetNemt,Odense,3,32,False,False
+433,RetNemt,Copenhagen,5,11,False,False
+434,Linas Matkasse,Gothenburg,3,15,False,False
+435,GodtLevert,Bergen,4,26,False,False
+436,Linas Matkasse,Malmo,5,0,True,False
+437,GodtLevert,Trondheim,4,35,False,False
+438,RetNemt,Odense,5,12,True,False
+439,Linas Matkasse,Uppsala,4,3,False,False
+440,GodtLevert,Oslo,3,14,True,True
+441,RetNemt,Aarhus,3,36,False,False
+442,Linas Matkasse,Stockholm,4,12,False,False
+443,Linas Matkasse,Stockholm,5,23,True,False
+444,GodtLevert,Oslo,4,35,False,False
+445,GodtLevert,Trondheim,5,1,True,False
+446,GodtLevert,Stavanger,4,33,True,True
+447,Linas Matkasse,Uppsala,3,12,True,False
+448,RetNemt,Odense,3,30,True,False
+449,GodtLevert,Stavanger,4,8,False,False
+450,Linas Matkasse,Stockholm,5,6,False,False
+451,RetNemt,Aalborg,5,34,True,False
+452,RetNemt,Aalborg,3,35,False,False
+453,GodtLevert,Oslo,4,43,False,False
+454,Linas Matkasse,Gothenburg,5,29,False,False
+455,GodtLevert,Stavanger,4,20,True,True
+456,GodtLevert,Bergen,3,8,False,False
+457,Linas Matkasse,Uppsala,4,12,True,True
+458,GodtLevert,Stavanger,3,28,False,False
+459,RetNemt,Aarhus,3,15,False,False
+460,Linas Matkasse,Stockholm,4,21,False,False
+461,RetNemt,Aarhus,3,7,True,False
+462,Linas Matkasse,Stockholm,4,19,True,False
+463,RetNemt,Aarhus,4,10,False,False
+464,GodtLevert,Trondheim,4,4,True,True
+465,Linas Matkasse,Gothenburg,4,5,True,False
+466,RetNemt,Copenhagen,3,22,False,False
+467,Linas Matkasse,Gothenburg,5,16,False,False
+468,GodtLevert,Trondheim,5,4,True,False
+469,Linas Matkasse,Stockholm,5,22,True,True
+470,RetNemt,Copenhagen,5,7,False,False
+471,RetNemt,Aalborg,4,0,True,True
+472,RetNemt,Copenhagen,5,5,True,False
+473,GodtLevert,Bergen,4,19,True,True
+474,GodtLevert,Oslo,3,41,True,True
+475,GodtLevert,Oslo,5,10,False,False
+476,RetNemt,Aarhus,3,12,True,False
+477,RetNemt,Odense,5,10,True,False
+478,Linas Matkasse,Stockholm,4,15,False,False
+479,GodtLevert,Oslo,5,31,True,True
+480,Linas Matkasse,Stockholm,4,14,True,False
+481,Linas Matkasse,Malmo,4,28,False,False
+482,RetNemt,Aalborg,3,39,False,False
+483,Linas Matkasse,Stockholm,5,41,True,False
+484,RetNemt,Aarhus,3,24,True,False
+485,GodtLevert,Bergen,4,31,True,True
+486,Linas Matkasse,Gothenburg,4,40,True,True
+487,GodtLevert,Oslo,4,34,False,False
+488,GodtLevert,Oslo,3,13,False,False
+489,RetNemt,Odense,4,5,False,False
+490,GodtLevert,Bergen,4,5,False,False
+491,RetNemt,Aarhus,3,38,True,True
+492,RetNemt,Aarhus,3,24,False,False
+493,RetNemt,Aalborg,5,13,False,False
+494,GodtLevert,Trondheim,3,15,True,True
+495,Linas Matkasse,Gothenburg,3,12,False,False
+496,GodtLevert,Oslo,4,35,True,False
+497,Linas Matkasse,Uppsala,3,26,False,False
+498,GodtLevert,Stavanger,4,38,False,False
+499,RetNemt,Copenhagen,3,13,True,False
+500,GodtLevert,Stavanger,4,20,False,False
+501,Linas Matkasse,Malmo,5,5,True,False
+502,GodtLevert,Oslo,4,42,False,False
+503,RetNemt,Aalborg,5,22,True,False
+504,RetNemt,Copenhagen,5,24,True,False
+505,Linas Matkasse,Stockholm,3,18,True,True
+506,GodtLevert,Oslo,4,11,False,False
+507,GodtLevert,Bergen,3,41,True,False
+508,Linas Matkasse,Malmo,4,21,False,False
+509,Linas Matkasse,Gothenburg,3,29,True,False
+510,Linas Matkasse,Stockholm,5,1,True,True
+511,RetNemt,Copenhagen,3,12,True,True
+512,RetNemt,Aalborg,4,35,True,False
+513,RetNemt,Aalborg,3,3,False,False
+514,RetNemt,Aalborg,5,4,True,True
+515,RetNemt,Copenhagen,5,35,False,False
+516,Linas Matkasse,Uppsala,5,13,False,False
+517,RetNemt,Odense,4,12,False,False
+518,Linas Matkasse,Malmo,3,24,False,False
+519,GodtLevert,Oslo,5,8,False,False
+520,GodtLevert,Stavanger,4,1,False,False
+521,GodtLevert,Bergen,5,0,False,False
+522,Linas Matkasse,Stockholm,5,3,False,False
+523,Linas Matkasse,Stockholm,4,6,False,False
+524,RetNemt,Aarhus,5,30,True,False
+525,Linas Matkasse,Stockholm,5,13,False,False
+526,Linas Matkasse,Gothenburg,4,3,True,True
+527,RetNemt,Aarhus,3,0,False,False
+528,Linas Matkasse,Uppsala,3,20,False,False
+529,RetNemt,Copenhagen,4,36,False,False
+530,RetNemt,Odense,4,14,False,False
+531,GodtLevert,Stavanger,3,2,False,False
+532,Linas Matkasse,Uppsala,3,10,False,False
+533,Linas Matkasse,Uppsala,5,21,True,True
+534,Linas Matkasse,Stockholm,5,8,True,False
+535,GodtLevert,Stavanger,3,43,True,True
+536,Linas Matkasse,Uppsala,4,33,True,True
+537,GodtLevert,Bergen,3,15,False,False
+538,Linas Matkasse,Gothenburg,5,41,False,False
+539,GodtLevert,Trondheim,5,14,False,False
+540,Linas Matkasse,Gothenburg,5,6,True,False
+541,RetNemt,Aarhus,4,41,False,False
+542,Linas Matkasse,Uppsala,4,42,True,False
+543,Linas Matkasse,Uppsala,5,13,False,False
+544,Linas Matkasse,Gothenburg,4,26,False,False
+545,RetNemt,Aalborg,4,7,True,False
+546,Linas Matkasse,Gothenburg,5,28,True,False
+547,GodtLevert,Stavanger,4,30,True,False
+548,GodtLevert,Trondheim,5,31,True,True
+549,GodtLevert,Bergen,4,25,True,True
+550,RetNemt,Copenhagen,5,30,True,False
+551,RetNemt,Odense,3,24,True,True
+552,GodtLevert,Bergen,3,36,True,True
+553,RetNemt,Copenhagen,3,7,True,False
+554,Linas Matkasse,Stockholm,4,21,False,False
+555,RetNemt,Aalborg,5,18,True,True
+556,GodtLevert,Oslo,3,23,False,False
+557,RetNemt,Aalborg,3,6,True,False
+558,RetNemt,Aalborg,5,14,True,True
+559,RetNemt,Copenhagen,5,41,True,True
+560,RetNemt,Odense,4,4,False,False
+561,GodtLevert,Trondheim,4,27,True,False
+562,Linas Matkasse,Gothenburg,4,29,False,False
+563,GodtLevert,Trondheim,3,20,True,True
+564,Linas Matkasse,Gothenburg,3,1,False,False
+565,RetNemt,Aarhus,5,1,True,False
+566,Linas Matkasse,Gothenburg,4,12,True,False
+567,Linas Matkasse,Uppsala,5,4,False,False
+568,Linas Matkasse,Malmo,5,4,True,True
+569,GodtLevert,Bergen,3,7,True,False
+570,GodtLevert,Stavanger,3,8,False,False
+571,RetNemt,Aalborg,5,36,True,False
+572,GodtLevert,Stavanger,3,28,True,True
+573,Linas Matkasse,Malmo,4,1,True,False
+574,Linas Matkasse,Gothenburg,5,27,True,True
+575,Linas Matkasse,Uppsala,5,6,False,False
+576,GodtLevert,Bergen,5,18,False,False
+577,RetNemt,Aarhus,3,1,False,False
+578,GodtLevert,Bergen,3,3,True,True
+579,RetNemt,Aalborg,3,5,False,False
+580,Linas Matkasse,Malmo,3,19,False,False
+581,Linas Matkasse,Gothenburg,3,20,True,False
+582,RetNemt,Aarhus,5,15,False,False
+583,Linas Matkasse,Gothenburg,3,27,False,False
+584,Linas Matkasse,Malmo,5,31,False,False
+585,GodtLevert,Bergen,4,32,True,True
+586,RetNemt,Odense,4,25,True,True
+587,RetNemt,Aarhus,3,24,False,False
+588,Linas Matkasse,Gothenburg,3,21,False,False
+589,RetNemt,Aalborg,4,10,True,True
+590,RetNemt,Aarhus,3,21,True,True
+591,RetNemt,Copenhagen,5,0,False,False
+592,RetNemt,Aarhus,3,42,True,True
+593,Linas Matkasse,Malmo,3,16,True,True
+594,RetNemt,Copenhagen,5,33,False,False
+595,Linas Matkasse,Gothenburg,4,42,True,True
+596,RetNemt,Copenhagen,3,21,True,False
+597,GodtLevert,Trondheim,5,37,True,True
+598,RetNemt,Odense,3,21,False,False
+599,GodtLevert,Stavanger,5,5,True,False
+600,GodtLevert,Bergen,5,1,False,False
+601,GodtLevert,Stavanger,5,5,False,False
+602,RetNemt,Copenhagen,5,41,False,False
+603,RetNemt,Aalborg,3,20,False,False
+604,Linas Matkasse,Malmo,5,14,False,False
+605,RetNemt,Aalborg,3,19,True,True
+606,GodtLevert,Stavanger,4,11,False,False
+607,Linas Matkasse,Malmo,3,38,False,False
+608,GodtLevert,Bergen,4,43,False,False
+609,RetNemt,Odense,5,3,True,True
+610,RetNemt,Aalborg,4,31,True,True
+611,RetNemt,Aalborg,3,14,False,False
+612,GodtLevert,Stavanger,3,2,True,False
+613,RetNemt,Copenhagen,5,40,False,False
+614,GodtLevert,Trondheim,4,2,True,True
+615,RetNemt,Copenhagen,4,9,False,False
+616,GodtLevert,Trondheim,4,1,False,False
+617,Linas Matkasse,Uppsala,3,20,True,False
+618,Linas Matkasse,Stockholm,4,26,True,False
+619,Linas Matkasse,Malmo,4,14,False,False
+620,Linas Matkasse,Uppsala,5,3,True,True
+621,GodtLevert,Stavanger,4,5,True,True
+622,GodtLevert,Bergen,5,41,False,False
+623,Linas Matkasse,Stockholm,5,35,True,True
+624,GodtLevert,Stavanger,3,41,False,False
+625,GodtLevert,Stavanger,4,23,True,False
+626,Linas Matkasse,Malmo,4,24,True,False
+627,GodtLevert,Stavanger,3,34,False,False
+628,GodtLevert,Oslo,3,27,True,False
+629,GodtLevert,Trondheim,5,19,True,False
+630,GodtLevert,Oslo,4,12,False,False
+631,RetNemt,Aalborg,3,21,False,False
+632,Linas Matkasse,Malmo,3,2,False,False
+633,GodtLevert,Stavanger,3,8,False,False
+634,GodtLevert,Trondheim,3,32,True,True
+635,Linas Matkasse,Stockholm,3,38,True,True
+636,RetNemt,Copenhagen,5,4,False,False
+637,Linas Matkasse,Gothenburg,5,4,False,False
+638,Linas Matkasse,Malmo,4,3,False,False
+639,RetNemt,Copenhagen,4,34,True,False
+640,RetNemt,Aalborg,5,13,True,False
+641,RetNemt,Copenhagen,5,14,True,True
+642,RetNemt,Aarhus,3,0,False,False
+643,RetNemt,Copenhagen,5,42,False,False
+644,GodtLevert,Bergen,3,19,True,False
+645,RetNemt,Aarhus,3,35,True,True
+646,Linas Matkasse,Stockholm,4,31,True,True
+647,GodtLevert,Trondheim,5,6,True,True
+648,GodtLevert,Stavanger,3,35,False,False
+649,RetNemt,Aalborg,3,24,False,False
+650,RetNemt,Aarhus,3,26,True,True
+651,GodtLevert,Stavanger,4,8,False,False
+652,GodtLevert,Stavanger,5,37,False,False
+653,Linas Matkasse,Uppsala,3,40,True,True
+654,RetNemt,Aarhus,3,17,True,True
+655,GodtLevert,Stavanger,3,4,True,True
+656,GodtLevert,Trondheim,3,37,True,True
+657,RetNemt,Copenhagen,3,39,False,False
+658,GodtLevert,Bergen,4,22,False,False
+659,Linas Matkasse,Malmo,4,25,True,True
+660,Linas Matkasse,Stockholm,4,9,True,False
+661,Linas Matkasse,Gothenburg,5,2,False,False
+662,RetNemt,Aalborg,4,41,True,False
+663,Linas Matkasse,Stockholm,3,21,False,False
+664,Linas Matkasse,Gothenburg,4,12,False,False
+665,GodtLevert,Oslo,3,30,False,False
+666,RetNemt,Odense,5,1,False,False
+667,GodtLevert,Oslo,3,3,False,False
+668,RetNemt,Aalborg,3,10,False,False
+669,RetNemt,Copenhagen,5,19,True,True
+670,Linas Matkasse,Uppsala,4,16,True,False
+671,RetNemt,Aalborg,3,8,True,True
+672,GodtLevert,Stavanger,5,15,True,False
+673,GodtLevert,Stavanger,3,14,True,False
+674,Linas Matkasse,Stockholm,5,23,True,False
+675,GodtLevert,Stavanger,5,24,True,False
+676,RetNemt,Odense,4,38,True,False
+677,GodtLevert,Stavanger,4,35,True,True
+678,Linas Matkasse,Uppsala,4,12,False,False
+679,GodtLevert,Trondheim,4,39,False,False
+680,RetNemt,Aarhus,3,22,False,False
+681,RetNemt,Copenhagen,3,8,False,False
+682,Linas Matkasse,Stockholm,3,14,False,False
+683,RetNemt,Aarhus,5,32,False,False
+684,RetNemt,Aalborg,3,36,True,False
+685,Linas Matkasse,Malmo,4,16,False,False
+686,RetNemt,Aarhus,5,6,True,False
+687,GodtLevert,Oslo,5,8,False,False
+688,GodtLevert,Trondheim,3,4,False,False
+689,GodtLevert,Trondheim,3,30,True,False
+690,RetNemt,Aalborg,5,22,False,False
+691,RetNemt,Odense,3,19,True,False
+692,RetNemt,Odense,3,29,True,True
+693,RetNemt,Aalborg,5,36,True,False
+694,RetNemt,Aarhus,5,35,True,False
+695,Linas Matkasse,Uppsala,5,6,True,True
+696,Linas Matkasse,Gothenburg,5,25,False,False
+697,RetNemt,Copenhagen,3,38,False,False
+698,GodtLevert,Bergen,3,34,True,False
+699,Linas Matkasse,Stockholm,3,14,False,False
+700,Linas Matkasse,Stockholm,3,17,True,False
+701,GodtLevert,Stavanger,5,39,True,True
+702,GodtLevert,Stavanger,3,1,False,False
+703,Linas Matkasse,Stockholm,4,23,False,False
+704,Linas Matkasse,Uppsala,5,5,True,True
+705,Linas Matkasse,Stockholm,5,39,True,True
+706,GodtLevert,Bergen,3,1,False,False
+707,Linas Matkasse,Malmo,4,1,False,False
+708,GodtLevert,Bergen,4,14,True,True
+709,GodtLevert,Trondheim,5,8,True,True
+710,GodtLevert,Stavanger,4,21,True,False
+711,RetNemt,Copenhagen,3,13,False,False
+712,GodtLevert,Oslo,5,15,False,False
+713,RetNemt,Aalborg,5,24,False,False
+714,RetNemt,Odense,4,24,True,True
+715,RetNemt,Odense,3,41,False,False
+716,RetNemt,Aarhus,4,21,False,False
+717,GodtLevert,Bergen,5,24,True,False
+718,GodtLevert,Trondheim,5,29,False,False
+719,Linas Matkasse,Malmo,4,7,True,True
+720,GodtLevert,Oslo,3,29,True,True
+721,Linas Matkasse,Malmo,4,37,False,False
+722,RetNemt,Odense,5,13,True,False
+723,RetNemt,Copenhagen,5,7,False,False
+724,Linas Matkasse,Gothenburg,3,15,False,False
+725,RetNemt,Aalborg,3,12,True,True
+726,Linas Matkasse,Malmo,4,25,True,True
+727,RetNemt,Copenhagen,3,38,False,False
+728,Linas Matkasse,Stockholm,5,26,True,False
+729,GodtLevert,Trondheim,3,5,False,False
+730,GodtLevert,Bergen,4,13,True,False
+731,RetNemt,Aalborg,5,30,True,True
+732,GodtLevert,Trondheim,5,14,False,False
+733,RetNemt,Aalborg,5,25,True,True
+734,RetNemt,Copenhagen,3,30,False,False
+735,Linas Matkasse,Gothenburg,5,14,False,False
+736,RetNemt,Copenhagen,4,28,True,False
+737,RetNemt,Odense,3,17,False,False
+738,GodtLevert,Oslo,4,5,False,False
+739,RetNemt,Aarhus,4,16,False,False
+740,RetNemt,Aarhus,4,19,True,False
+741,RetNemt,Copenhagen,3,0,True,False
+742,RetNemt,Copenhagen,4,39,False,False
+743,GodtLevert,Trondheim,4,23,False,False
+744,Linas Matkasse,Uppsala,3,1,False,False
+745,RetNemt,Copenhagen,5,38,False,False
+746,GodtLevert,Bergen,3,37,False,False
+747,GodtLevert,Oslo,5,0,True,False
+748,Linas Matkasse,Uppsala,3,7,False,False
+749,Linas Matkasse,Gothenburg,5,16,True,True
+750,Linas Matkasse,Uppsala,4,22,True,True
+751,RetNemt,Copenhagen,3,31,False,False
+752,Linas Matkasse,Stockholm,3,18,True,True
+753,Linas Matkasse,Malmo,5,26,True,True
+754,RetNemt,Odense,5,0,False,False
+755,GodtLevert,Stavanger,3,28,False,False
+756,GodtLevert,Stavanger,4,40,False,False
+757,RetNemt,Aalborg,4,23,False,False
+758,GodtLevert,Trondheim,3,20,True,False
+759,Linas Matkasse,Gothenburg,4,13,False,False
+760,RetNemt,Aarhus,5,41,True,False
+761,Linas Matkasse,Stockholm,5,1,True,False
+762,GodtLevert,Bergen,5,12,True,False
+763,RetNemt,Aarhus,3,6,True,False
+764,RetNemt,Copenhagen,3,38,False,False
+765,GodtLevert,Oslo,4,21,True,True
+766,RetNemt,Odense,3,40,False,False
+767,GodtLevert,Bergen,4,29,True,False
+768,GodtLevert,Stavanger,3,24,True,False
+769,Linas Matkasse,Gothenburg,3,22,False,False
+770,GodtLevert,Stavanger,3,8,False,False
+771,GodtLevert,Trondheim,3,24,False,False
+772,RetNemt,Copenhagen,5,30,True,False
+773,Linas Matkasse,Stockholm,3,42,True,False
+774,RetNemt,Odense,5,24,False,False
+775,RetNemt,Odense,3,41,False,False
+776,RetNemt,Aarhus,3,41,True,False
+777,GodtLevert,Trondheim,4,22,False,False
+778,Linas Matkasse,Uppsala,5,19,False,False
+779,Linas Matkasse,Gothenburg,3,6,False,False
+780,RetNemt,Copenhagen,3,11,True,True
+781,RetNemt,Aarhus,5,38,False,False
+782,GodtLevert,Stavanger,4,6,True,True
+783,Linas Matkasse,Uppsala,4,17,False,False
+784,Linas Matkasse,Uppsala,5,30,True,True
+785,GodtLevert,Stavanger,5,10,True,True
+786,GodtLevert,Oslo,4,42,True,False
+787,Linas Matkasse,Gothenburg,4,28,False,False
+788,RetNemt,Copenhagen,3,1,False,False
+789,GodtLevert,Oslo,3,10,False,False
+790,Linas Matkasse,Uppsala,4,32,False,False
+791,Linas Matkasse,Uppsala,3,37,False,False
+792,GodtLevert,Oslo,5,40,False,False
+793,RetNemt,Odense,5,37,True,False
+794,RetNemt,Odense,3,3,False,False
+795,GodtLevert,Oslo,4,32,True,False
+796,Linas Matkasse,Uppsala,3,4,True,False
+797,RetNemt,Aalborg,4,3,True,False
+798,GodtLevert,Trondheim,3,30,True,False
+799,Linas Matkasse,Malmo,4,21,False,False
+800,GodtLevert,Bergen,4,28,False,False
+801,Linas Matkasse,Uppsala,4,37,True,True
+802,Linas Matkasse,Gothenburg,4,3,False,False
+803,GodtLevert,Stavanger,3,23,True,False
+804,RetNemt,Copenhagen,5,36,True,False
+805,RetNemt,Copenhagen,5,19,True,True
+806,RetNemt,Aalborg,5,23,True,False
+807,GodtLevert,Bergen,4,21,True,False
+808,Linas Matkasse,Gothenburg,5,39,True,True
+809,GodtLevert,Stavanger,4,2,True,True
+810,RetNemt,Copenhagen,5,38,True,True
+811,Linas Matkasse,Malmo,3,35,False,False
+812,RetNemt,Aarhus,3,35,True,False
+813,RetNemt,Copenhagen,4,18,True,False
+814,Linas Matkasse,Uppsala,4,22,False,False
+815,RetNemt,Copenhagen,5,16,True,True
+816,RetNemt,Copenhagen,3,11,False,False
+817,Linas Matkasse,Malmo,5,38,True,True
+818,Linas Matkasse,Uppsala,3,22,False,False
+819,GodtLevert,Oslo,4,31,False,False
+820,RetNemt,Odense,5,4,False,False
+821,Linas Matkasse,Malmo,4,34,False,False
+822,GodtLevert,Stavanger,5,28,True,True
+823,Linas Matkasse,Stockholm,5,43,True,False
+824,GodtLevert,Stavanger,5,5,True,True
+825,GodtLevert,Trondheim,4,23,False,False
+826,Linas Matkasse,Uppsala,4,22,True,False
+827,RetNemt,Aarhus,3,23,True,False
+828,RetNemt,Aalborg,4,2,False,False
+829,RetNemt,Odense,5,20,True,True
+830,Linas Matkasse,Stockholm,4,13,True,False
+831,Linas Matkasse,Uppsala,4,27,False,False
+832,Linas Matkasse,Uppsala,3,10,True,False
+833,GodtLevert,Bergen,4,19,False,False
+834,Linas Matkasse,Malmo,3,27,False,False
+835,RetNemt,Aarhus,5,2,False,False
+836,RetNemt,Odense,4,34,True,True
+837,RetNemt,Aalborg,3,31,True,False
+838,Linas Matkasse,Uppsala,3,2,False,False
+839,Linas Matkasse,Stockholm,5,2,False,False
+840,RetNemt,Aalborg,5,37,False,False
+841,Linas Matkasse,Gothenburg,5,12,True,False
+842,GodtLevert,Trondheim,3,37,True,False
+843,RetNemt,Aalborg,3,21,True,True
+844,Linas Matkasse,Gothenburg,3,15,True,True
+845,Linas Matkasse,Gothenburg,5,12,True,True
+846,Linas Matkasse,Gothenburg,5,28,False,False
+847,Linas Matkasse,Uppsala,5,4,True,True
+848,Linas Matkasse,Gothenburg,3,17,False,False
+849,RetNemt,Aarhus,3,15,False,False
+850,GodtLevert,Bergen,5,6,True,True
+851,RetNemt,Copenhagen,5,15,False,False
+852,RetNemt,Aarhus,5,23,False,False
+853,RetNemt,Copenhagen,3,29,True,True
+854,Linas Matkasse,Stockholm,3,3,True,False
+855,Linas Matkasse,Malmo,3,38,False,False
+856,RetNemt,Copenhagen,5,38,False,False
+857,Linas Matkasse,Malmo,5,30,False,False
+858,Linas Matkasse,Uppsala,4,40,False,False
+859,RetNemt,Odense,3,18,True,True
+860,RetNemt,Aarhus,5,36,False,False
+861,RetNemt,Copenhagen,3,31,False,False
+862,RetNemt,Aalborg,5,24,False,False
+863,Linas Matkasse,Uppsala,5,7,False,False
+864,RetNemt,Odense,5,24,False,False
+865,RetNemt,Copenhagen,5,39,False,False
+866,RetNemt,Copenhagen,4,43,True,False
+867,RetNemt,Aarhus,4,19,False,False
+868,RetNemt,Copenhagen,3,10,True,False
+869,GodtLevert,Stavanger,5,32,False,False
+870,Linas Matkasse,Stockholm,5,3,False,False
+871,GodtLevert,Bergen,3,6,False,False
+872,Linas Matkasse,Uppsala,5,24,True,True
+873,Linas Matkasse,Uppsala,3,43,False,False
+874,Linas Matkasse,Stockholm,4,14,True,True
+875,RetNemt,Aarhus,3,19,True,True
+876,GodtLevert,Trondheim,4,14,True,False
+877,GodtLevert,Trondheim,4,19,False,False
+878,RetNemt,Aalborg,4,0,True,True
+879,GodtLevert,Stavanger,5,26,False,False
+880,GodtLevert,Stavanger,5,26,True,False
+881,Linas Matkasse,Stockholm,4,13,False,False
+882,RetNemt,Copenhagen,5,11,False,False
+883,GodtLevert,Trondheim,4,33,False,False
+884,Linas Matkasse,Stockholm,3,8,False,False
+885,RetNemt,Aarhus,3,2,False,False
+886,RetNemt,Copenhagen,3,1,False,False
+887,Linas Matkasse,Uppsala,5,38,False,False
+888,Linas Matkasse,Stockholm,4,16,True,True
+889,Linas Matkasse,Stockholm,4,4,True,False
+890,Linas Matkasse,Stockholm,4,38,False,False
+891,Linas Matkasse,Stockholm,5,6,True,True
+892,RetNemt,Odense,4,14,False,False
+893,GodtLevert,Bergen,3,0,False,False
+894,RetNemt,Aalborg,3,29,True,False
+895,RetNemt,Aarhus,4,30,False,False
+896,GodtLevert,Trondheim,4,33,False,False
+897,GodtLevert,Trondheim,5,11,False,False
+898,Linas Matkasse,Malmo,4,14,False,False
+899,Linas Matkasse,Uppsala,5,41,False,False
+900,GodtLevert,Oslo,4,36,False,False
+901,Linas Matkasse,Malmo,4,1,False,False
+902,Linas Matkasse,Uppsala,4,30,True,True
+903,Linas Matkasse,Uppsala,4,35,False,False
+904,RetNemt,Odense,5,24,False,False
+905,GodtLevert,Trondheim,3,28,True,True
+906,RetNemt,Aalborg,4,0,True,False
+907,GodtLevert,Trondheim,3,1,False,False
+908,Linas Matkasse,Uppsala,5,1,True,True
+909,GodtLevert,Oslo,5,6,False,False
+910,Linas Matkasse,Gothenburg,4,43,True,True
+911,RetNemt,Copenhagen,5,27,True,True
+912,Linas Matkasse,Stockholm,4,34,False,False
+913,GodtLevert,Bergen,3,13,True,False
+914,RetNemt,Copenhagen,4,41,True,True
+915,GodtLevert,Bergen,5,8,False,False
+916,GodtLevert,Bergen,3,39,False,False
+917,GodtLevert,Trondheim,3,1,True,True
+918,RetNemt,Aalborg,3,0,False,False
+919,Linas Matkasse,Uppsala,5,3,False,False
+920,GodtLevert,Bergen,4,34,False,False
+921,RetNemt,Aarhus,5,11,True,True
+922,GodtLevert,Stavanger,5,19,True,False
+923,GodtLevert,Oslo,4,20,False,False
+924,Linas Matkasse,Malmo,5,34,False,False
+925,Linas Matkasse,Gothenburg,3,15,True,True
+926,RetNemt,Copenhagen,3,0,False,False
+927,GodtLevert,Trondheim,4,17,True,False
+928,Linas Matkasse,Gothenburg,4,12,False,False
+929,GodtLevert,Oslo,3,32,False,False
+930,GodtLevert,Trondheim,3,33,False,False
+931,GodtLevert,Oslo,3,4,False,False
+932,RetNemt,Odense,5,34,True,False
+933,Linas Matkasse,Stockholm,5,3,False,False
+934,GodtLevert,Bergen,5,27,True,False
+935,GodtLevert,Stavanger,4,17,False,False
+936,RetNemt,Copenhagen,4,13,False,False
+937,Linas Matkasse,Uppsala,5,21,True,False
+938,Linas Matkasse,Malmo,4,13,True,True
+939,GodtLevert,Stavanger,3,34,True,True
+940,GodtLevert,Oslo,4,42,True,False
+941,RetNemt,Odense,5,35,True,True
+942,GodtLevert,Stavanger,4,19,False,False
+943,RetNemt,Aalborg,5,22,False,False
+944,GodtLevert,Oslo,5,19,False,False
+945,Linas Matkasse,Uppsala,3,34,False,False
+946,Linas Matkasse,Stockholm,5,24,False,False
+947,RetNemt,Odense,4,20,True,True
+948,Linas Matkasse,Gothenburg,4,18,False,False
+949,RetNemt,Odense,3,16,False,False
+950,Linas Matkasse,Malmo,4,24,False,False
+951,Linas Matkasse,Stockholm,3,30,False,False
+952,Linas Matkasse,Malmo,3,19,False,False
+953,GodtLevert,Stavanger,5,35,False,False
+954,GodtLevert,Bergen,3,36,False,False
+955,RetNemt,Aarhus,4,18,True,False
+956,GodtLevert,Stavanger,3,39,False,False
+957,GodtLevert,Oslo,3,7,True,False
+958,GodtLevert,Bergen,4,41,True,False
+959,RetNemt,Odense,5,12,False,False
+960,GodtLevert,Bergen,5,24,True,True
+961,Linas Matkasse,Uppsala,4,12,False,False
+962,GodtLevert,Bergen,4,19,True,False
+963,RetNemt,Aalborg,5,14,False,False
+964,Linas Matkasse,Stockholm,3,31,True,False
+965,RetNemt,Odense,5,3,False,False
+966,GodtLevert,Trondheim,3,36,True,False
+967,GodtLevert,Oslo,3,39,True,True
+968,Linas Matkasse,Stockholm,4,24,True,False
+969,RetNemt,Odense,3,24,False,False
+970,Linas Matkasse,Malmo,5,30,False,False
+971,Linas Matkasse,Malmo,5,8,False,False
+972,GodtLevert,Oslo,4,32,True,False
+973,GodtLevert,Trondheim,5,9,True,True
+974,GodtLevert,Stavanger,5,29,True,False
+975,Linas Matkasse,Stockholm,5,13,False,False
+976,Linas Matkasse,Gothenburg,5,32,False,False
+977,Linas Matkasse,Gothenburg,4,34,True,False
+978,GodtLevert,Stavanger,3,9,False,False
+979,GodtLevert,Bergen,5,27,False,False
+980,GodtLevert,Bergen,4,21,True,True
+981,GodtLevert,Trondheim,5,12,True,False
+982,RetNemt,Copenhagen,5,25,True,True
+983,GodtLevert,Stavanger,3,43,True,False
+984,GodtLevert,Stavanger,4,0,True,True
+985,GodtLevert,Trondheim,3,42,False,False
+986,GodtLevert,Trondheim,3,37,True,False
+987,GodtLevert,Trondheim,5,23,False,False
+988,Linas Matkasse,Uppsala,5,26,False,False
+989,Linas Matkasse,Uppsala,5,16,False,False
+990,RetNemt,Aarhus,5,5,False,False
+991,GodtLevert,Bergen,4,25,True,True
+992,GodtLevert,Trondheim,4,35,True,True
+993,Linas Matkasse,Stockholm,5,10,True,False
+994,GodtLevert,Stavanger,4,31,False,False
+995,GodtLevert,Stavanger,4,32,False,False
+996,GodtLevert,Trondheim,3,33,True,True
+997,GodtLevert,Bergen,5,14,True,True
+998,GodtLevert,Bergen,5,17,False,False
+999,RetNemt,Aarhus,5,18,True,True
+1000,GodtLevert,Trondheim,4,37,False,False
+1001,RetNemt,Aalborg,3,39,True,False
+1002,RetNemt,Odense,3,18,True,False
+1003,GodtLevert,Stavanger,4,42,True,False
+1004,RetNemt,Aalborg,5,25,True,False
+1005,Linas Matkasse,Malmo,5,16,True,False
+1006,RetNemt,Aarhus,5,0,False,False
+1007,RetNemt,Odense,4,26,True,False
+1008,GodtLevert,Bergen,5,28,False,False
+1009,RetNemt,Odense,5,42,True,False
+1010,GodtLevert,Stavanger,3,31,True,False
+1011,Linas Matkasse,Gothenburg,5,1,True,False
+1012,RetNemt,Odense,3,24,True,True
+1013,Linas Matkasse,Stockholm,4,32,True,False
+1014,Linas Matkasse,Malmo,5,21,True,True
+1015,GodtLevert,Bergen,4,18,False,False
+1016,RetNemt,Aarhus,5,35,False,False
+1017,GodtLevert,Trondheim,3,26,False,False
+1018,GodtLevert,Oslo,4,29,True,False
+1019,Linas Matkasse,Malmo,5,20,False,False
+1020,Linas Matkasse,Malmo,4,12,False,False
+1021,Linas Matkasse,Gothenburg,5,22,True,True
+1022,Linas Matkasse,Stockholm,4,42,True,False
+1023,RetNemt,Aarhus,5,26,False,False
+1024,RetNemt,Copenhagen,4,31,False,False
+1025,RetNemt,Aarhus,5,5,True,True
+1026,Linas Matkasse,Malmo,3,43,True,False
+1027,Linas Matkasse,Stockholm,3,10,False,False
+1028,Linas Matkasse,Malmo,3,42,True,True
+1029,GodtLevert,Oslo,5,19,False,False
+1030,GodtLevert,Stavanger,3,40,False,False
+1031,GodtLevert,Trondheim,3,39,False,False
+1032,Linas Matkasse,Gothenburg,5,33,False,False
+1033,RetNemt,Odense,4,40,True,True
+1034,Linas Matkasse,Stockholm,3,26,False,False
+1035,Linas Matkasse,Stockholm,3,37,False,False
+1036,RetNemt,Aalborg,3,7,False,False
+1037,RetNemt,Aalborg,5,3,True,False
+1038,Linas Matkasse,Stockholm,4,23,True,False
+1039,GodtLevert,Bergen,5,35,True,True
+1040,RetNemt,Copenhagen,3,33,True,False
+1041,RetNemt,Aarhus,4,23,False,False
+1042,RetNemt,Aarhus,3,22,False,False
+1043,GodtLevert,Bergen,4,26,False,False
+1044,GodtLevert,Trondheim,4,38,False,False
+1045,RetNemt,Copenhagen,5,37,True,False
+1046,Linas Matkasse,Uppsala,4,4,True,True
+1047,Linas Matkasse,Malmo,5,26,True,True
+1048,GodtLevert,Stavanger,4,16,True,False
+1049,RetNemt,Copenhagen,3,35,True,False
+1050,Linas Matkasse,Malmo,5,22,True,True
+1051,GodtLevert,Stavanger,4,43,True,False
+1052,GodtLevert,Oslo,3,19,False,False
+1053,GodtLevert,Stavanger,5,29,True,False
+1054,RetNemt,Aarhus,5,4,True,False
+1055,Linas Matkasse,Uppsala,3,41,True,False
+1056,RetNemt,Aarhus,5,6,False,False
+1057,GodtLevert,Stavanger,5,16,False,False
+1058,RetNemt,Copenhagen,5,36,True,False
+1059,GodtLevert,Bergen,3,42,True,True
+1060,Linas Matkasse,Gothenburg,4,21,False,False
+1061,RetNemt,Copenhagen,4,21,False,False
+1062,RetNemt,Aarhus,4,2,False,False
+1063,Linas Matkasse,Gothenburg,4,43,False,False
+1064,RetNemt,Copenhagen,4,0,False,False
+1065,RetNemt,Odense,4,1,False,False
+1066,GodtLevert,Trondheim,5,20,True,True
+1067,RetNemt,Aalborg,4,0,False,False
+1068,GodtLevert,Trondheim,3,7,True,False
+1069,GodtLevert,Oslo,3,27,False,False
+1070,Linas Matkasse,Stockholm,5,31,True,False
+1071,RetNemt,Aarhus,5,13,True,False
+1072,Linas Matkasse,Gothenburg,4,34,False,False
+1073,RetNemt,Copenhagen,3,26,False,False
+1074,GodtLevert,Stavanger,5,10,True,False
+1075,GodtLevert,Trondheim,3,31,False,False
+1076,Linas Matkasse,Malmo,4,26,True,True
+1077,RetNemt,Copenhagen,3,35,True,False
+1078,Linas Matkasse,Uppsala,3,6,False,False
+1079,GodtLevert,Oslo,5,10,True,False
+1080,RetNemt,Aarhus,4,13,True,True
+1081,RetNemt,Aarhus,3,15,False,False
+1082,RetNemt,Aalborg,4,39,True,True
+1083,RetNemt,Aarhus,3,32,True,False
+1084,GodtLevert,Oslo,4,23,True,True
+1085,Linas Matkasse,Gothenburg,4,23,False,False
+1086,RetNemt,Aarhus,4,38,True,True
+1087,RetNemt,Copenhagen,5,19,True,False
+1088,RetNemt,Copenhagen,3,9,False,False
+1089,GodtLevert,Oslo,3,6,True,True
+1090,Linas Matkasse,Gothenburg,4,14,True,True
+1091,GodtLevert,Bergen,5,28,False,False
+1092,GodtLevert,Bergen,4,20,False,False
+1093,RetNemt,Odense,3,18,True,False
+1094,GodtLevert,Oslo,5,21,False,False
+1095,Linas Matkasse,Uppsala,4,42,False,False
+1096,Linas Matkasse,Uppsala,3,43,True,True
+1097,RetNemt,Copenhagen,4,7,False,False
+1098,RetNemt,Aarhus,3,5,False,False
+1099,Linas Matkasse,Stockholm,5,10,False,False
+1100,GodtLevert,Bergen,3,37,False,False
+1101,GodtLevert,Bergen,4,20,False,False
+1102,GodtLevert,Oslo,4,38,False,False
+1103,RetNemt,Copenhagen,3,28,False,False
+1104,Linas Matkasse,Gothenburg,4,24,False,False
+1105,Linas Matkasse,Malmo,3,12,False,False
+1106,Linas Matkasse,Gothenburg,4,15,False,False
+1107,Linas Matkasse,Uppsala,5,6,False,False
+1108,RetNemt,Aarhus,5,22,True,True
+1109,RetNemt,Aalborg,3,12,True,True
+1110,Linas Matkasse,Stockholm,3,12,False,False
+1111,GodtLevert,Trondheim,4,1,True,False
+1112,Linas Matkasse,Uppsala,5,35,False,False
+1113,Linas Matkasse,Stockholm,5,41,False,False
+1114,Linas Matkasse,Uppsala,3,21,False,False
+1115,Linas Matkasse,Gothenburg,3,23,True,True
+1116,GodtLevert,Bergen,3,40,False,False
+1117,RetNemt,Odense,3,22,True,True
+1118,GodtLevert,Trondheim,4,27,False,False
+1119,RetNemt,Copenhagen,5,18,True,True
+1120,GodtLevert,Stavanger,3,22,False,False
+1121,Linas Matkasse,Malmo,5,22,False,False
+1122,Linas Matkasse,Uppsala,4,31,False,False
+1123,Linas Matkasse,Gothenburg,4,26,False,False
+1124,Linas Matkasse,Malmo,5,22,True,False
+1125,RetNemt,Aarhus,3,3,True,False
+1126,RetNemt,Aalborg,5,39,True,True
+1127,RetNemt,Aalborg,3,39,False,False
+1128,GodtLevert,Stavanger,4,8,False,False
+1129,GodtLevert,Trondheim,5,12,True,True
+1130,GodtLevert,Stavanger,4,42,True,True
+1131,GodtLevert,Bergen,3,14,True,True
+1132,RetNemt,Aarhus,4,35,False,False
+1133,RetNemt,Aalborg,4,34,True,False
+1134,RetNemt,Copenhagen,3,37,True,False
+1135,GodtLevert,Trondheim,5,0,True,False
+1136,Linas Matkasse,Stockholm,3,21,True,False
+1137,RetNemt,Odense,4,24,True,False
+1138,GodtLevert,Bergen,4,36,True,False
+1139,RetNemt,Aarhus,3,9,False,False
+1140,GodtLevert,Bergen,5,13,False,False
+1141,RetNemt,Aarhus,4,7,True,True
+1142,GodtLevert,Bergen,3,33,False,False
+1143,RetNemt,Aarhus,4,43,True,True
+1144,RetNemt,Odense,4,6,False,False
+1145,Linas Matkasse,Uppsala,4,10,False,False
+1146,GodtLevert,Trondheim,5,13,True,False
+1147,GodtLevert,Trondheim,4,39,False,False
+1148,RetNemt,Aalborg,5,19,False,False
+1149,RetNemt,Aalborg,4,12,False,False
+1150,RetNemt,Copenhagen,4,14,True,True
+1151,GodtLevert,Trondheim,3,26,True,False
+1152,GodtLevert,Oslo,4,17,True,True
+1153,GodtLevert,Oslo,3,6,False,False
+1154,RetNemt,Aalborg,5,36,False,False
+1155,Linas Matkasse,Stockholm,5,18,True,False
+1156,GodtLevert,Stavanger,5,11,False,False
+1157,Linas Matkasse,Uppsala,5,32,True,True
+1158,RetNemt,Aalborg,3,32,True,True
+1159,GodtLevert,Trondheim,3,6,False,False
+1160,GodtLevert,Stavanger,5,3,False,False
+1161,GodtLevert,Oslo,4,1,False,False
+1162,GodtLevert,Stavanger,3,33,False,False
+1163,RetNemt,Copenhagen,3,27,False,False
+1164,GodtLevert,Bergen,5,34,False,False
+1165,GodtLevert,Oslo,4,27,True,False
+1166,Linas Matkasse,Gothenburg,3,17,False,False
+1167,Linas Matkasse,Malmo,5,25,False,False
+1168,GodtLevert,Bergen,3,31,True,False
+1169,RetNemt,Aalborg,4,17,True,True
+1170,RetNemt,Odense,3,40,True,False
+1171,GodtLevert,Trondheim,4,39,True,True
+1172,GodtLevert,Stavanger,4,35,False,False
+1173,GodtLevert,Bergen,5,43,True,False
+1174,Linas Matkasse,Gothenburg,4,17,False,False
+1175,Linas Matkasse,Uppsala,3,5,True,False
+1176,GodtLevert,Trondheim,3,21,True,False
+1177,Linas Matkasse,Malmo,3,32,True,False
+1178,Linas Matkasse,Gothenburg,4,34,True,False
+1179,Linas Matkasse,Stockholm,3,17,False,False
+1180,Linas Matkasse,Stockholm,4,12,True,True
+1181,GodtLevert,Oslo,5,19,True,False
+1182,RetNemt,Copenhagen,5,35,True,False
+1183,RetNemt,Odense,4,2,True,False
+1184,GodtLevert,Oslo,5,14,False,False
+1185,GodtLevert,Trondheim,5,10,False,False
+1186,Linas Matkasse,Uppsala,4,35,True,True
+1187,Linas Matkasse,Uppsala,5,20,False,False
+1188,GodtLevert,Bergen,3,3,True,False
+1189,GodtLevert,Oslo,5,11,False,False
+1190,Linas Matkasse,Uppsala,3,1,False,False
+1191,GodtLevert,Oslo,5,20,True,True
+1192,Linas Matkasse,Malmo,5,43,False,False
+1193,Linas Matkasse,Malmo,4,24,False,False
+1194,RetNemt,Copenhagen,3,38,True,True
+1195,GodtLevert,Trondheim,4,32,False,False
+1196,GodtLevert,Oslo,4,38,False,False
+1197,RetNemt,Copenhagen,5,13,True,True
+1198,RetNemt,Aalborg,5,41,False,False
+1199,RetNemt,Aalborg,4,10,False,False
+1200,GodtLevert,Bergen,5,19,False,False
+1201,RetNemt,Aalborg,4,29,False,False
+1202,GodtLevert,Stavanger,4,12,False,False
+1203,RetNemt,Aalborg,5,11,False,False
+1204,RetNemt,Copenhagen,5,5,False,False
+1205,GodtLevert,Bergen,4,0,True,True
+1206,RetNemt,Odense,4,22,True,False
+1207,GodtLevert,Stavanger,5,43,False,False
+1208,RetNemt,Aalborg,5,9,False,False
+1209,Linas Matkasse,Gothenburg,4,19,True,True
+1210,RetNemt,Copenhagen,3,41,False,False
+1211,GodtLevert,Stavanger,3,33,False,False
+1212,RetNemt,Aarhus,3,0,False,False
+1213,GodtLevert,Bergen,4,22,True,False
+1214,RetNemt,Aalborg,4,6,False,False
+1215,Linas Matkasse,Malmo,5,10,True,False
+1216,Linas Matkasse,Gothenburg,3,10,True,True
+1217,GodtLevert,Oslo,5,26,False,False
+1218,RetNemt,Aarhus,4,8,False,False
+1219,RetNemt,Aalborg,3,11,True,False
+1220,GodtLevert,Bergen,4,9,False,False
+1221,GodtLevert,Trondheim,3,15,False,False
+1222,GodtLevert,Bergen,5,28,True,False
+1223,RetNemt,Aalborg,5,17,True,False
+1224,GodtLevert,Stavanger,5,14,False,False
+1225,GodtLevert,Trondheim,4,22,False,False
+1226,RetNemt,Aalborg,4,27,True,False
+1227,Linas Matkasse,Malmo,3,0,False,False
+1228,RetNemt,Aarhus,5,39,False,False
+1229,Linas Matkasse,Malmo,3,40,False,False
+1230,Linas Matkasse,Uppsala,3,26,False,False
+1231,RetNemt,Aalborg,3,25,True,False
+1232,RetNemt,Copenhagen,4,30,True,True
+1233,RetNemt,Odense,3,19,True,True
+1234,RetNemt,Copenhagen,3,16,False,False
+1235,GodtLevert,Trondheim,4,15,False,False
+1236,GodtLevert,Trondheim,5,7,False,False
+1237,Linas Matkasse,Gothenburg,4,37,True,False
+1238,Linas Matkasse,Uppsala,5,14,False,False
+1239,Linas Matkasse,Uppsala,5,12,True,True
+1240,Linas Matkasse,Stockholm,5,42,True,True
+1241,GodtLevert,Oslo,4,22,True,False
+1242,RetNemt,Copenhagen,5,27,False,False
+1243,RetNemt,Aalborg,5,10,True,True
+1244,GodtLevert,Trondheim,5,12,False,False
+1245,RetNemt,Odense,4,32,False,False
+1246,RetNemt,Aalborg,3,19,False,False
+1247,RetNemt,Aalborg,4,6,True,False
+1248,GodtLevert,Oslo,5,36,False,False
+1249,Linas Matkasse,Stockholm,5,17,False,False
+1250,RetNemt,Aarhus,4,29,True,False
+1251,Linas Matkasse,Gothenburg,3,15,False,False
+1252,GodtLevert,Trondheim,4,24,False,False
+1253,Linas Matkasse,Stockholm,5,34,True,False
+1254,RetNemt,Aarhus,4,38,False,False
+1255,GodtLevert,Oslo,4,9,True,True
+1256,Linas Matkasse,Stockholm,4,29,True,False
+1257,Linas Matkasse,Stockholm,3,40,False,False
+1258,GodtLevert,Oslo,3,28,True,True
+1259,GodtLevert,Trondheim,5,6,True,False
+1260,RetNemt,Aarhus,3,8,True,True
+1261,Linas Matkasse,Gothenburg,5,8,True,False
+1262,RetNemt,Aarhus,3,4,True,True
+1263,GodtLevert,Trondheim,4,33,False,False
+1264,RetNemt,Aalborg,4,42,True,True
+1265,Linas Matkasse,Malmo,5,22,True,False
+1266,Linas Matkasse,Malmo,5,26,False,False
+1267,Linas Matkasse,Malmo,4,34,False,False
+1268,GodtLevert,Trondheim,4,18,True,False
+1269,RetNemt,Copenhagen,5,20,True,True
+1270,Linas Matkasse,Uppsala,4,25,True,False
+1271,GodtLevert,Oslo,3,13,True,True
+1272,Linas Matkasse,Gothenburg,4,2,True,True
+1273,RetNemt,Odense,3,24,False,False
+1274,RetNemt,Aarhus,4,36,False,False
+1275,RetNemt,Copenhagen,4,3,True,False
+1276,RetNemt,Aalborg,3,9,False,False
+1277,GodtLevert,Oslo,3,11,True,True
+1278,RetNemt,Copenhagen,5,35,True,True
+1279,Linas Matkasse,Uppsala,4,22,True,False
+1280,RetNemt,Odense,3,23,True,False
+1281,RetNemt,Copenhagen,5,28,False,False
+1282,RetNemt,Aalborg,5,12,True,True
+1283,GodtLevert,Stavanger,5,31,False,False
+1284,RetNemt,Copenhagen,5,1,True,False
+1285,GodtLevert,Bergen,5,5,False,False
+1286,Linas Matkasse,Gothenburg,4,35,False,False
+1287,RetNemt,Copenhagen,3,28,True,False
+1288,Linas Matkasse,Stockholm,5,7,True,False
+1289,Linas Matkasse,Stockholm,3,19,False,False
+1290,GodtLevert,Oslo,3,2,False,False
+1291,Linas Matkasse,Gothenburg,5,29,True,True
+1292,RetNemt,Aarhus,5,33,False,False
+1293,GodtLevert,Oslo,4,12,True,True
+1294,Linas Matkasse,Gothenburg,5,15,True,False
+1295,RetNemt,Copenhagen,5,10,False,False
+1296,GodtLevert,Stavanger,5,17,True,True
+1297,Linas Matkasse,Stockholm,3,11,True,False
+1298,RetNemt,Aalborg,4,10,True,False
+1299,GodtLevert,Trondheim,3,18,True,True
+1300,Linas Matkasse,Uppsala,5,37,True,False
+1301,RetNemt,Odense,3,33,True,False
+1302,GodtLevert,Bergen,5,13,False,False
+1303,RetNemt,Odense,3,41,False,False
+1304,RetNemt,Aarhus,4,9,True,False
+1305,GodtLevert,Oslo,3,40,True,True
+1306,RetNemt,Aarhus,5,13,False,False
+1307,Linas Matkasse,Gothenburg,4,23,True,False
+1308,Linas Matkasse,Stockholm,5,8,True,False
+1309,GodtLevert,Oslo,3,33,False,False
+1310,RetNemt,Aalborg,4,13,True,True
+1311,GodtLevert,Trondheim,5,38,False,False
+1312,GodtLevert,Bergen,5,3,False,False
+1313,RetNemt,Aalborg,3,22,False,False
+1314,RetNemt,Copenhagen,4,6,True,False
+1315,RetNemt,Aarhus,4,39,True,True
+1316,Linas Matkasse,Uppsala,4,18,True,False
+1317,RetNemt,Odense,4,29,False,False
+1318,GodtLevert,Bergen,3,38,False,False
+1319,GodtLevert,Bergen,5,23,False,False
+1320,GodtLevert,Oslo,3,2,True,False
+1321,Linas Matkasse,Stockholm,3,9,False,False
+1322,Linas Matkasse,Stockholm,5,9,False,False
+1323,GodtLevert,Stavanger,5,40,False,False
+1324,RetNemt,Odense,4,39,False,False
+1325,RetNemt,Aarhus,5,20,True,True
+1326,Linas Matkasse,Uppsala,4,39,True,False
+1327,RetNemt,Copenhagen,4,10,False,False
+1328,Linas Matkasse,Stockholm,3,29,True,True
+1329,RetNemt,Aarhus,3,17,True,True
+1330,GodtLevert,Stavanger,4,10,True,True
+1331,GodtLevert,Trondheim,4,11,True,True
+1332,RetNemt,Aalborg,5,18,False,False
+1333,GodtLevert,Oslo,4,14,True,False
+1334,RetNemt,Aalborg,5,9,True,True
+1335,GodtLevert,Oslo,4,14,False,False
+1336,RetNemt,Copenhagen,3,5,False,False
+1337,GodtLevert,Trondheim,5,42,True,False
+1338,Linas Matkasse,Stockholm,4,16,True,True
+1339,RetNemt,Aalborg,4,4,True,True
+1340,GodtLevert,Stavanger,4,25,True,False
+1341,GodtLevert,Trondheim,3,38,True,False
+1342,Linas Matkasse,Gothenburg,4,15,True,False
+1343,Linas Matkasse,Stockholm,4,37,False,False
+1344,GodtLevert,Trondheim,4,26,False,False
+1345,Linas Matkasse,Malmo,3,32,False,False
+1346,RetNemt,Aalborg,4,13,True,False
+1347,RetNemt,Odense,4,1,True,False
+1348,RetNemt,Copenhagen,4,15,False,False
+1349,RetNemt,Copenhagen,3,40,False,False
+1350,GodtLevert,Stavanger,4,34,False,False
+1351,Linas Matkasse,Stockholm,3,34,True,False
+1352,GodtLevert,Stavanger,4,38,True,False
+1353,GodtLevert,Oslo,3,16,False,False
+1354,RetNemt,Odense,4,14,False,False
+1355,Linas Matkasse,Uppsala,5,40,True,False
+1356,GodtLevert,Bergen,5,25,False,False
+1357,GodtLevert,Oslo,5,13,False,False
+1358,Linas Matkasse,Uppsala,5,12,False,False
+1359,Linas Matkasse,Stockholm,3,38,True,False
+1360,GodtLevert,Trondheim,4,2,False,False
+1361,Linas Matkasse,Uppsala,4,2,False,False
+1362,Linas Matkasse,Malmo,5,32,True,True
+1363,GodtLevert,Oslo,4,0,False,False
+1364,Linas Matkasse,Uppsala,5,7,False,False
+1365,GodtLevert,Oslo,3,43,False,False
+1366,Linas Matkasse,Malmo,3,18,True,True
+1367,Linas Matkasse,Malmo,3,32,False,False
+1368,GodtLevert,Bergen,4,21,True,False
+1369,RetNemt,Aarhus,4,3,True,False
+1370,GodtLevert,Oslo,3,8,True,True
+1371,RetNemt,Aalborg,5,33,True,True
+1372,GodtLevert,Oslo,5,4,True,False
+1373,GodtLevert,Bergen,4,26,True,True
+1374,GodtLevert,Trondheim,3,15,False,False
+1375,RetNemt,Odense,5,16,True,False
+1376,RetNemt,Odense,5,41,False,False
+1377,RetNemt,Odense,3,26,True,True
+1378,RetNemt,Odense,3,27,False,False
+1379,GodtLevert,Stavanger,4,15,False,False
+1380,GodtLevert,Bergen,4,16,False,False
+1381,RetNemt,Aalborg,3,30,False,False
+1382,Linas Matkasse,Uppsala,5,1,False,False
+1383,GodtLevert,Stavanger,4,10,True,True
+1384,RetNemt,Aalborg,4,26,True,False
+1385,GodtLevert,Stavanger,3,27,True,False
+1386,Linas Matkasse,Stockholm,5,4,True,True
+1387,GodtLevert,Stavanger,3,34,True,False
+1388,Linas Matkasse,Malmo,5,23,True,False
+1389,RetNemt,Aarhus,4,10,False,False
+1390,RetNemt,Odense,5,33,False,False
+1391,Linas Matkasse,Gothenburg,3,43,False,False
+1392,GodtLevert,Trondheim,3,18,False,False
+1393,RetNemt,Aalborg,5,12,True,True
+1394,RetNemt,Copenhagen,5,13,True,False
+1395,Linas Matkasse,Gothenburg,4,26,False,False
+1396,GodtLevert,Stavanger,3,2,False,False
+1397,GodtLevert,Bergen,5,21,True,False
+1398,GodtLevert,Stavanger,4,1,True,True
+1399,Linas Matkasse,Stockholm,5,1,True,True
+1400,Linas Matkasse,Malmo,5,18,True,False
+1401,RetNemt,Aalborg,5,32,True,True
+1402,Linas Matkasse,Uppsala,5,38,True,False
+1403,Linas Matkasse,Stockholm,5,3,False,False
+1404,Linas Matkasse,Uppsala,4,10,False,False
+1405,Linas Matkasse,Gothenburg,3,18,False,False
+1406,Linas Matkasse,Gothenburg,4,25,False,False
+1407,GodtLevert,Bergen,5,43,False,False
+1408,RetNemt,Odense,5,30,True,False
+1409,Linas Matkasse,Malmo,4,23,False,False
+1410,Linas Matkasse,Gothenburg,5,2,True,False
+1411,Linas Matkasse,Stockholm,3,3,False,False
+1412,GodtLevert,Stavanger,4,6,True,True
+1413,Linas Matkasse,Stockholm,4,29,False,False
+1414,RetNemt,Copenhagen,5,14,False,False
+1415,GodtLevert,Trondheim,3,10,True,True
+1416,RetNemt,Aarhus,3,29,True,True
+1417,GodtLevert,Trondheim,4,35,True,False
+1418,GodtLevert,Stavanger,3,19,False,False
+1419,RetNemt,Copenhagen,4,38,False,False
+1420,GodtLevert,Bergen,4,32,True,False
+1421,RetNemt,Odense,5,31,False,False
+1422,RetNemt,Aalborg,5,38,True,True
+1423,GodtLevert,Trondheim,3,8,True,True
+1424,RetNemt,Aarhus,3,33,True,True
+1425,Linas Matkasse,Malmo,3,42,False,False
+1426,RetNemt,Aalborg,3,43,True,False
+1427,RetNemt,Aarhus,5,25,True,False
+1428,RetNemt,Aalborg,3,33,True,True
+1429,Linas Matkasse,Uppsala,3,39,False,False
+1430,RetNemt,Aarhus,5,37,False,False
+1431,GodtLevert,Oslo,5,39,False,False
+1432,Linas Matkasse,Uppsala,3,36,False,False
+1433,Linas Matkasse,Stockholm,3,16,False,False
+1434,GodtLevert,Bergen,4,32,True,False
+1435,Linas Matkasse,Stockholm,4,18,False,False
+1436,Linas Matkasse,Malmo,5,35,True,False
+1437,GodtLevert,Bergen,4,35,True,False
+1438,GodtLevert,Trondheim,3,41,True,False
+1439,Linas Matkasse,Uppsala,4,25,True,False
+1440,RetNemt,Aalborg,4,20,False,False
+1441,RetNemt,Aalborg,4,7,False,False
+1442,GodtLevert,Oslo,4,28,False,False
+1443,RetNemt,Aarhus,5,24,True,False
+1444,GodtLevert,Oslo,5,22,False,False
+1445,Linas Matkasse,Uppsala,3,29,False,False
+1446,Linas Matkasse,Malmo,4,37,True,True
+1447,RetNemt,Aarhus,5,6,False,False
+1448,RetNemt,Odense,4,18,False,False
+1449,RetNemt,Odense,4,31,True,True
+1450,Linas Matkasse,Gothenburg,3,36,False,False
+1451,Linas Matkasse,Gothenburg,3,34,False,False
+1452,Linas Matkasse,Stockholm,5,35,True,False
+1453,Linas Matkasse,Gothenburg,5,37,True,True
+1454,Linas Matkasse,Gothenburg,5,42,False,False
+1455,GodtLevert,Stavanger,3,26,False,False
+1456,Linas Matkasse,Uppsala,3,10,False,False
+1457,RetNemt,Aalborg,3,24,False,False
+1458,GodtLevert,Oslo,4,31,False,False
+1459,Linas Matkasse,Uppsala,4,4,False,False
+1460,GodtLevert,Bergen,5,33,False,False
+1461,RetNemt,Aarhus,5,23,False,False
+1462,Linas Matkasse,Uppsala,3,41,True,True
+1463,Linas Matkasse,Uppsala,5,9,False,False
+1464,Linas Matkasse,Stockholm,3,39,False,False
+1465,RetNemt,Aarhus,3,19,False,False
+1466,Linas Matkasse,Malmo,4,25,False,False
+1467,GodtLevert,Trondheim,3,29,False,False
+1468,GodtLevert,Bergen,4,25,True,True
+1469,RetNemt,Odense,4,39,True,True
+1470,Linas Matkasse,Uppsala,3,7,True,False
+1471,RetNemt,Copenhagen,4,32,True,False
+1472,RetNemt,Odense,4,42,True,True
+1473,GodtLevert,Trondheim,5,9,True,False
+1474,Linas Matkasse,Uppsala,3,11,True,True
+1475,RetNemt,Aarhus,3,20,True,False
+1476,Linas Matkasse,Stockholm,4,31,False,False
+1477,GodtLevert,Trondheim,3,42,False,False
+1478,GodtLevert,Trondheim,5,35,True,False
+1479,Linas Matkasse,Gothenburg,3,34,True,True
+1480,GodtLevert,Stavanger,4,19,True,False
+1481,Linas Matkasse,Uppsala,5,28,True,False
+1482,Linas Matkasse,Stockholm,3,9,True,False
+1483,Linas Matkasse,Uppsala,3,20,True,True
+1484,Linas Matkasse,Stockholm,5,8,True,False
+1485,GodtLevert,Bergen,4,1,False,False
+1486,RetNemt,Copenhagen,3,37,False,False
+1487,Linas Matkasse,Gothenburg,3,35,False,False
+1488,Linas Matkasse,Uppsala,5,22,True,False
+1489,Linas Matkasse,Gothenburg,5,0,True,True
+1490,GodtLevert,Trondheim,4,3,False,False
+1491,Linas Matkasse,Stockholm,4,4,True,False
+1492,GodtLevert,Trondheim,5,31,False,False
+1493,Linas Matkasse,Gothenburg,3,8,False,False
+1494,Linas Matkasse,Malmo,3,11,False,False
+1495,GodtLevert,Stavanger,5,37,True,True
+1496,GodtLevert,Trondheim,3,38,False,False
+1497,GodtLevert,Oslo,5,33,True,False
+1498,RetNemt,Aarhus,4,13,True,False
+1499,GodtLevert,Oslo,5,25,True,True
+1500,RetNemt,Aarhus,3,8,False,False
+1501,GodtLevert,Oslo,5,37,False,False
+1502,Linas Matkasse,Malmo,3,3,True,False
+1503,Linas Matkasse,Gothenburg,3,32,True,True
+1504,Linas Matkasse,Stockholm,5,22,False,False
+1505,GodtLevert,Oslo,4,33,False,False
+1506,Linas Matkasse,Uppsala,5,19,True,True
+1507,RetNemt,Aalborg,3,6,True,False
+1508,GodtLevert,Stavanger,3,33,False,False
+1509,RetNemt,Copenhagen,4,27,False,False
+1510,RetNemt,Aarhus,5,20,False,False
+1511,GodtLevert,Stavanger,4,16,True,True
+1512,Linas Matkasse,Malmo,5,15,True,True
+1513,RetNemt,Copenhagen,5,21,True,False
+1514,Linas Matkasse,Stockholm,5,11,True,False
+1515,Linas Matkasse,Gothenburg,4,12,False,False
+1516,RetNemt,Aalborg,5,12,True,True
+1517,GodtLevert,Oslo,4,0,False,False
+1518,Linas Matkasse,Uppsala,5,40,False,False
+1519,GodtLevert,Trondheim,4,10,False,False
+1520,GodtLevert,Stavanger,4,7,False,False
+1521,RetNemt,Aalborg,4,6,False,False
+1522,RetNemt,Aarhus,4,43,True,True
+1523,Linas Matkasse,Uppsala,5,20,True,False
+1524,Linas Matkasse,Stockholm,5,14,True,True
+1525,GodtLevert,Bergen,4,17,False,False
+1526,Linas Matkasse,Stockholm,3,3,False,False
+1527,Linas Matkasse,Stockholm,4,13,True,False
+1528,Linas Matkasse,Stockholm,3,10,True,True
+1529,Linas Matkasse,Stockholm,3,35,True,True
+1530,RetNemt,Copenhagen,3,2,True,False
+1531,Linas Matkasse,Gothenburg,4,18,False,False
+1532,Linas Matkasse,Stockholm,5,34,True,True
+1533,RetNemt,Copenhagen,4,36,False,False
+1534,Linas Matkasse,Uppsala,4,22,False,False
+1535,RetNemt,Copenhagen,3,9,True,False
+1536,Linas Matkasse,Stockholm,5,14,True,True
+1537,Linas Matkasse,Stockholm,3,9,False,False
+1538,Linas Matkasse,Stockholm,5,29,False,False
+1539,RetNemt,Odense,5,12,True,True
+1540,GodtLevert,Stavanger,5,27,True,False
+1541,GodtLevert,Trondheim,3,28,False,False
+1542,Linas Matkasse,Malmo,3,41,False,False
+1543,Linas Matkasse,Stockholm,3,16,False,False
+1544,GodtLevert,Stavanger,5,42,False,False
+1545,Linas Matkasse,Stockholm,3,17,False,False
+1546,GodtLevert,Trondheim,5,29,True,True
+1547,RetNemt,Aarhus,3,29,False,False
+1548,RetNemt,Aalborg,3,35,True,False
+1549,GodtLevert,Bergen,3,20,False,False
+1550,Linas Matkasse,Malmo,5,34,False,False
+1551,Linas Matkasse,Gothenburg,4,15,False,False
+1552,RetNemt,Odense,4,21,False,False
+1553,GodtLevert,Stavanger,4,21,False,False
+1554,GodtLevert,Trondheim,4,30,False,False
+1555,GodtLevert,Bergen,4,27,False,False
+1556,Linas Matkasse,Gothenburg,4,3,False,False
+1557,RetNemt,Odense,3,35,True,False
+1558,RetNemt,Aarhus,3,33,True,False
+1559,RetNemt,Copenhagen,4,4,False,False
+1560,RetNemt,Aarhus,3,42,False,False
+1561,Linas Matkasse,Stockholm,4,29,False,False
+1562,Linas Matkasse,Stockholm,3,3,False,False
+1563,Linas Matkasse,Gothenburg,5,21,True,True
+1564,RetNemt,Aalborg,3,36,True,True
+1565,GodtLevert,Stavanger,3,12,False,False
+1566,GodtLevert,Bergen,4,41,True,True
+1567,RetNemt,Aarhus,3,18,False,False
+1568,GodtLevert,Oslo,4,9,False,False
+1569,RetNemt,Aalborg,3,15,False,False
+1570,RetNemt,Copenhagen,3,23,True,True
+1571,Linas Matkasse,Uppsala,5,30,False,False
+1572,GodtLevert,Stavanger,5,40,True,False
+1573,RetNemt,Odense,3,8,True,False
+1574,RetNemt,Aarhus,5,42,True,False
+1575,Linas Matkasse,Uppsala,5,23,True,False
+1576,Linas Matkasse,Malmo,4,5,False,False
+1577,GodtLevert,Trondheim,4,40,False,False
+1578,RetNemt,Aalborg,5,15,True,False
+1579,Linas Matkasse,Uppsala,4,27,False,False
+1580,GodtLevert,Oslo,4,30,False,False
+1581,Linas Matkasse,Uppsala,4,0,False,False
+1582,Linas Matkasse,Uppsala,5,9,False,False
+1583,GodtLevert,Oslo,5,30,False,False
+1584,GodtLevert,Bergen,3,14,True,False
+1585,GodtLevert,Stavanger,4,0,True,True
+1586,Linas Matkasse,Stockholm,5,1,True,False
+1587,RetNemt,Aarhus,3,36,False,False
+1588,Linas Matkasse,Malmo,5,6,False,False
+1589,RetNemt,Odense,5,4,True,True
+1590,Linas Matkasse,Uppsala,5,24,True,False
+1591,RetNemt,Copenhagen,3,5,False,False
+1592,GodtLevert,Bergen,4,28,True,False
+1593,GodtLevert,Stavanger,4,23,False,False
+1594,Linas Matkasse,Malmo,4,28,False,False
+1595,RetNemt,Copenhagen,5,21,True,True
+1596,Linas Matkasse,Gothenburg,4,34,True,True
+1597,GodtLevert,Bergen,4,28,True,False
+1598,RetNemt,Odense,5,18,True,True
+1599,RetNemt,Aarhus,5,0,False,False
+1600,RetNemt,Odense,5,12,False,False
+1601,Linas Matkasse,Gothenburg,4,5,True,False
+1602,RetNemt,Odense,5,0,False,False
+1603,RetNemt,Copenhagen,3,12,True,False
+1604,Linas Matkasse,Malmo,4,9,True,False
+1605,Linas Matkasse,Uppsala,4,3,False,False
+1606,RetNemt,Copenhagen,3,13,False,False
+1607,Linas Matkasse,Gothenburg,4,22,False,False
+1608,GodtLevert,Trondheim,4,7,True,False
+1609,Linas Matkasse,Malmo,4,12,False,False
+1610,Linas Matkasse,Malmo,3,0,True,True
+1611,RetNemt,Odense,3,2,False,False
+1612,Linas Matkasse,Malmo,3,6,False,False
+1613,RetNemt,Odense,4,19,False,False
+1614,RetNemt,Copenhagen,3,29,True,True
+1615,Linas Matkasse,Uppsala,4,34,True,False
+1616,Linas Matkasse,Gothenburg,5,27,False,False
+1617,RetNemt,Copenhagen,5,27,True,False
+1618,GodtLevert,Bergen,3,41,False,False
+1619,Linas Matkasse,Gothenburg,5,11,False,False
+1620,RetNemt,Copenhagen,3,35,False,False
+1621,Linas Matkasse,Uppsala,3,41,True,False
+1622,Linas Matkasse,Stockholm,3,24,False,False
+1623,RetNemt,Aarhus,3,36,True,False
+1624,Linas Matkasse,Gothenburg,5,6,True,True
+1625,GodtLevert,Stavanger,3,38,False,False
+1626,RetNemt,Odense,5,24,True,False
+1627,GodtLevert,Stavanger,4,9,False,False
+1628,GodtLevert,Oslo,3,2,False,False
+1629,GodtLevert,Stavanger,4,31,False,False
+1630,Linas Matkasse,Uppsala,3,18,False,False
+1631,GodtLevert,Bergen,4,13,False,False
+1632,RetNemt,Odense,4,17,True,False
+1633,Linas Matkasse,Stockholm,4,43,False,False
+1634,RetNemt,Aalborg,3,18,True,True
+1635,GodtLevert,Stavanger,5,3,False,False
+1636,GodtLevert,Bergen,4,12,True,False
+1637,Linas Matkasse,Malmo,3,6,False,False
+1638,GodtLevert,Bergen,4,30,True,True
+1639,Linas Matkasse,Stockholm,3,35,True,True
+1640,Linas Matkasse,Malmo,5,37,True,True
+1641,RetNemt,Odense,5,27,True,True
+1642,Linas Matkasse,Uppsala,3,33,True,False
+1643,GodtLevert,Stavanger,5,18,True,True
+1644,GodtLevert,Bergen,5,27,True,False
+1645,Linas Matkasse,Uppsala,4,4,False,False
+1646,Linas Matkasse,Malmo,3,23,True,True
+1647,GodtLevert,Trondheim,5,24,False,False
+1648,GodtLevert,Trondheim,5,1,True,True
+1649,RetNemt,Aalborg,5,24,False,False
+1650,RetNemt,Odense,5,31,True,True
+1651,Linas Matkasse,Stockholm,5,16,False,False
+1652,Linas Matkasse,Stockholm,5,23,False,False
+1653,Linas Matkasse,Gothenburg,3,12,False,False
+1654,GodtLevert,Trondheim,4,11,True,True
+1655,Linas Matkasse,Malmo,3,5,False,False
+1656,Linas Matkasse,Gothenburg,3,14,True,False
+1657,RetNemt,Odense,5,35,True,False
+1658,RetNemt,Aalborg,5,41,True,False
+1659,RetNemt,Aarhus,4,27,False,False
+1660,Linas Matkasse,Gothenburg,5,27,True,False
+1661,GodtLevert,Trondheim,3,27,False,False
+1662,GodtLevert,Bergen,3,20,True,False
+1663,Linas Matkasse,Uppsala,5,18,True,False
+1664,GodtLevert,Stavanger,4,27,True,True
+1665,GodtLevert,Trondheim,4,34,True,True
+1666,GodtLevert,Bergen,4,18,False,False
+1667,RetNemt,Odense,3,24,False,False
+1668,RetNemt,Copenhagen,5,20,False,False
+1669,GodtLevert,Bergen,5,12,True,True
+1670,RetNemt,Copenhagen,5,12,True,False
+1671,RetNemt,Copenhagen,4,3,False,False
+1672,GodtLevert,Oslo,4,19,True,True
+1673,Linas Matkasse,Malmo,5,31,True,True
+1674,RetNemt,Copenhagen,4,30,False,False
+1675,RetNemt,Odense,4,43,True,False
+1676,RetNemt,Aarhus,3,1,True,True
+1677,Linas Matkasse,Gothenburg,4,33,True,True
+1678,GodtLevert,Stavanger,4,34,False,False
+1679,RetNemt,Odense,4,19,True,False
+1680,GodtLevert,Trondheim,3,12,False,False
+1681,RetNemt,Odense,3,15,True,True
+1682,Linas Matkasse,Stockholm,5,30,True,False
+1683,Linas Matkasse,Stockholm,4,37,True,True
+1684,RetNemt,Odense,4,28,False,False
+1685,GodtLevert,Stavanger,4,22,True,False
+1686,GodtLevert,Oslo,4,28,False,False
+1687,GodtLevert,Oslo,5,3,True,True
+1688,GodtLevert,Stavanger,3,26,True,False
+1689,RetNemt,Aalborg,5,1,True,False
+1690,Linas Matkasse,Stockholm,3,42,False,False
+1691,RetNemt,Aarhus,4,39,True,True
+1692,RetNemt,Odense,4,22,False,False
+1693,GodtLevert,Oslo,5,16,False,False
+1694,GodtLevert,Bergen,3,32,False,False
+1695,Linas Matkasse,Gothenburg,4,28,False,False
+1696,RetNemt,Odense,3,31,False,False
+1697,GodtLevert,Bergen,3,22,False,False
+1698,Linas Matkasse,Gothenburg,5,10,True,False
+1699,GodtLevert,Bergen,5,3,False,False
+1700,RetNemt,Aalborg,4,12,False,False
+1701,Linas Matkasse,Stockholm,4,23,True,False
+1702,Linas Matkasse,Stockholm,4,18,False,False
+1703,RetNemt,Copenhagen,3,22,False,False
+1704,Linas Matkasse,Uppsala,4,12,True,False
+1705,RetNemt,Aalborg,3,41,False,False
+1706,RetNemt,Odense,5,16,True,False
+1707,RetNemt,Copenhagen,4,37,True,False
+1708,RetNemt,Aalborg,3,17,True,True
+1709,Linas Matkasse,Gothenburg,4,19,False,False
+1710,Linas Matkasse,Uppsala,5,26,True,False
+1711,GodtLevert,Bergen,3,11,False,False
+1712,GodtLevert,Stavanger,5,9,True,False
+1713,RetNemt,Aalborg,4,16,True,True
+1714,RetNemt,Copenhagen,4,35,False,False
+1715,GodtLevert,Trondheim,5,6,True,False
+1716,RetNemt,Aarhus,4,19,False,False
+1717,GodtLevert,Bergen,3,29,True,False
+1718,GodtLevert,Bergen,5,31,False,False
+1719,GodtLevert,Trondheim,3,19,False,False
+1720,GodtLevert,Bergen,4,3,True,True
+1721,Linas Matkasse,Malmo,5,0,True,False
+1722,RetNemt,Odense,4,20,True,False
+1723,GodtLevert,Stavanger,5,35,False,False
+1724,RetNemt,Aalborg,4,1,False,False
+1725,GodtLevert,Oslo,3,39,True,True
+1726,RetNemt,Aalborg,3,29,True,True
+1727,RetNemt,Copenhagen,4,0,False,False
+1728,GodtLevert,Trondheim,3,15,True,False
+1729,GodtLevert,Bergen,4,9,False,False
+1730,Linas Matkasse,Malmo,4,41,False,False
+1731,RetNemt,Odense,5,24,True,False
+1732,RetNemt,Aalborg,3,14,False,False
+1733,RetNemt,Aarhus,5,12,True,True
+1734,RetNemt,Aalborg,4,24,True,False
+1735,RetNemt,Aarhus,4,0,False,False
+1736,RetNemt,Copenhagen,4,11,False,False
+1737,GodtLevert,Bergen,3,7,False,False
+1738,Linas Matkasse,Malmo,5,27,False,False
+1739,Linas Matkasse,Malmo,3,29,True,False
+1740,Linas Matkasse,Uppsala,3,20,False,False
+1741,GodtLevert,Oslo,5,6,False,False
+1742,RetNemt,Aarhus,4,16,True,True
+1743,GodtLevert,Stavanger,5,37,True,True
+1744,Linas Matkasse,Gothenburg,4,8,False,False
+1745,Linas Matkasse,Stockholm,3,7,False,False
+1746,RetNemt,Aalborg,3,4,True,True
+1747,RetNemt,Aarhus,4,35,False,False
+1748,GodtLevert,Stavanger,3,5,True,True
+1749,RetNemt,Aalborg,5,25,True,True
+1750,RetNemt,Aalborg,3,43,True,True
+1751,RetNemt,Odense,5,28,False,False
+1752,RetNemt,Aalborg,3,18,True,False
+1753,GodtLevert,Stavanger,3,9,True,False
+1754,GodtLevert,Bergen,3,0,True,True
+1755,GodtLevert,Oslo,3,6,False,False
+1756,Linas Matkasse,Gothenburg,4,41,False,False
+1757,GodtLevert,Trondheim,3,6,True,True
+1758,GodtLevert,Trondheim,4,0,False,False
+1759,GodtLevert,Oslo,4,35,True,False
+1760,GodtLevert,Trondheim,3,18,True,True
+1761,GodtLevert,Oslo,3,15,False,False
+1762,GodtLevert,Trondheim,3,31,False,False
+1763,Linas Matkasse,Malmo,3,23,True,True
+1764,GodtLevert,Trondheim,3,40,False,False
+1765,GodtLevert,Bergen,3,20,True,True
+1766,RetNemt,Aarhus,4,31,False,False
+1767,GodtLevert,Trondheim,3,38,False,False
+1768,GodtLevert,Trondheim,3,20,False,False
+1769,Linas Matkasse,Uppsala,4,12,True,False
+1770,Linas Matkasse,Gothenburg,4,42,False,False
+1771,GodtLevert,Bergen,3,9,False,False
+1772,GodtLevert,Bergen,3,1,True,False
+1773,GodtLevert,Trondheim,4,25,True,True
+1774,GodtLevert,Oslo,3,43,False,False
+1775,RetNemt,Aarhus,4,3,True,True
+1776,Linas Matkasse,Stockholm,5,37,False,False
+1777,Linas Matkasse,Malmo,4,36,True,True
+1778,Linas Matkasse,Uppsala,3,40,False,False
+1779,Linas Matkasse,Uppsala,5,18,True,False
+1780,RetNemt,Aarhus,3,11,False,False
+1781,Linas Matkasse,Stockholm,3,22,False,False
+1782,GodtLevert,Oslo,3,6,True,False
+1783,Linas Matkasse,Stockholm,5,37,False,False
+1784,RetNemt,Aalborg,5,29,False,False
+1785,RetNemt,Aalborg,4,21,True,True
+1786,Linas Matkasse,Malmo,4,22,True,True
+1787,Linas Matkasse,Stockholm,4,31,False,False
+1788,Linas Matkasse,Stockholm,4,23,False,False
+1789,GodtLevert,Stavanger,4,36,True,False
+1790,RetNemt,Aarhus,5,40,False,False
+1791,GodtLevert,Oslo,5,41,True,True
+1792,RetNemt,Copenhagen,3,27,True,True
+1793,GodtLevert,Bergen,4,32,False,False
+1794,Linas Matkasse,Malmo,5,13,True,True
+1795,GodtLevert,Stavanger,4,1,True,False
+1796,Linas Matkasse,Gothenburg,3,17,False,False
+1797,RetNemt,Odense,5,38,True,True
+1798,Linas Matkasse,Stockholm,4,5,True,True
+1799,GodtLevert,Oslo,4,24,False,False
+1800,GodtLevert,Oslo,4,8,False,False
+1801,Linas Matkasse,Uppsala,3,18,False,False
+1802,GodtLevert,Trondheim,4,6,False,False
+1803,GodtLevert,Stavanger,4,32,True,True
+1804,Linas Matkasse,Stockholm,5,35,True,True
+1805,Linas Matkasse,Stockholm,3,33,False,False
+1806,Linas Matkasse,Uppsala,3,31,True,False
+1807,Linas Matkasse,Stockholm,4,10,True,False
+1808,GodtLevert,Oslo,5,23,False,False
+1809,Linas Matkasse,Malmo,4,4,False,False
+1810,RetNemt,Odense,4,16,False,False
+1811,Linas Matkasse,Stockholm,5,22,True,False
+1812,GodtLevert,Bergen,4,29,True,True
+1813,RetNemt,Odense,3,4,True,False
+1814,GodtLevert,Bergen,5,35,False,False
+1815,RetNemt,Aarhus,4,20,True,True
+1816,Linas Matkasse,Stockholm,3,38,True,True
+1817,Linas Matkasse,Gothenburg,4,23,True,False
+1818,Linas Matkasse,Uppsala,5,24,False,False
+1819,Linas Matkasse,Malmo,4,30,False,False
+1820,Linas Matkasse,Uppsala,4,36,True,True
+1821,Linas Matkasse,Stockholm,4,6,True,False
+1822,RetNemt,Copenhagen,5,22,True,False
+1823,Linas Matkasse,Malmo,5,1,True,True
+1824,RetNemt,Copenhagen,3,20,False,False
+1825,RetNemt,Odense,4,35,True,True
+1826,RetNemt,Aalborg,4,38,False,False
+1827,Linas Matkasse,Gothenburg,3,12,False,False
+1828,RetNemt,Odense,5,17,False,False
+1829,GodtLevert,Trondheim,3,24,False,False
+1830,RetNemt,Copenhagen,4,17,True,True
+1831,GodtLevert,Stavanger,3,7,True,True
+1832,RetNemt,Copenhagen,3,13,True,False
+1833,GodtLevert,Stavanger,5,17,False,False
+1834,Linas Matkasse,Malmo,3,22,True,True
+1835,GodtLevert,Oslo,3,40,True,False
+1836,Linas Matkasse,Malmo,5,23,True,False
+1837,RetNemt,Copenhagen,5,17,True,False
+1838,Linas Matkasse,Malmo,3,29,False,False
+1839,Linas Matkasse,Uppsala,3,34,False,False
+1840,GodtLevert,Stavanger,5,18,False,False
+1841,GodtLevert,Stavanger,5,21,False,False
+1842,Linas Matkasse,Gothenburg,5,9,True,True
+1843,RetNemt,Odense,4,38,True,False
+1844,RetNemt,Aarhus,3,38,True,False
+1845,RetNemt,Aalborg,5,7,False,False
+1846,GodtLevert,Bergen,3,15,False,False
+1847,GodtLevert,Stavanger,3,11,True,False
+1848,GodtLevert,Bergen,5,40,False,False
+1849,GodtLevert,Trondheim,4,2,True,False
+1850,Linas Matkasse,Stockholm,3,9,True,True
+1851,Linas Matkasse,Malmo,3,13,False,False
+1852,Linas Matkasse,Stockholm,4,24,False,False
+1853,GodtLevert,Oslo,3,10,False,False
+1854,Linas Matkasse,Gothenburg,5,23,False,False
+1855,Linas Matkasse,Gothenburg,4,32,True,False
+1856,RetNemt,Odense,4,36,False,False
+1857,GodtLevert,Bergen,4,4,False,False
+1858,GodtLevert,Oslo,4,6,False,False
+1859,GodtLevert,Bergen,4,4,True,False
+1860,RetNemt,Aarhus,5,40,False,False
+1861,RetNemt,Odense,4,28,True,False
+1862,Linas Matkasse,Malmo,4,23,True,False
+1863,RetNemt,Copenhagen,4,34,False,False
+1864,GodtLevert,Trondheim,3,25,False,False
+1865,RetNemt,Odense,5,10,False,False
+1866,GodtLevert,Stavanger,4,22,False,False
+1867,Linas Matkasse,Malmo,5,30,True,True
+1868,RetNemt,Aalborg,5,1,False,False
+1869,Linas Matkasse,Stockholm,5,26,True,False
+1870,RetNemt,Odense,5,21,False,False
+1871,Linas Matkasse,Stockholm,5,3,True,False
+1872,Linas Matkasse,Stockholm,4,11,False,False
+1873,GodtLevert,Stavanger,5,19,False,False
+1874,RetNemt,Aarhus,3,15,False,False
+1875,GodtLevert,Trondheim,5,12,True,False
+1876,Linas Matkasse,Malmo,3,28,True,False
+1877,Linas Matkasse,Malmo,5,17,True,True
+1878,RetNemt,Copenhagen,3,21,True,False
+1879,RetNemt,Copenhagen,4,35,False,False
+1880,Linas Matkasse,Stockholm,3,4,True,True
+1881,GodtLevert,Stavanger,3,15,False,False
+1882,Linas Matkasse,Stockholm,5,3,True,True
+1883,Linas Matkasse,Malmo,5,40,True,True
+1884,RetNemt,Aarhus,3,8,False,False
+1885,GodtLevert,Oslo,3,36,True,True
+1886,Linas Matkasse,Gothenburg,5,8,True,True
+1887,GodtLevert,Oslo,5,14,True,True
+1888,GodtLevert,Oslo,3,26,True,False
+1889,Linas Matkasse,Stockholm,4,36,False,False
+1890,GodtLevert,Stavanger,3,7,True,False
+1891,Linas Matkasse,Malmo,5,9,True,True
+1892,Linas Matkasse,Uppsala,4,38,False,False
+1893,RetNemt,Aarhus,3,14,False,False
+1894,RetNemt,Copenhagen,3,9,False,False
+1895,Linas Matkasse,Malmo,4,32,True,True
+1896,RetNemt,Aalborg,5,4,False,False
+1897,GodtLevert,Trondheim,3,38,True,True
+1898,RetNemt,Copenhagen,5,38,True,False
+1899,RetNemt,Aarhus,4,37,False,False
+1900,GodtLevert,Stavanger,5,12,False,False
+1901,GodtLevert,Trondheim,5,5,False,False
+1902,GodtLevert,Stavanger,3,18,False,False
+1903,RetNemt,Odense,3,14,True,True
+1904,Linas Matkasse,Stockholm,5,42,False,False
+1905,Linas Matkasse,Uppsala,3,27,False,False
+1906,Linas Matkasse,Uppsala,3,41,True,False
+1907,Linas Matkasse,Malmo,4,33,True,True
+1908,Linas Matkasse,Uppsala,5,31,True,True
+1909,Linas Matkasse,Stockholm,5,4,False,False
+1910,RetNemt,Aalborg,4,3,True,True
+1911,Linas Matkasse,Stockholm,3,2,True,True
+1912,RetNemt,Aalborg,4,26,False,False
+1913,Linas Matkasse,Stockholm,5,8,False,False
+1914,RetNemt,Odense,3,43,True,True
+1915,Linas Matkasse,Uppsala,4,5,False,False
+1916,GodtLevert,Oslo,3,41,False,False
+1917,Linas Matkasse,Stockholm,3,29,False,False
+1918,GodtLevert,Stavanger,3,4,True,True
+1919,GodtLevert,Oslo,5,2,True,False
+1920,GodtLevert,Trondheim,5,17,False,False
+1921,GodtLevert,Stavanger,3,14,True,True
+1922,GodtLevert,Trondheim,5,13,False,False
+1923,RetNemt,Aarhus,4,23,True,True
+1924,GodtLevert,Bergen,5,5,False,False
+1925,GodtLevert,Trondheim,5,5,False,False
+1926,Linas Matkasse,Malmo,3,30,False,False
+1927,GodtLevert,Trondheim,5,43,False,False
+1928,Linas Matkasse,Stockholm,4,12,False,False
+1929,Linas Matkasse,Malmo,3,41,True,True
+1930,RetNemt,Odense,3,15,True,True
+1931,Linas Matkasse,Malmo,5,14,False,False
+1932,GodtLevert,Oslo,4,3,False,False
+1933,RetNemt,Odense,4,18,False,False
+1934,RetNemt,Odense,3,21,False,False
+1935,Linas Matkasse,Stockholm,5,29,True,False
+1936,Linas Matkasse,Uppsala,3,6,False,False
+1937,GodtLevert,Trondheim,3,8,False,False
+1938,GodtLevert,Bergen,4,19,False,False
+1939,RetNemt,Odense,5,3,False,False
+1940,Linas Matkasse,Malmo,3,6,False,False
+1941,Linas Matkasse,Malmo,3,27,False,False
+1942,Linas Matkasse,Gothenburg,4,41,True,True
+1943,RetNemt,Aalborg,3,25,False,False
+1944,Linas Matkasse,Uppsala,4,6,True,True
+1945,GodtLevert,Oslo,3,43,True,True
+1946,Linas Matkasse,Malmo,3,22,True,True
+1947,Linas Matkasse,Stockholm,3,31,True,True
+1948,RetNemt,Aarhus,5,8,True,True
+1949,Linas Matkasse,Uppsala,5,25,False,False
+1950,Linas Matkasse,Stockholm,4,3,False,False
+1951,RetNemt,Aarhus,4,27,False,False
+1952,GodtLevert,Oslo,5,8,True,True
+1953,Linas Matkasse,Malmo,3,40,True,True
+1954,GodtLevert,Bergen,4,2,False,False
+1955,RetNemt,Odense,5,28,False,False
+1956,GodtLevert,Stavanger,5,6,False,False
+1957,GodtLevert,Trondheim,3,30,False,False
+1958,GodtLevert,Trondheim,5,21,False,False
+1959,GodtLevert,Oslo,4,42,False,False
+1960,Linas Matkasse,Stockholm,5,28,False,False
+1961,RetNemt,Aalborg,3,16,False,False
+1962,RetNemt,Aalborg,4,3,False,False
+1963,Linas Matkasse,Malmo,5,26,True,True
+1964,RetNemt,Aarhus,3,19,True,False
+1965,RetNemt,Copenhagen,5,2,True,True
+1966,RetNemt,Aalborg,3,25,False,False
+1967,GodtLevert,Stavanger,5,9,False,False
+1968,GodtLevert,Oslo,4,10,True,True
+1969,RetNemt,Odense,3,0,False,False
+1970,Linas Matkasse,Malmo,3,16,True,True
+1971,RetNemt,Aarhus,5,9,True,True
+1972,RetNemt,Aalborg,3,3,False,False
+1973,RetNemt,Copenhagen,4,19,True,False
+1974,GodtLevert,Bergen,3,9,True,True
+1975,GodtLevert,Oslo,5,5,True,True
+1976,Linas Matkasse,Malmo,4,20,True,False
+1977,RetNemt,Odense,5,2,False,False
+1978,GodtLevert,Stavanger,3,43,False,False
+1979,Linas Matkasse,Malmo,3,20,False,False
+1980,RetNemt,Copenhagen,4,43,False,False
+1981,GodtLevert,Bergen,4,38,True,False
+1982,GodtLevert,Oslo,5,43,False,False
+1983,Linas Matkasse,Malmo,5,23,True,True
+1984,RetNemt,Odense,5,18,True,False
+1985,GodtLevert,Stavanger,3,31,False,False
+1986,RetNemt,Aarhus,3,3,True,False
+1987,RetNemt,Aarhus,5,36,True,False
+1988,Linas Matkasse,Stockholm,4,14,True,False
+1989,Linas Matkasse,Gothenburg,5,0,False,False
+1990,RetNemt,Aarhus,4,10,True,True
+1991,GodtLevert,Stavanger,3,10,True,True
+1992,GodtLevert,Stavanger,4,0,False,False
+1993,Linas Matkasse,Stockholm,5,29,True,False
+1994,GodtLevert,Bergen,4,4,False,False
+1995,RetNemt,Odense,3,37,True,True
+1996,Linas Matkasse,Gothenburg,3,19,False,False
+1997,GodtLevert,Oslo,5,31,False,False
+1998,RetNemt,Aalborg,5,14,False,False
+1999,Linas Matkasse,Malmo,5,5,False,False
+2000,Linas Matkasse,Malmo,3,7,True,True

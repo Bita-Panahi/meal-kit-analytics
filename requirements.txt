@@ -6,4 +6,5 @@ scikit-learn
 scipy
 matplotlib
 streamlit
-notebook        # Jupyter, for opening the .ipynb files
+# To run the .ipynb notebooks locally, also: pip install notebook
+# (left out of this file so the Streamlit Cloud deploy stays lean)
