@@ -61,6 +61,8 @@ To explore the analyses one step at a time, open the numbered notebooks (`01`–
 ├── 02_churn.ipynb          # Churn      (logistic regression)
 ├── 03_ab_test.ipynb        # A/B test   (two-proportion z-test)
 ├── 04_demand.ipynb         # Demand     (moving average)
+├── Charts.jpg              # Examples of the charts
+├── Dashboard_SS.png        # One screenshot of the dashboard
 └── requirements.txt
 ```
 
