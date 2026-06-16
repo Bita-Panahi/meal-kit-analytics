@@ -1,0 +1,9 @@
+# Install everything with:  pip install -r requirements.txt
+pandas
+numpy
+duckdb
+scikit-learn
+scipy
+matplotlib
+streamlit
+notebook        # Jupyter, for opening the .ipynb files
